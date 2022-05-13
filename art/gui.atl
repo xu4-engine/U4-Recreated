@@ -1,0 +1,23 @@
+image-atlas 1 512,512
+"../image/charset32.png" 0,440,512,64
+[
+  "c.ankh" 0,440,16,16
+  "c.moon0" 320,440,16,16
+  "c.prompt" 256,440,16,16
+  "c.swirl0" 449,440,16,16
+]
+"../../render/shader/gui.png" 0,0,512,2
+"/tmp/img/borderp.png" 0,2,512,400
+[
+  "b.bottomM" 266,2,170,16
+  "b.ankh_bot" 51,51,240,14
+  "b.topR" 51,34,172,15
+  "b.ankh_top" 51,66,240,14
+  "b.bottomR" 51,2,107,31
+  "b.left" 0,2,16,354
+  "b.center" 17,2,16,354
+  "b.bottomL" 159,2,106,31
+  "b.topZ" 266,19,240,15
+  "b.right" 34,2,16,191
+  "b.topL" 224,35,170,15
+]

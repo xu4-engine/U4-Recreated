@@ -1,13 +1,17 @@
-image-atlas 1 512,512
-"../image/border.png" 0,0,640,400
+image-atlas 1 512,400
+"../image/border.png" 0,8,640,400
 [
-  "b.left" 0,15,16,354
-  "b.right" 624,0,16,145
-  "b.top" 0,0,384,15
-  "b.center" 368,15,16,354
-  "b.bottom" 0,369,383,31
-  "b.ankh" 384,145,256,47
-  "b.top2" 384,0,240,15
+  "b.left" 0,23,16,354
+  "b.center" 368,23,16,354
+  "b.right" 624,8,16,191
+  "b.topL" 0,8,170,15
+  "b.bottomL" 0,377,106,31
+  "b.topZ" 384,8,240,15
+  "b.topR" 212,8,172,15
+  "b.bottomR" 276,377,107,31
+  "b.bottomM" 106,392,170,16
+  "b.ankh_top" 384,153,240,14
+  "b.ankh_bot" 384,185,240,14
 ]
 "../image/tiles.png" -24,0,16,4096
 "../image/charset32.png" 0,440,512,64
@@ -18,4 +22,4 @@ image-atlas 1 512,512
   "c.swirl0" 449,440,16,16
 ]
 "../image/shapes32.png" 0,514,512,512
-"clut.png" 0,510,512,2
+"../../render/shader/gui.png" 0,0,512,2
