@@ -31,5 +31,12 @@ draw-lists: [
     ]
 ]
 
+music: [
+    path %voice
+     9 parts %lordbritish.ogg
+    10 parts %hawkwind.ogg
+    11 parts %gypsy.ogg
+]
+
 ;include %graphics.b
 ;include %maps.b
