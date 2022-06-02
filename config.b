@@ -39,4 +39,4 @@ music: [
 ]
 
 ;include %graphics.b
-;include %maps.b
+include %maps.b
