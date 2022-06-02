@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.6.0" orientation="orthogonal"
+ renderorder="right-down" width="11" height="11"
+ tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="SHRINE" width="11" height="11">
+  <data encoding="csv">
+5,5,5,5,56,5,5,32,5,5,56,
+5,5,58,5,5,5,5,5,5,5,5,
+5,58,58,5,5,5,56,5,56,5,5,
+5,58,5,5,5,5,5,5,5,5,5,
+5,5,5,5,58,58,5,5,5,58,58,
+5,5,120,20,77,146,27,77,204,234,222,
+1,185,23,11,81,233,135,202,140,31,9,
+27,140,64,88,233,33,42,132,197,3,88,
+233,81,42,132,197,3,142,71,245,81,142,
+71,247,81,142,71,249,81,87,233,226,30,
+132,197,9,142,71,255,81,142,71,247,81
+  </data>
+ </layer>
+ <objectgroup id="1" name="start">
+  <object id="1" name="monst-0" x="72" y="72"><point/></object>
+  <object id="2" name="monst-1" x="72" y="72"><point/></object>
+  <object id="3" name="monst-2" x="920" y="72"><point/></object>
+  <object id="4" name="monst-3" x="920" y="72"><point/></object>
+  <object id="5" name="monst-4" x="72" y="72"><point/></object>
+  <object id="6" name="monst-5" x="72" y="72"><point/></object>
+  <object id="7" name="monst-6" x="72" y="920"><point/></object>
+  <object id="8" name="monst-7" x="920" y="72"><point/></object>
+  <object id="9" name="monst-8" x="920" y="72"><point/></object>
+  <object id="10" name="monst-9" x="72" y="72"><point/></object>
+  <object id="11" name="monst-10" x="72" y="888"><point/></object>
+  <object id="12" name="monst-11" x="72" y="72"><point/></object>
+  <object id="13" name="monst-12" x="72" y="888"><point/></object>
+  <object id="14" name="monst-13" x="72" y="72"><point/></object>
+  <object id="15" name="monst-14" x="72" y="72"><point/></object>
+  <object id="16" name="monst-15" x="72" y="72"><point/></object>
+  <object id="17" name="party-0" x="920" y="72"><point/></object>
+  <object id="18" name="party-1" x="920" y="72"><point/></object>
+  <object id="19" name="party-2" x="72" y="72"><point/></object>
+  <object id="20" name="party-3" x="72" y="920"><point/></object>
+  <object id="21" name="party-4" x="72" y="72"><point/></object>
+  <object id="22" name="party-5" x="72" y="72"><point/></object>
+  <object id="23" name="party-6" x="72" y="888"><point/></object>
+  <object id="24" name="party-7" x="72" y="72"><point/></object>
+ </objectgroup>
+</map>
