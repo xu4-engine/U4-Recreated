@@ -1,5 +1,5 @@
 maps: [
-    map (id: 0 type: world fname: "map/world.tmx" width: 256 height: 256 levels: 1 chunk-dim: 32 borderbehavior: wrap music: 1) [
+    map (id: 0 type: world fname: "map/world.tmx" chunk-dim: 32 borderbehavior: wrap music: 1) [
         portals [
              86,107 save-enter  1,15,30 transport: footorhorse
             218,107 save-enter  2,15,30 transport: footorhorse
@@ -116,19 +116,9 @@ maps: [
         ]
         labels [honestyrune 8,6]
     ]
-    map (id: 6 type: city fname: "map/ult_britain.tmx" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 6 type: city fname: "map/ult_britain.tmx" borderbehavior: exit music: 2) [
         city (name: "Britain" type: towne tlk_fname: "npc/britain.b") [
-            roles [
-                companion 32
-                weaponsvendor 29
-                armorvendor 28
-                foodvendor 27
-                tavernkeeper 26
-                healer 31
-                innkeeper 25
-            ]
         ]
-        labels [compassionrune 25,1]
     ]
     map (id: 7 type: city fname: "jhelom.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
         city (name: "Jhelom" type: towne tlk_fname: "jhelom.tlk") [
