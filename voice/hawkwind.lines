@@ -1,7 +1,7 @@
 name: 'hawkwind
-voice: 'cmu_rxr
+voice: 'tts_models/en/vctk/vits/p265	; p258 p265 p279 'cmu_rxr
 pitch: 0
-pre-encode: "gain -2 reverb 60 50 25 50 20 -5"
+pre-encode: "gain -2 reverb 50 60 25 50 20 -5"
 lines: [
 	"Thou art a thief and a scoundrel. Thou may not ever become an Avatar!"
 	"Thou art a cold and cruel brute.  Thou shouldst go to prison for thy crimes!"
