@@ -1,5 +1,5 @@
 name: 'hawkwind
-voice: 'tts_models/en/vctk/vits/p265	; p258 p265 p279 'cmu_rxr
+voice: 'tts_models/en/vctk/vits/p330	; p258 p265 p279 p330 'cmu_rxr
 pitch: 0
 pre-encode: "gain -2 reverb 50 60 25 50 20 -5"
 lines: [
