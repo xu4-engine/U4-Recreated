@@ -40,27 +40,27 @@
   </data>
  </layer>
  <objectgroup id="1" name="npcs">
-  <object id="1" gid="33" x="448" y="400" width="16" height="16" name="Joshua" type="S 1"/>
-  <object id="2" gid="48" x="240" y="48" width="16" height="16" name="Landri" type="S 16"/>
-  <object id="3" gid="82" x="144" y="80" width="16" height="16" name="a guard" type="W 14"/>
-  <object id="4" gid="82" x="272" y="288" width="16" height="16" name="a guard" type="S 9"/>
-  <object id="5" gid="81" x="208" y="288" width="16" height="16" name="a guard" type="S 9"/>
-  <object id="6" gid="81" x="448" y="480" width="16" height="16" name="a guard" type="W 9"/>
-  <object id="7" gid="45" x="352" y="400" width="16" height="16" name="Sheila" type="W 15"/>
-  <object id="8" gid="81" x="112" y="160" width="16" height="16" name="a guard" type="W 14"/>
-  <object id="9" gid="81" x="112" y="192" width="16" height="16" name="a guard" type="W 14"/>
-  <object id="10" gid="82" x="176" y="192" width="16" height="16" name="a guard" type="W 14"/>
-  <object id="11" gid="82" x="176" y="160" width="16" height="16" name="a guard" type="W 14"/>
-  <object id="12" gid="81" x="32" y="48" width="16" height="16" name="a guard" type="W 9"/>
-  <object id="13" gid="82" x="64" y="448" width="16" height="16" name="a guard" type="W 9"/>
-  <object id="14" gid="87" x="240" y="384" width="16" height="16" name="Chuckles" type="W 13"/>
-  <object id="15" gid="57" x="320" y="352" width="16" height="16" name="Seesha" type="S 12"/>
-  <object id="16" gid="82" x="464" y="96" width="16" height="16" name="a guard" type="W 9"/>
-  <object id="17" gid="48" x="336" y="96" width="16" height="16" name="Shawn" type="W 11"/>
-  <object id="18" gid="3" x="336" y="144" width="16" height="16" name="Water" type="S 10"/>
-  <object id="19" gid="83" x="336" y="448" width="16" height="16" type="F 0"/>
-  <object id="20" gid="83" x="144" y="448" width="16" height="16" type="F 0"/>
-  <object id="21" gid="81" x="272" y="480" width="16" height="16" name="a guard" type="S 9"/>
-  <object id="22" gid="81" x="208" y="480" width="16" height="16" name="a guard" type="S 9"/>
+  <object id="11" gid="33" x="448" y="400" width="16" height="16" name="Joshua" type="S 1"/>
+  <object id="12" gid="48" x="240" y="48" width="16" height="16" name="Landri" type="S 16"/>
+  <object id="13" gid="82" x="144" y="80" width="16" height="16" name="a guard" type="W 14"/>
+  <object id="14" gid="82" x="272" y="288" width="16" height="16" name="a guard" type="S 9"/>
+  <object id="15" gid="81" x="208" y="288" width="16" height="16" name="a guard" type="S 9"/>
+  <object id="16" gid="81" x="448" y="480" width="16" height="16" name="a guard" type="W 9"/>
+  <object id="17" gid="45" x="352" y="400" width="16" height="16" name="Sheila" type="W 15"/>
+  <object id="18" gid="81" x="112" y="160" width="16" height="16" name="a guard" type="W 14"/>
+  <object id="19" gid="81" x="112" y="192" width="16" height="16" name="a guard" type="W 14"/>
+  <object id="20" gid="82" x="176" y="192" width="16" height="16" name="a guard" type="W 14"/>
+  <object id="21" gid="82" x="176" y="160" width="16" height="16" name="a guard" type="W 14"/>
+  <object id="22" gid="81" x="32" y="48" width="16" height="16" name="a guard" type="W 9"/>
+  <object id="23" gid="82" x="64" y="448" width="16" height="16" name="a guard" type="W 9"/>
+  <object id="24" gid="87" x="240" y="384" width="16" height="16" name="Chuckles" type="W 13"/>
+  <object id="25" gid="57" x="320" y="352" width="16" height="16" name="Seesha" type="S 12"/>
+  <object id="26" gid="82" x="464" y="96" width="16" height="16" name="a guard" type="W 9"/>
+  <object id="27" gid="48" x="336" y="96" width="16" height="16" name="Shawn" type="W 11"/>
+  <object id="28" gid="3" x="336" y="144" width="16" height="16" name="Water" type="S 10"/>
+  <object id="29" gid="83" x="336" y="448" width="16" height="16" type="F 0"/>
+  <object id="30" gid="83" x="144" y="448" width="16" height="16" type="F 0"/>
+  <object id="31" gid="81" x="272" y="480" width="16" height="16" name="a guard" type="S 9"/>
+  <object id="32" gid="81" x="208" y="480" width="16" height="16" name="a guard" type="S 9"/>
  </objectgroup>
 </map>

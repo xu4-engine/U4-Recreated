@@ -40,26 +40,26 @@
   </data>
  </layer>
  <objectgroup id="1" name="npcs">
-  <object id="1" gid="92" x="464" y="160" width="16" height="16" name="Barren" type="S 15"/>
-  <object id="2" gid="89" x="176" y="64" width="16" height="16" name="Ambule" type="S 14"/>
-  <object id="3" gid="62" x="192" y="256" width="16" height="16" name="the Ankh of Spirituality" type="S 13"/>
-  <object id="4" gid="37" x="192" y="272" width="16" height="16" name="White" type="S 12"/>
-  <object id="5" gid="35" x="208" y="256" width="16" height="16" name="Dickens" type="S 11"/>
-  <object id="6" gid="33" x="192" y="240" width="16" height="16" name="Carlyle" type="S 10"/>
-  <object id="7" gid="38" x="144" y="432" width="16" height="16" name="Romasco" type="S 9"/>
-  <object id="8" gid="46" x="416" y="256" width="16" height="16" name="Michaelangelo" type="W 8"/>
-  <object id="9" gid="93" x="96" y="176" width="16" height="16" type="W 0"/>
-  <object id="10" gid="93" x="80" y="352" width="16" height="16" type="W 0"/>
-  <object id="11" gid="84" x="192" y="480" width="16" height="16" name="Buddha" type="W 7"/>
-  <object id="12" gid="46" x="464" y="48" width="16" height="16" name="Mitre" type="S 6"/>
-  <object id="13" gid="90" x="32" y="16" width="16" height="16" name="Granted" type="S 5"/>
-  <object id="14" gid="34" x="128" y="96" width="16" height="16" name="Presto" type="S 4"/>
-  <object id="15" gid="46" x="352" y="272" width="16" height="16" name="Santayana" type="S 3"/>
-  <object id="16" gid="57" x="160" y="400" width="16" height="16" name="Emerson" type="S 2"/>
-  <object id="17" gid="83" x="384" y="304" width="16" height="16" type="F 0"/>
-  <object id="18" gid="84" x="336" y="208" width="16" height="16" type="F 0"/>
-  <object id="19" gid="84" x="80" y="64" width="16" height="16" type="W 0"/>
-  <object id="20" gid="83" x="96" y="464" width="16" height="16" type="F 0"/>
-  <object id="21" gid="46" x="160" y="256" width="16" height="16" name="Shamino" type="S 1"/>
+  <object id="12" gid="92" x="464" y="160" width="16" height="16" name="Barren" type="S 15"/>
+  <object id="13" gid="89" x="176" y="64" width="16" height="16" name="Ambule" type="S 14"/>
+  <object id="14" gid="62" x="192" y="256" width="16" height="16" name="the Ankh of Spirituality" type="S 13"/>
+  <object id="15" gid="37" x="192" y="272" width="16" height="16" name="White" type="S 12"/>
+  <object id="16" gid="35" x="208" y="256" width="16" height="16" name="Dickens" type="S 11"/>
+  <object id="17" gid="33" x="192" y="240" width="16" height="16" name="Carlyle" type="S 10"/>
+  <object id="18" gid="38" x="144" y="432" width="16" height="16" name="Romasco" type="S 9"/>
+  <object id="19" gid="46" x="416" y="256" width="16" height="16" name="Michaelangelo" type="W 8"/>
+  <object id="20" gid="93" x="96" y="176" width="16" height="16" type="W 0"/>
+  <object id="21" gid="93" x="80" y="352" width="16" height="16" type="W 0"/>
+  <object id="22" gid="84" x="192" y="480" width="16" height="16" name="Buddha" type="W 7"/>
+  <object id="23" gid="46" x="464" y="48" width="16" height="16" name="Mitre" type="S 6"/>
+  <object id="24" gid="90" x="32" y="16" width="16" height="16" name="Granted" type="S 5"/>
+  <object id="25" gid="34" x="128" y="96" width="16" height="16" name="Presto" type="S 4"/>
+  <object id="26" gid="46" x="352" y="272" width="16" height="16" name="Santayana" type="S 3"/>
+  <object id="27" gid="57" x="160" y="400" width="16" height="16" name="Emerson" type="S 2"/>
+  <object id="28" gid="83" x="384" y="304" width="16" height="16" type="F 0"/>
+  <object id="29" gid="84" x="336" y="208" width="16" height="16" type="F 0"/>
+  <object id="30" gid="84" x="80" y="64" width="16" height="16" type="W 0"/>
+  <object id="31" gid="83" x="96" y="464" width="16" height="16" type="F 0"/>
+  <object id="32" gid="46" x="160" y="256" width="16" height="16" name="Shamino" type="S 1"/>
  </objectgroup>
 </map>

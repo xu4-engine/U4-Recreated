@@ -55,22 +55,22 @@
   <object id="13" gid="37" x="320" y="64" width="16" height="16" name="Joe" type="W 7"/>
   <object id="14" gid="38" x="272" y="96" width="16" height="16" name="Thevel" type="W 6"/>
   <object id="15" gid="38" x="320" y="96" width="16" height="16" name="Joe" type="S 7"/>
-  <object id="16" gid="86" x="272" y="64" width="16" height="16" name="Cricket" type="S 8"/>
-  <object id="17" gid="38" x="128" y="112" width="16" height="16" name="Joe" type="W 7"/>
-  <object id="18" gid="36" x="64" y="80" width="16" height="16" name="Pepper" type="W 5"/>
-  <object id="19" gid="81" x="320" y="368" width="16" height="16" name="a guard" type="S 4"/>
-  <object id="20" gid="82" x="320" y="416" width="16" height="16" name="a guard" type="S 4"/>
-  <object id="21" gid="87" x="464" y="480" width="16" height="16" name="Gweno" type="W 2"/>
-  <object id="22" gid="92" x="432" y="464" width="16" height="16" name="a child" type="S 3"/>
-  <object id="23" gid="91" x="448" y="448" width="16" height="16" name="a child" type="S 3"/>
-  <object id="24" gid="84" x="416" y="224" width="16" height="16" name="role/inn" type="W 0"/>
-  <object id="25" gid="83" x="320" y="32" width="16" height="16" name="role/tavern" type="F 0"/>
-  <object id="26" gid="83" x="288" y="128" width="16" height="16" name="role/food" type="F 0"/>
-  <object id="27" gid="83" x="80" y="144" width="16" height="16" name="role/armor" type="W 0"/>
-  <object id="28" gid="84" x="80" y="48" width="16" height="16" name="role/weapons" type="F 0"/>
-  <object id="29" gid="92" x="464" y="464" width="16" height="16" name="a child" type="S 3"/>
-  <object id="30" gid="84" x="64" y="496" width="16" height="16" name="role/healer" type="F 0"/>
-  <object id="31" gid="85" x="448" y="480" width="16" height="16" name="companion/Iolo" type="S 1"/>
+  <object id="17" gid="86" x="272" y="64" width="16" height="16" name="Cricket" type="S 8"/>
+  <object id="18" gid="38" x="128" y="112" width="16" height="16" name="Joe" type="W 7"/>
+  <object id="19" gid="36" x="64" y="80" width="16" height="16" name="Pepper" type="W 5"/>
+  <object id="20" gid="81" x="320" y="368" width="16" height="16" name="a guard" type="S 4"/>
+  <object id="21" gid="82" x="320" y="416" width="16" height="16" name="a guard" type="S 4"/>
+  <object id="22" gid="87" x="464" y="480" width="16" height="16" name="Gweno" type="W 2"/>
+  <object id="23" gid="92" x="432" y="464" width="16" height="16" name="a child" type="S 3"/>
+  <object id="24" gid="91" x="448" y="448" width="16" height="16" name="a child" type="S 3"/>
+  <object id="25" gid="84" x="416" y="224" width="16" height="16" name="role/inn" type="W 0"/>
+  <object id="26" gid="83" x="320" y="32" width="16" height="16" name="role/tavern" type="F 0"/>
+  <object id="27" gid="83" x="288" y="128" width="16" height="16" name="role/food" type="F 0"/>
+  <object id="28" gid="83" x="80" y="144" width="16" height="16" name="role/armor" type="W 0"/>
+  <object id="29" gid="84" x="80" y="48" width="16" height="16" name="role/weapons" type="F 0"/>
+  <object id="30" gid="92" x="464" y="464" width="16" height="16" name="a child" type="S 3"/>
+  <object id="31" gid="84" x="64" y="496" width="16" height="16" name="role/healer" type="F 0"/>
+  <object id="32" gid="85" x="448" y="480" width="16" height="16" name="companion/Iolo" type="S 1"/>
  </objectgroup>
  <objectgroup id="3" name="labels">
   <object id="1" name="compassionrune" x="408" y="24"><point/></object>

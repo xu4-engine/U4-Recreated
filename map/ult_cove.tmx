@@ -40,22 +40,22 @@
   </data>
  </layer>
  <objectgroup id="1" name="npcs">
-  <object id="1" gid="33" x="48" y="432" width="16" height="16" name="Circe" type="S 16"/>
-  <object id="2" gid="34" x="64" y="416" width="16" height="16" name="Charm" type="S 15"/>
-  <object id="3" gid="34" x="48" y="400" width="16" height="16" name="Shaman" type="S 14"/>
-  <object id="4" gid="34" x="32" y="416" width="16" height="16" name="Spellbind" type="S 13"/>
-  <object id="5" gid="39" x="240" y="160" width="16" height="16" name="Brother Zair" type="S 12"/>
-  <object id="6" gid="83" x="416" y="400" width="16" height="16" name="Rabindranath tagore" type="S 11"/>
-  <object id="7" gid="139" x="240" y="304" width="16" height="16" name="Blissful" type="W 10"/>
-  <object id="8" gid="39" x="304" y="80" width="16" height="16" name="Draconian" type="S 9"/>
-  <object id="9" gid="225" x="464" y="416" width="16" height="16" name="Merlin" type="S 8"/>
-  <object id="10" gid="83" x="304" y="416" width="16" height="16" name="Linda" type="S 7"/>
-  <object id="11" gid="86" x="320" y="400" width="16" height="16" name="Paul" type="S 6"/>
-  <object id="12" gid="62" x="432" y="32" width="16" height="16" name="the ankh" type="S 5"/>
-  <object id="13" gid="225" x="48" y="144" width="16" height="16" name="Mentorian" type="S 4"/>
-  <object id="14" gid="84" x="192" y="416" width="16" height="16" name="Sloven" type="S 3"/>
-  <object id="15" gid="39" x="160" y="256" width="16" height="16" name="Frontis" type="S 2"/>
-  <object id="16" gid="84" x="400" y="448" width="16" height="16" type="F 0"/>
-  <object id="17" gid="91" x="192" y="64" width="16" height="16" name="Allen" type="S 1"/>
+  <object id="16" gid="33" x="48" y="432" width="16" height="16" name="Circe" type="S 16"/>
+  <object id="17" gid="34" x="64" y="416" width="16" height="16" name="Charm" type="S 15"/>
+  <object id="18" gid="34" x="48" y="400" width="16" height="16" name="Shaman" type="S 14"/>
+  <object id="19" gid="34" x="32" y="416" width="16" height="16" name="Spellbind" type="S 13"/>
+  <object id="20" gid="39" x="240" y="160" width="16" height="16" name="Brother Zair" type="S 12"/>
+  <object id="21" gid="83" x="416" y="400" width="16" height="16" name="Rabindranath tagore" type="S 11"/>
+  <object id="22" gid="139" x="240" y="304" width="16" height="16" name="Blissful" type="W 10"/>
+  <object id="23" gid="39" x="304" y="80" width="16" height="16" name="Draconian" type="S 9"/>
+  <object id="24" gid="225" x="464" y="416" width="16" height="16" name="Merlin" type="S 8"/>
+  <object id="25" gid="83" x="304" y="416" width="16" height="16" name="Linda" type="S 7"/>
+  <object id="26" gid="86" x="320" y="400" width="16" height="16" name="Paul" type="S 6"/>
+  <object id="27" gid="62" x="432" y="32" width="16" height="16" name="the ankh" type="S 5"/>
+  <object id="28" gid="225" x="48" y="144" width="16" height="16" name="Mentorian" type="S 4"/>
+  <object id="29" gid="84" x="192" y="416" width="16" height="16" name="Sloven" type="S 3"/>
+  <object id="30" gid="39" x="160" y="256" width="16" height="16" name="Frontis" type="S 2"/>
+  <object id="31" gid="84" x="400" y="448" width="16" height="16" type="F 0"/>
+  <object id="32" gid="91" x="192" y="64" width="16" height="16" name="Allen" type="S 1"/>
  </objectgroup>
 </map>

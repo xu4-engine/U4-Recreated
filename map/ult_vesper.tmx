@@ -40,29 +40,29 @@
   </data>
  </layer>
  <objectgroup id="1" name="npcs">
-  <object id="1" gid="202" x="112" y="352" width="16" height="16" name="Dyka" type="W 16"/>
-  <object id="2" gid="44" x="240" y="320" width="16" height="16" name="Corkrin" type="S 15"/>
-  <object id="3" gid="91" x="400" y="160" width="16" height="16" name="Flatbush" type="W 14"/>
-  <object id="4" gid="88" x="96" y="192" width="16" height="16" name="Shazbot" type="W 13"/>
-  <object id="5" gid="47" x="144" y="304" width="16" height="16" name="Dirgen" type="S 12"/>
-  <object id="6" gid="46" x="304" y="496" width="16" height="16" name="Randal" type="W 11"/>
-  <object id="7" gid="82" x="320" y="416" width="16" height="16" name="Friday" type="S 10"/>
-  <object id="8" gid="47" x="304" y="192" width="16" height="16" name="Joseph" type="S 9"/>
-  <object id="9" gid="47" x="320" y="176" width="16" height="16" name="Gem" type="S 8"/>
-  <object id="10" gid="47" x="320" y="160" width="16" height="16" name="Simple" type="S 7"/>
-  <object id="11" gid="47" x="288" y="160" width="16" height="16" name="Plain" type="S 6"/>
-  <object id="12" gid="84" x="208" y="416" width="16" height="16" name="Balthasar" type="W 5"/>
-  <object id="13" gid="42" x="240" y="400" width="16" height="16" name="Traveling Dan" type="W 4"/>
-  <object id="14" gid="47" x="144" y="448" width="16" height="16" name="Servile" type="S 3"/>
-  <object id="15" gid="83" x="128" y="384" width="16" height="16" type="F 0"/>
-  <object id="16" gid="84" x="240" y="448" width="16" height="16" type="W 128"/>
-  <object id="17" gid="84" x="240" y="352" width="16" height="16" type="F 0"/>
-  <object id="18" gid="84" x="368" y="336" width="16" height="16" type="W 0"/>
-  <object id="19" gid="81" x="464" y="224" width="16" height="16" name="Guard" type="S 2"/>
-  <object id="20" gid="82" x="464" y="288" width="16" height="16" name="Guard" type="S 2"/>
-  <object id="21" gid="81" x="32" y="288" width="16" height="16" name="Guard" type="S 2"/>
-  <object id="22" gid="81" x="32" y="224" width="16" height="16" name="Guard" type="S 2"/>
-  <object id="23" gid="226" x="256" y="48" width="16" height="16" name="Twin Gates" type="S 1"/>
-  <object id="24" gid="227" x="240" y="48" width="16" height="16" name="Twin Gates" type="S 1"/>
+  <object id="9" gid="202" x="112" y="352" width="16" height="16" name="Dyka" type="W 16"/>
+  <object id="10" gid="44" x="240" y="320" width="16" height="16" name="Corkrin" type="S 15"/>
+  <object id="11" gid="91" x="400" y="160" width="16" height="16" name="Flatbush" type="W 14"/>
+  <object id="12" gid="88" x="96" y="192" width="16" height="16" name="Shazbot" type="W 13"/>
+  <object id="13" gid="47" x="144" y="304" width="16" height="16" name="Dirgen" type="S 12"/>
+  <object id="14" gid="46" x="304" y="496" width="16" height="16" name="Randal" type="W 11"/>
+  <object id="15" gid="82" x="320" y="416" width="16" height="16" name="Friday" type="S 10"/>
+  <object id="16" gid="47" x="304" y="192" width="16" height="16" name="Joseph" type="S 9"/>
+  <object id="17" gid="47" x="320" y="176" width="16" height="16" name="Gem" type="S 8"/>
+  <object id="18" gid="47" x="320" y="160" width="16" height="16" name="Simple" type="S 7"/>
+  <object id="19" gid="47" x="288" y="160" width="16" height="16" name="Plain" type="S 6"/>
+  <object id="20" gid="84" x="208" y="416" width="16" height="16" name="Balthasar" type="W 5"/>
+  <object id="21" gid="42" x="240" y="400" width="16" height="16" name="Traveling Dan" type="W 4"/>
+  <object id="22" gid="47" x="144" y="448" width="16" height="16" name="Servile" type="S 3"/>
+  <object id="23" gid="83" x="128" y="384" width="16" height="16" type="F 0"/>
+  <object id="24" gid="84" x="240" y="448" width="16" height="16" type="W 128"/>
+  <object id="25" gid="84" x="240" y="352" width="16" height="16" type="F 0"/>
+  <object id="26" gid="84" x="368" y="336" width="16" height="16" type="W 0"/>
+  <object id="27" gid="81" x="464" y="224" width="16" height="16" name="Guard" type="S 2"/>
+  <object id="28" gid="82" x="464" y="288" width="16" height="16" name="Guard" type="S 2"/>
+  <object id="29" gid="81" x="32" y="288" width="16" height="16" name="Guard" type="S 2"/>
+  <object id="30" gid="81" x="32" y="224" width="16" height="16" name="Guard" type="S 2"/>
+  <object id="31" gid="226" x="256" y="48" width="16" height="16" name="Twin Gates" type="S 1"/>
+  <object id="32" gid="227" x="240" y="48" width="16" height="16" name="Twin Gates" type="S 1"/>
  </objectgroup>
 </map>

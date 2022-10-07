@@ -40,36 +40,36 @@
   </data>
  </layer>
  <objectgroup id="1" name="npcs">
-  <object id="1" gid="256" x="160" y="128" width="16" height="16" type="A 0"/>
-  <object id="2" gid="83" x="272" y="160" width="16" height="16" name="Marsor" type="S 14"/>
-  <object id="3" gid="204" x="368" y="272" width="16" height="16" name="Green Beard" type="S 13"/>
-  <object id="4" gid="226" x="224" y="112" width="16" height="16" name="Ignap" type="S 12"/>
-  <object id="5" gid="195" x="96" y="192" width="16" height="16" name="Boris" type="W 11"/>
-  <object id="6" gid="165" x="432" y="176" width="16" height="16" name="Brigant" type="S 10"/>
-  <object id="7" gid="227" x="432" y="464" width="16" height="16" name="Starlight" type="S 9"/>
-  <object id="8" gid="137" x="480" y="352" width="16" height="16" type="A 0"/>
-  <object id="9" gid="138" x="32" y="144" width="16" height="16" type="A 0"/>
-  <object id="10" gid="137" x="32" y="336" width="16" height="16" type="A 0"/>
-  <object id="11" gid="204" x="400" y="208" width="16" height="16" name="Jeremy James Scirlock" type="S 8"/>
-  <object id="12" gid="33" x="96" y="464" width="16" height="16" name="Seanna" type="S 7"/>
-  <object id="13" gid="203" x="384" y="112" width="16" height="16" name="Slysam" type="W 5"/>
-  <object id="14" gid="201" x="192" y="400" width="16" height="16" name="Sailor" type="W 3"/>
-  <object id="15" gid="84" x="272" y="400" width="16" height="16" name="Sniflet" type="S 16"/>
-  <object id="16" gid="204" x="176" y="352" width="16" height="16" name="Sailor" type="S 3"/>
-  <object id="17" gid="41" x="112" y="400" width="16" height="16" name="Dancek" type="S 15"/>
-  <object id="18" gid="203" x="240" y="400" width="16" height="16" name="Sailor" type="W 3"/>
-  <object id="19" gid="201" x="96" y="368" width="16" height="16" name="Sailor" type="S 3"/>
-  <object id="20" gid="204" x="160" y="320" width="16" height="16" name="Silver John" type="S 4"/>
-  <object id="21" gid="82" x="304" y="240" width="16" height="16" name="Rankbreath" type="S 2"/>
-  <object id="22" gid="82" x="192" y="304" width="16" height="16" name="Rankbreath" type="S 2"/>
-  <object id="23" gid="82" x="144" y="304" width="16" height="16" name="Rankbreath" type="S 2"/>
-  <object id="24" gid="45" x="240" y="368" width="16" height="16" name="Ragnar" type="S 6"/>
-  <object id="25" gid="84" x="128" y="432" width="16" height="16" type="F 0"/>
-  <object id="26" gid="83" x="352" y="304" width="16" height="16" type="W 0"/>
-  <object id="27" gid="83" x="384" y="176" width="16" height="16" type="W 0"/>
-  <object id="28" gid="83" x="384" y="144" width="16" height="16" type="W 0"/>
-  <object id="29" gid="83" x="128" y="160" width="16" height="16" type="S 0"/>
-  <object id="30" gid="82" x="80" y="240" width="16" height="16" name="Roofus" type="S 1"/>
-  <object id="31" gid="82" x="80" y="272" width="16" height="16" name="Roofus" type="S 1"/>
+  <object id="2" gid="256" x="160" y="128" width="16" height="16" type="A 0"/>
+  <object id="3" gid="83" x="272" y="160" width="16" height="16" name="Marsor" type="S 14"/>
+  <object id="4" gid="204" x="368" y="272" width="16" height="16" name="Green Beard" type="S 13"/>
+  <object id="5" gid="226" x="224" y="112" width="16" height="16" name="Ignap" type="S 12"/>
+  <object id="6" gid="195" x="96" y="192" width="16" height="16" name="Boris" type="W 11"/>
+  <object id="7" gid="165" x="432" y="176" width="16" height="16" name="Brigant" type="S 10"/>
+  <object id="8" gid="227" x="432" y="464" width="16" height="16" name="Starlight" type="S 9"/>
+  <object id="9" gid="137" x="480" y="352" width="16" height="16" type="A 0"/>
+  <object id="10" gid="138" x="32" y="144" width="16" height="16" type="A 0"/>
+  <object id="11" gid="137" x="32" y="336" width="16" height="16" type="A 0"/>
+  <object id="12" gid="204" x="400" y="208" width="16" height="16" name="Jeremy James Scirlock" type="S 8"/>
+  <object id="13" gid="33" x="96" y="464" width="16" height="16" name="Seanna" type="S 7"/>
+  <object id="14" gid="203" x="384" y="112" width="16" height="16" name="Slysam" type="W 5"/>
+  <object id="15" gid="201" x="192" y="400" width="16" height="16" name="Sailor" type="W 3"/>
+  <object id="16" gid="84" x="272" y="400" width="16" height="16" name="Sniflet" type="S 16"/>
+  <object id="17" gid="204" x="176" y="352" width="16" height="16" name="Sailor" type="S 3"/>
+  <object id="18" gid="41" x="112" y="400" width="16" height="16" name="Dancek" type="S 15"/>
+  <object id="19" gid="203" x="240" y="400" width="16" height="16" name="Sailor" type="W 3"/>
+  <object id="20" gid="201" x="96" y="368" width="16" height="16" name="Sailor" type="S 3"/>
+  <object id="21" gid="204" x="160" y="320" width="16" height="16" name="Silver John" type="S 4"/>
+  <object id="22" gid="82" x="304" y="240" width="16" height="16" name="Rankbreath" type="S 2"/>
+  <object id="23" gid="82" x="192" y="304" width="16" height="16" name="Rankbreath" type="S 2"/>
+  <object id="24" gid="82" x="144" y="304" width="16" height="16" name="Rankbreath" type="S 2"/>
+  <object id="25" gid="45" x="240" y="368" width="16" height="16" name="Ragnar" type="S 6"/>
+  <object id="26" gid="84" x="128" y="432" width="16" height="16" type="F 0"/>
+  <object id="27" gid="83" x="352" y="304" width="16" height="16" type="W 0"/>
+  <object id="28" gid="83" x="384" y="176" width="16" height="16" type="W 0"/>
+  <object id="29" gid="83" x="384" y="144" width="16" height="16" type="W 0"/>
+  <object id="30" gid="83" x="128" y="160" width="16" height="16" type="S 0"/>
+  <object id="31" gid="82" x="80" y="240" width="16" height="16" name="Roofus" type="S 1"/>
+  <object id="32" gid="82" x="80" y="272" width="16" height="16" name="Roofus" type="S 1"/>
  </objectgroup>
 </map>
