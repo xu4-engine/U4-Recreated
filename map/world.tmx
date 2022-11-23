@@ -263,4 +263,19 @@
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
   </data>
  </layer>
+ <objectgroup id="2" name="labels">
+  <object id="1" name="balloon" x="3736" y="3880"><point/></object>
+  <object id="2" name="lockelake" x="2040" y="1256"><point/></object>
+  <object id="3" name="mandrake1" x="2920" y="872"><point/></object>
+  <object id="4" name="mandrake2" x="1608" y="2648"><point/></object>
+  <object id="5" name="nightshade1" x="744" y="2392"><point/></object>
+  <object id="6" name="nightshade2" x="3288" y="712"><point/></object>
+  <object id="7" name="bell" x="2824" y="3336"><point/></object>
+  <object id="8" name="horn" x="728" y="2776"><point/></object>
+  <object id="9" name="wheel" x="1544" y="3448"><point/></object>
+  <object id="10" name="skull" x="3160" y="3928"><point/></object>
+  <object id="11" name="blackstone" x="3592" y="2136"><point/></object>
+  <object id="12" name="whitestone" x="1032" y="1288"><point/></object>
+  <object id="13" name="lasergun" x="776" y="360"><point/></object>
+ </objectgroup>
 </map>

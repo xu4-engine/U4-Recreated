@@ -44,21 +44,6 @@ maps: [
             6, 23,126
             7,187,167
         ]
-        labels [
-            balloon     233,242
-            lockelake   127, 78
-            mandrake1   182, 54
-            mandrake2   100,165
-            nightshade1  46,149
-            nightshade2 205, 44
-            bell        176,208
-            horn         45,173
-            wheel        96,215
-            skull       197,245
-            blackstone  224,133
-            whitestone   64, 80
-            lasergun     48, 22
-        ]
     ]
     map (id: 1 type: city fname: "lcb_1.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 9) [
         city (name: "Britannia" type: castle tlk_fname: "lcb.tlk") [
