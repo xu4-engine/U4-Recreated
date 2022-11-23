@@ -45,7 +45,7 @@ maps: [
             7,187,167
         ]
     ]
-    map (id: 1 type: city fname: "lcb_1.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 9) [
+    map (id: 1 type: city fname: "lcb_1.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
         city (name: "Britannia" type: castle tlk_fname: "lcb.tlk") [
             roles [
                 healer 29
@@ -59,7 +59,7 @@ maps: [
         ]
         labels [spiritualityrune 17,8]
     ]
-    map (id: 56 type: city fname: "lcb_2.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 9) [
+    map (id: 56 type: city fname: "lcb_2.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
         city (name: "Britannia" type: castle tlk_fname: "lcb.tlk") [
             roles [lordbritish 32]
         ]
@@ -68,7 +68,7 @@ maps: [
             27, 3 descend 1,27, 3 message: "Descend to first floor!^/"
         ]
     ]
-    map (id: 2 type: city fname: "lycaeum.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 9) [
+    map (id: 2 type: city fname: "lycaeum.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
         city (name: "Lycaeum" type: castle tlk_fname: "lycaeum.tlk") [
             roles [healer 23]
         ]
@@ -77,19 +77,19 @@ maps: [
             telescope 22,3
         ]
     ]
-    map (id: 3 type: city fname: "empath.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 9) [
+    map (id: 3 type: city fname: "empath.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
         city (name: "Empath Abbey" type: castle tlk_fname: "empath.tlk") [
             roles [healer 30]
         ]
         labels [mysticarmor 22,4]
     ]
-    map (id: 4 type: city fname: "serpent.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 9) [
+    map (id: 4 type: city fname: "serpent.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
         city (name: "Serpents Hold" type: castle tlk_fname: "serpent.tlk") [
             roles [healer 31]
         ]
         labels [mysticswords 8,15]
     ]
-    map (id: 5 type: city fname: "moonglow.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 5 type: city fname: "moonglow.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Moonglow" type: towne tlk_fname: "moonglow.tlk") [
             roles [
                 companion 32
@@ -105,7 +105,7 @@ maps: [
         city (name: "Britain" type: towne tlk_fname: "npc/britain.b") [
         ]
     ]
-    map (id: 7 type: city fname: "jhelom.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 7 type: city fname: "jhelom.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Jhelom" type: towne tlk_fname: "jhelom.tlk") [
             roles [
                 companion 32
@@ -120,7 +120,7 @@ maps: [
         ]
         labels [valorrune 30,30]
     ]
-    map (id: 8 type: city fname: "yew.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 8 type: city fname: "yew.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Yew" type: towne tlk_fname: "yew.tlk") [
             roles [
                 companion 32
@@ -130,7 +130,7 @@ maps: [
         ]
         labels [justicerune 13,6]
     ]
-    map (id: 9 type: city fname: "minoc.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 9 type: city fname: "minoc.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Minoc" type: towne tlk_fname: "minoc.tlk") [
             roles [
                 companion 32
@@ -140,7 +140,7 @@ maps: [
         ]
         labels [sacrificerune 28,30]
     ]
-    map (id: 10 type: city fname: "trinsic.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 10 type: city fname: "trinsic.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Trinsic" type: towne tlk_fname: "trinsic.tlk") [
             roles [
                 companion 32
@@ -152,7 +152,7 @@ maps: [
         ]
         labels [honorrune 2,29]
     ]
-    map (id: 11 type: city fname: "skara.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 11 type: city fname: "skara.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Skara Brae" type: towne tlk_fname: "skara.tlk") [
             roles [
                 companion 32
@@ -163,12 +163,12 @@ maps: [
             ]
         ]
     ]
-    map (id: 12 type: city fname: "magincia.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 12 type: city fname: "magincia.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Magincia" type: ruins tlk_fname: "magincia.tlk") [
             roles [companion 32]
         ]
     ]
-    map (id: 13 type: city fname: "paws.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 13 type: city fname: "paws.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Paws" type: village tlk_fname: "paws.tlk") [
             roles [
                 armorvendor 27
@@ -181,7 +181,7 @@ maps: [
         ]
         labels [humilityrune 29,29]
     ]
-    map (id: 14 type: city fname: "den.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 14 type: city fname: "den.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Buccaneers Den" type: village tlk_fname: "den.tlk") [
             roles [
                 weaponsvendor 28
@@ -192,7 +192,7 @@ maps: [
             ]
         ]
     ]
-    map (id: 15 type: city fname: "vesper.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 15 type: city fname: "vesper.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Vesper" type: village tlk_fname: "vesper.tlk") [
             roles [
                 weaponsvendor 25
@@ -202,7 +202,7 @@ maps: [
             ]
         ]
     ]
-    map (id: 16 type: city fname: "cove.ult" width: 32 height: 32 levels: 1 borderbehavior: exit music: 2) [
+    map (id: 16 type: city fname: "cove.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
         city (name: "Cove" type: village tlk_fname: "cove.tlk") [
             roles [healer 31]
         ]
@@ -300,51 +300,51 @@ maps: [
     map (id: 24 type: dungeon fname: "abyss.dng" width: 8 height: 8 levels: 8 borderbehavior: wrap firstperson: true music: 7) [
         dungeon (name: "The Great Stygian Abyss" rooms: 64)
     ]
-    map (id: 25 type: shrine fname: "shrine.con" width: 11 height: 11 levels: 1 borderbehavior: fixed music: 3) [
+    map (id: 25 type: shrine fname: "shrine.con" width: 11 height: 11 borderbehavior: fixed music: 3) [
         shrine (virtue: "Honesty" mantra: ahm)
     ]
-    map (id: 26 type: shrine fname: "shrine.con" width: 11 height: 11 levels: 1 borderbehavior: fixed music: 3) [
+    map (id: 26 type: shrine fname: "shrine.con" width: 11 height: 11 borderbehavior: fixed music: 3) [
         shrine (virtue: "Compassion" mantra: mu)
     ]
-    map (id: 27 type: shrine fname: "shrine.con" width: 11 height: 11 levels: 1 borderbehavior: fixed music: 3) [
+    map (id: 27 type: shrine fname: "shrine.con" width: 11 height: 11 borderbehavior: fixed music: 3) [
         shrine (virtue: "Valor" mantra: ra)
     ]
-    map (id: 28 type: shrine fname: "shrine.con" width: 11 height: 11 levels: 1 borderbehavior: fixed music: 3) [
+    map (id: 28 type: shrine fname: "shrine.con" width: 11 height: 11 borderbehavior: fixed music: 3) [
         shrine (virtue: "Justice" mantra: beh)
     ]
-    map (id: 29 type: shrine fname: "shrine.con" width: 11 height: 11 levels: 1 borderbehavior: fixed music: 3) [
+    map (id: 29 type: shrine fname: "shrine.con" width: 11 height: 11 borderbehavior: fixed music: 3) [
         shrine (virtue: "Sacrifice" mantra: cah)
     ]
-    map (id: 30 type: shrine fname: "shrine.con" width: 11 height: 11 levels: 1 borderbehavior: fixed music: 3) [
+    map (id: 30 type: shrine fname: "shrine.con" width: 11 height: 11 borderbehavior: fixed music: 3) [
         shrine (virtue: "Honor" mantra: summ)
     ]
-    map (id: 31 type: shrine fname: "shrine.con" width: 11 height: 11 levels: 1 borderbehavior: fixed music: 3) [
+    map (id: 31 type: shrine fname: "shrine.con" width: 11 height: 11 borderbehavior: fixed music: 3) [
         shrine (virtue: "Spirituality" mantra: om)
     ]
-    map (id: 32 type: shrine fname: "shrine.con" width: 11 height: 11 levels: 1 borderbehavior: fixed music: 3) [
+    map (id: 32 type: shrine fname: "shrine.con" width: 11 height: 11 borderbehavior: fixed music: 3) [
         shrine (virtue: "Humility" mantra: lum)
     ]
-    map (id: 33 type: combat fname: "brick.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 34 type: combat fname: "bridge.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 35 type: combat fname: "brush.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 36 type: combat fname: "camp.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 37 type: combat fname: "dng0.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 38 type: combat fname: "dng1.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 39 type: combat fname: "dng2.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 40 type: combat fname: "dng3.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 41 type: combat fname: "dng4.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 42 type: combat fname: "dng5.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 43 type: combat fname: "dng6.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 44 type: combat fname: "dungeon.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 45 type: combat fname: "forest.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 46 type: combat fname: "grass.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 47 type: combat fname: "hill.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 48 type: combat fname: "inn.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 49 type: combat fname: "marsh.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 50 type: combat fname: "shipsea.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 51 type: combat fname: "shipship.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 52 type: combat fname: "shipshor.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 53 type: combat fname: "shore.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 54 type: combat fname: "shorship.con" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
-    map (id: 55 type: combat fname: "camp.dng" width: 11 height: 11 levels: 1 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 33 type: combat fname: "brick.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 34 type: combat fname: "bridge.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 35 type: combat fname: "brush.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 36 type: combat fname: "camp.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 37 type: combat fname: "dng0.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 38 type: combat fname: "dng1.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 39 type: combat fname: "dng2.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 40 type: combat fname: "dng3.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 41 type: combat fname: "dng4.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 42 type: combat fname: "dng5.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 43 type: combat fname: "dng6.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 44 type: combat fname: "dungeon.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 45 type: combat fname: "forest.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 46 type: combat fname: "grass.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 47 type: combat fname: "hill.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 48 type: combat fname: "inn.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 49 type: combat fname: "marsh.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 50 type: combat fname: "shipsea.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 51 type: combat fname: "shipship.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 52 type: combat fname: "shipshor.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 53 type: combat fname: "shore.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 54 type: combat fname: "shorship.con" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
+    map (id: 55 type: combat fname: "camp.dng" width: 11 height: 11 borderbehavior: fixed nolineofsight: true music: 8)
 ]
