@@ -45,168 +45,82 @@ maps: [
             7,187,167
         ]
     ]
-    map (id: 1 type: city fname: "lcb_1.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
-        city (name: "Britannia" type: castle tlk_fname: "lcb.tlk") [
-            roles [
-                healer 29
-                hawkwind 30
-            ]
+    map (id: 1 type: city fname: "map/ult_lcb_1.tmx" borderbehavior: exit music: 9) [
+        city (name: "Britannia" type: castle tlk_fname: "npc/lcb.b") [
         ]
         portals [
              3,3 climb   56, 3, 3  message: "Klimb to second floor!^/"
             27,3 climb   56,27, 3  message: "Klimb to second floor!^/"
              7,2 descend 23, 5, 5  message: "Descend into the depths!^/" retroActiveDest: 0,239,240
         ]
-        labels [spiritualityrune 17,8]
     ]
-    map (id: 56 type: city fname: "lcb_2.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
-        city (name: "Britannia" type: castle tlk_fname: "lcb.tlk") [
-            roles [lordbritish 32]
+    map (id: 56 type: city fname: "map/ult_lcb_2.tmx" borderbehavior: exit music: 9) [
+        city (name: "Britannia" type: castle tlk_fname: "npc/lcb.b") [
         ]
         portals [
              3, 3 descend 1, 3, 3 message: "Descend to first floor!^/"
             27, 3 descend 1,27, 3 message: "Descend to first floor!^/"
         ]
     ]
-    map (id: 2 type: city fname: "lycaeum.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
-        city (name: "Lycaeum" type: castle tlk_fname: "lycaeum.tlk") [
-            roles [healer 23]
-        ]
-        labels [
-            book 6,6
-            telescope 22,3
+    map (id: 2 type: city fname: "map/ult_lycaeum.tmx" borderbehavior: exit music: 9) [
+        city (name: "Lycaeum" type: castle tlk_fname: "npc/lycaeum.b") [
         ]
     ]
-    map (id: 3 type: city fname: "empath.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
-        city (name: "Empath Abbey" type: castle tlk_fname: "empath.tlk") [
-            roles [healer 30]
+    map (id: 3 type: city fname: "map/ult_empath.tmx" borderbehavior: exit music: 9) [
+        city (name: "Empath Abbey" type: castle tlk_fname: "npc/empath.b") [
         ]
-        labels [mysticarmor 22,4]
     ]
-    map (id: 4 type: city fname: "serpent.ult" width: 32 height: 32 borderbehavior: exit music: 9) [
-        city (name: "Serpents Hold" type: castle tlk_fname: "serpent.tlk") [
-            roles [healer 31]
+    map (id: 4 type: city fname: "map/ult_serpent.tmx" borderbehavior: exit music: 9) [
+        city (name: "Serpents Hold" type: castle tlk_fname: "npc/serpent.b") [
         ]
-        labels [mysticswords 8,15]
     ]
-    map (id: 5 type: city fname: "moonglow.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Moonglow" type: towne tlk_fname: "moonglow.tlk") [
-            roles [
-                companion 32
-                foodvendor 26
-                reagentsvendor 24
-                healer 25
-                innkeeper 30
-            ]
+    map (id: 5 type: city fname: "map/ult_moonglow.tmx" borderbehavior: exit music: 2) [
+        city (name: "Moonglow" type: towne tlk_fname: "npc/moonglow.b") [
         ]
-        labels [honestyrune 8,6]
     ]
     map (id: 6 type: city fname: "map/ult_britain.tmx" borderbehavior: exit music: 2) [
         city (name: "Britain" type: towne tlk_fname: "npc/britain.b") [
         ]
     ]
-    map (id: 7 type: city fname: "jhelom.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Jhelom" type: towne tlk_fname: "jhelom.tlk") [
-            roles [
-                companion 32
-                weaponsvendor 29
-                armorvendor 28
-                tavernkeeper 30
-                healer 25
-                healer 26
-                healer 27
-                innkeeper 31
-            ]
-        ]
-        labels [valorrune 30,30]
-    ]
-    map (id: 8 type: city fname: "yew.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Yew" type: towne tlk_fname: "yew.tlk") [
-            roles [
-                companion 32
-                foodvendor 27
-                healer 26
-            ]
-        ]
-        labels [justicerune 13,6]
-    ]
-    map (id: 9 type: city fname: "minoc.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Minoc" type: towne tlk_fname: "minoc.tlk") [
-            roles [
-                companion 32
-                weaponsvendor 30
-                innkeeper 31
-            ]
-        ]
-        labels [sacrificerune 28,30]
-    ]
-    map (id: 10 type: city fname: "trinsic.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Trinsic" type: towne tlk_fname: "trinsic.tlk") [
-            roles [
-                companion 32
-                weaponsvendor 29
-                armorvendor 28
-                tavernkeeper 31
-                innkeeper 30
-            ]
-        ]
-        labels [honorrune 2,29]
-    ]
-    map (id: 11 type: city fname: "skara.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Skara Brae" type: towne tlk_fname: "skara.tlk") [
-            roles [
-                companion 32
-                foodvendor 28
-                reagentsvendor 30
-                healer 31
-                innkeeper 29
-            ]
+    map (id: 7 type: city fname: "map/ult_jhelom.tmx" borderbehavior: exit music: 2) [
+        city (name: "Jhelom" type: towne tlk_fname: "npc/jhelom.b") [
         ]
     ]
-    map (id: 12 type: city fname: "magincia.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Magincia" type: ruins tlk_fname: "magincia.tlk") [
-            roles [companion 32]
+    map (id: 8 type: city fname: "map/ult_yew.tmx" borderbehavior: exit music: 2) [
+        city (name: "Yew" type: towne tlk_fname: "npc/yew.b") [
         ]
     ]
-    map (id: 13 type: city fname: "paws.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Paws" type: village tlk_fname: "paws.tlk") [
-            roles [
-                armorvendor 27
-                foodvendor 31
-                tavernkeeper 30
-                tavernkeeper 29
-                reagentsvendor 28
-                horsevendor 18
-            ]
-        ]
-        labels [humilityrune 29,29]
-    ]
-    map (id: 14 type: city fname: "den.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Buccaneers Den" type: village tlk_fname: "den.tlk") [
-            roles [
-                weaponsvendor 28
-                armorvendor 27
-                tavernkeeper 26
-                reagentsvendor 30
-                guildvendor 29
-            ]
+    map (id: 9 type: city fname: "map/ult_minoc.tmx" borderbehavior: exit music: 2) [
+        city (name: "Minoc" type: towne tlk_fname: "npc/minoc.b") [
         ]
     ]
-    map (id: 15 type: city fname: "vesper.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Vesper" type: village tlk_fname: "vesper.tlk") [
-            roles [
-                weaponsvendor 25
-                tavernkeeper 23
-                innkeeper 26
-                guildvendor 24
-            ]
+    map (id: 10 type: city fname: "map/ult_trinsic.tmx" borderbehavior: exit music: 2) [
+        city (name: "Trinsic" type: towne tlk_fname: "npc/trinsic.b") [
         ]
     ]
-    map (id: 16 type: city fname: "cove.ult" width: 32 height: 32 borderbehavior: exit music: 2) [
-        city (name: "Cove" type: village tlk_fname: "cove.tlk") [
-            roles [healer 31]
+    map (id: 11 type: city fname: "map/ult_skara.tmx" borderbehavior: exit music: 2) [
+        city (name: "Skara Brae" type: towne tlk_fname: "npc/skara.b") [
         ]
-        labels [candle 22,1]
+    ]
+    map (id: 12 type: city fname: "map/ult_magincia.tmx" borderbehavior: exit music: 2) [
+        city (name: "Magincia" type: ruins tlk_fname: "npc/magincia.b") [
+        ]
+    ]
+    map (id: 13 type: city fname: "map/ult_paws.tmx" borderbehavior: exit music: 2) [
+        city (name: "Paws" type: village tlk_fname: "npc/paws.b") [
+        ]
+    ]
+    map (id: 14 type: city fname: "map/ult_den.tmx" borderbehavior: exit music: 2) [
+        city (name: "Buccaneers Den" type: village tlk_fname: "npc/den.b") [
+        ]
+    ]
+    map (id: 15 type: city fname: "map/ult_vesper.tmx" borderbehavior: exit music: 2) [
+        city (name: "Vesper" type: village tlk_fname: "npc/vesper.b") [
+        ]
+    ]
+    map (id: 16 type: city fname: "map/ult_cove.tmx" borderbehavior: exit music: 2) [
+        city (name: "Cove" type: village tlk_fname: "npc/cove.b") [
+        ]
     ]
     map (id: 17 type: dungeon fname: "deceit.dng" width: 8 height: 8 levels: 8 borderbehavior: wrap firstperson: true music: 7) [
         dungeon (name: "Deceit" rooms: 16)

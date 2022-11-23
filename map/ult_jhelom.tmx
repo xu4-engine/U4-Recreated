@@ -39,7 +39,7 @@
 128,128,126,128,128,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,128,128,126,128,128
   </data>
  </layer>
- <objectgroup id="1" name="npcs">
+ <objectgroup id="2" name="npcs">
   <object id="1" gid="82" x="288" y="336" width="16" height="16" type="S 0"/>
   <object id="2" gid="81" x="64" y="320" width="16" height="16" type="S 0"/>
   <object id="3" gid="81" x="80" y="176" width="16" height="16" type="W 0"/>
@@ -62,13 +62,16 @@
   <object id="22" gid="57" x="80" y="144" width="16" height="16" name="Bengrod" type="S 4"/>
   <object id="23" gid="48" x="432" y="400" width="16" height="16" name="Lady Donna" type="W 3"/>
   <object id="24" gid="37" x="80" y="384" width="16" height="16" name="Lord Robert" type="S 2"/>
-  <object id="25" gid="84" x="128" y="96" width="16" height="16" type="W 0"/>
-  <object id="26" gid="84" x="144" y="96" width="16" height="16" type="W 0"/>
-  <object id="27" gid="84" x="112" y="96" width="16" height="16" type="W 0"/>
-  <object id="28" gid="83" x="384" y="80" width="16" height="16" type="F 0"/>
-  <object id="29" gid="83" x="384" y="176" width="16" height="16" type="F 0"/>
-  <object id="30" gid="83" x="400" y="304" width="16" height="16" type="F 0"/>
-  <object id="31" gid="83" x="352" y="448" width="16" height="16" type="S 0"/>
-  <object id="32" gid="37" x="256" y="432" width="16" height="16" name="Geoffrey" type="S 1"/>
+  <object id="25" gid="84" x="128" y="96" width="16" height="16" name="role/healer" type="W 0"/>
+  <object id="26" gid="84" x="144" y="96" width="16" height="16" name="role/healer" type="W 0"/>
+  <object id="27" gid="84" x="112" y="96" width="16" height="16" name="role/healer" type="W 0"/>
+  <object id="28" gid="83" x="384" y="80" width="16" height="16" name="role/armor" type="F 0"/>
+  <object id="29" gid="83" x="384" y="176" width="16" height="16" name="role/weapons" type="F 0"/>
+  <object id="30" gid="83" x="400" y="304" width="16" height="16" name="role/tavern" type="F 0"/>
+  <object id="31" gid="83" x="352" y="448" width="16" height="16" name="role/inn" type="S 0"/>
+  <object id="32" gid="37" x="256" y="432" width="16" height="16" name="companion/Geoffrey" type="S 1"/>
+ </objectgroup>
+ <objectgroup id="3" name="labels">
+  <object id="1" name="valorrune" x="488" y="488"><point/></object>
  </objectgroup>
 </map>

@@ -39,7 +39,7 @@
 128,128,128,126,128,128,128,5,5,5,5,5,5,6,63,63,63,6,5,5,56,5,5,5,128,128,128,126,128,128,128,5
   </data>
  </layer>
- <objectgroup id="1" name="npcs">
+ <objectgroup id="2" name="npcs">
   <object id="11" gid="33" x="448" y="400" width="16" height="16" name="Joshua" type="S 1"/>
   <object id="12" gid="48" x="240" y="48" width="16" height="16" name="Landri" type="S 16"/>
   <object id="13" gid="82" x="144" y="80" width="16" height="16" name="a guard" type="W 14"/>
@@ -58,9 +58,12 @@
   <object id="26" gid="82" x="464" y="96" width="16" height="16" name="a guard" type="W 9"/>
   <object id="27" gid="48" x="336" y="96" width="16" height="16" name="Shawn" type="W 11"/>
   <object id="28" gid="3" x="336" y="144" width="16" height="16" name="Water" type="S 10"/>
-  <object id="29" gid="83" x="336" y="448" width="16" height="16" type="F 0"/>
-  <object id="30" gid="83" x="144" y="448" width="16" height="16" type="F 0"/>
+  <object id="29" gid="83" x="336" y="448" width="16" height="16" name="role/healer" type="F 0"/>
+  <object id="30" gid="83" x="144" y="448" width="16" height="16" name="role/hawkwind" type="F 0"/>
   <object id="31" gid="81" x="272" y="480" width="16" height="16" name="a guard" type="S 9"/>
   <object id="32" gid="81" x="208" y="480" width="16" height="16" name="a guard" type="S 9"/>
+ </objectgroup>
+ <objectgroup id="3" name="labels">
+  <object id="1" name="spiritualityrune" x="280" y="136"><point/></object>
  </objectgroup>
 </map>

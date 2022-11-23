@@ -39,7 +39,7 @@
 5,5,8,8,8,4,5,5,5,5,9,2,2,2,2,9,9,9,9,9,9,8,8,56,5,56,5,8,8,5,5,5
   </data>
  </layer>
- <objectgroup id="1" name="npcs">
+ <objectgroup id="2" name="npcs">
   <object id="16" gid="33" x="48" y="432" width="16" height="16" name="Circe" type="S 16"/>
   <object id="17" gid="34" x="64" y="416" width="16" height="16" name="Charm" type="S 15"/>
   <object id="18" gid="34" x="48" y="400" width="16" height="16" name="Shaman" type="S 14"/>
@@ -55,7 +55,10 @@
   <object id="28" gid="225" x="48" y="144" width="16" height="16" name="Mentorian" type="S 4"/>
   <object id="29" gid="84" x="192" y="416" width="16" height="16" name="Sloven" type="S 3"/>
   <object id="30" gid="39" x="160" y="256" width="16" height="16" name="Frontis" type="S 2"/>
-  <object id="31" gid="84" x="400" y="448" width="16" height="16" type="F 0"/>
+  <object id="31" gid="84" x="400" y="448" width="16" height="16" name="role/healer" type="F 0"/>
   <object id="32" gid="91" x="192" y="64" width="16" height="16" name="Allen" type="S 1"/>
+ </objectgroup>
+ <objectgroup id="3" name="labels">
+  <object id="1" name="candle" x="360" y="24"><point/></object>
  </objectgroup>
 </map>

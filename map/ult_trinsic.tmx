@@ -39,7 +39,7 @@
 128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128
   </data>
  </layer>
- <objectgroup id="1" name="npcs">
+ <objectgroup id="2" name="npcs">
   <object id="5" gid="82" x="256" y="400" width="16" height="16" name="a guard" type="S 16"/>
   <object id="6" gid="82" x="256" y="336" width="16" height="16" name="a guard" type="S 16"/>
   <object id="7" gid="82" x="48" y="160" width="16" height="16" name="a guard" type="S 16"/>
@@ -62,10 +62,13 @@
   <object id="25" gid="197" x="480" y="160" width="16" height="16" name="Skitle" type="S 4"/>
   <object id="26" gid="37" x="128" y="128" width="16" height="16" name="Publius" type="S 3"/>
   <object id="27" gid="33" x="16" y="496" width="16" height="16" name="Virgil" type="S 2"/>
-  <object id="28" gid="83" x="352" y="416" width="16" height="16" type="W 0"/>
-  <object id="29" gid="83" x="336" y="320" width="16" height="16" type="F 0"/>
-  <object id="30" gid="83" x="272" y="48" width="16" height="16" type="F 0"/>
-  <object id="31" gid="83" x="64" y="32" width="16" height="16" type="W 0"/>
-  <object id="32" gid="43" x="32" y="96" width="16" height="16" name="Dupre" type="S 1"/>
+  <object id="28" gid="83" x="352" y="416" width="16" height="16" name="role/armor" type="W 0"/>
+  <object id="29" gid="83" x="336" y="320" width="16" height="16" name="role/weapons" type="F 0"/>
+  <object id="30" gid="83" x="272" y="48" width="16" height="16" name="role/inn" type="F 0"/>
+  <object id="31" gid="83" x="64" y="32" width="16" height="16" name="role/tavern" type="W 0"/>
+  <object id="32" gid="43" x="32" y="96" width="16" height="16" name="companion/Dupre" type="S 1"/>
+ </objectgroup>
+ <objectgroup id="3" name="labels">
+  <object id="1" name="honorrune" x="40" y="472"><point/></object>
  </objectgroup>
 </map>

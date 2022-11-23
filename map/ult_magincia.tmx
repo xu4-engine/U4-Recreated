@@ -39,7 +39,7 @@
 5,5,5,5,5,5,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58
   </data>
  </layer>
- <objectgroup id="1" name="npcs">
+ <objectgroup id="2" name="npcs">
   <object id="5" gid="206" x="480" y="32" width="16" height="16" name="Nate" type="A 15"/>
   <object id="6" gid="241" x="144" y="256" width="16" height="16" name="Virtuebane" type="S 16"/>
   <object id="7" gid="159" x="224" y="128" width="16" height="16" name="Ruskin" type="W 14"/>
@@ -67,6 +67,6 @@
   <object id="29" gid="157" x="288" y="320" width="16" height="16" name="Ghostly" type="S 2"/>
   <object id="30" gid="200" x="320" y="368" width="16" height="16" name="Ghostly" type="W 2"/>
   <object id="31" gid="200" x="304" y="352" width="16" height="16" name="Skullface" type="S 3"/>
-  <object id="32" gid="47" x="16" y="496" width="16" height="16" name="Katrina" type="S 1"/>
+  <object id="32" gid="47" x="16" y="496" width="16" height="16" name="companion/Katrina" type="S 1"/>
  </objectgroup>
 </map>
