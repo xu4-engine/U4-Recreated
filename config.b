@@ -1,15 +1,11 @@
 module [
     about: {{
         A stand-alone version of Ultima IV using graphics from the Upgrade
-        Project, TMX maps, and speech for major characters.
+        & Remastered projects, TMX maps, and speech for major characters.
     }}
     author:  "xu4 team"
     version: "0.1"
     rules:   "Ultima-IV/1.1"
-]
-
-graphics: [
-    borders: "gui.png"
 ]
 
 draw-lists: [
@@ -38,5 +34,5 @@ music: [
     11 parts %gypsy.ogg
 ]
 
-;include %graphics.b
+include %graphics.b
 include %maps.b
