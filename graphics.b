@@ -166,7 +166,9 @@ graphics: [
     ]
     image (name: tile_guard filename: "tile_guard.png" tiles: 4)
     image (name: charset filename: "charset.png" tiles: 128)
-    borders: "gui.png"
+   ;borders: "gui.png"
+    image (name: borders filename: "u4/start.ega" width: 320 height: 200
+           depth: 4 filetype: u4rle)
     tree: "vutne/145-tree.png" [
         moongate  0,152, 20,24
         items    24,152, 20,24

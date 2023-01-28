@@ -8,6 +8,7 @@ module [
     rules:   "Ultima-IV/1.1"
 ]
 
+/*
 draw-lists: [
     ; Border from gui.atl
     ;      tex-size ref-size list tex-unit
@@ -26,6 +27,7 @@ draw-lists: [
         "b.ankh_bot" 51,51,240,14, 384,177
     ]
 ]
+*/
 
 music: [
     path %voice
