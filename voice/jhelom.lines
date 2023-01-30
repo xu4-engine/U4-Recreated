@@ -87,7 +87,7 @@ context [
     name: "jhe05-Sir_Hrothgar"
     voice: 'tts_models/en/vctk/vits/p229
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 100 tempo -s 1.2 bass 9"
     lines: [
         "I am Sir Hrothgar."
         "Bye."
@@ -201,7 +201,7 @@ context [
 ]
 context [
     name: "jhe12-Max"
-    voice: 'tts_models/en/vctk/vits/p254
+    voice: 'tts_models/en/vctk/vits/p232
     pitch: 0
     pre-encode: none
     lines: [
@@ -218,7 +218,7 @@ context [
 ]
 context [
     name: "jhe13-X"
-    voice: 'tts_models/en/vctk/vits/p232
+    voice: 'tts_models/en/vctk/vits/p254
     pitch: 0
     pre-encode: none
     lines: [

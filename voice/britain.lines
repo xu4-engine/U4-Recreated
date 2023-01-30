@@ -1,6 +1,6 @@
 context [
     name: "bri00-Iolo"
-    voice: 'tts_models/en/vctk/vits/p307
+    voice: 'tts_models/en/vctk/vits/p241
     pitch: 0
     pre-encode: none
     lines: [
@@ -17,7 +17,7 @@ context [
 ]
 context [
     name: "bri01-Gweno"
-    voice: 'tts_models/en/vctk/vits/p336
+    voice: 'tts_models/en/vctk/vits/p341
     pitch: 0
     pre-encode: none
     lines: [
@@ -28,19 +28,19 @@ context [
         "Dance is good for the soul."
         "Do you give to the needy?"
         {Beggars are thankful for small donations.}
-        "Alas."
+        "Aalas."	; "Alas."
         "To give to a beggar shows compassion."
     ]
 ]
 context [
     name: "bri02-a_child"
-    voice: 'tts_models/en/vctk/vits/p329
-    pitch: 0
+    voice: 'tts_models/en/vctk/vits/p336
+    pitch: 250
     pre-encode: none
     lines: [
         "I am a child."
         "Bye."
-        "Singing."
+        "Sing-in."	; "Singing."
         "Very happy."
         "The song goes: Ho eyo he hum!"
         "It means: Love to one and all!"
@@ -51,7 +51,7 @@ context [
 ]
 context [
     name: "bri03-a_guard"
-    voice: 'tts_models/en/vctk/vits/p279
+    voice: 'tts_models/en/vctk/vits/p287
     pitch: 0
     pre-encode: none
     lines: [
@@ -68,7 +68,7 @@ context [
 ]
 context [
     name: "bri04-Pepper"
-    voice: 'tts_models/en/vctk/vits/p276
+    voice: 'tts_models/en/vctk/vits/p329
     pitch: 0
     pre-encode: none
     lines: [
@@ -85,7 +85,7 @@ context [
 ]
 context [
     name: "bri05-Thevel"
-    voice: 'tts_models/en/vctk/vits/p258
+    voice: 'tts_models/en/vctk/vits/p279
     pitch: 0
     pre-encode: none
     lines: [
@@ -102,32 +102,32 @@ context [
 ]
 context [
     name: "bri06-Joe"
-    voice: 'tts_models/en/vctk/vits/p313
-    pitch: 0
+    voice: 'tts_models/en/vctk/vits/p267
+    pitch: -100
     pre-encode: none
     lines: [
         "I am Joe."
         "Bye."
-        {Yo ho ho... and a bottle... of rum... hic...}
+        {Yo ho ho... and a bottle... of rum... hic...}	; Edit effect
         "And a bottle of..."
         {The yellow stone is in the dungeon Despise...}
-        "Rum... hic..."
+        "Some Rum... hic..." 	; Edit effect "Rum... hic..."
         "Give me rum?..."
-        {Thanxth... my friend Joe can help with the stones... hic...}
+        {Thanxth... my friend Joe can help with the stones... hic...}	; Edit effect
         "Ah, be a joe!"
     ]
 ]
 context [
     name: "bri07-Cricket"
-    voice: 'tts_models/en/vctk/vits/p253
+    voice: 'tts_models/en/vctk/vits/p266
     pitch: 0
     pre-encode: none
     lines: [
         "I am Cricket."
         "Bye."
-        "Shhh, I'm playing!"
-        "Shhh."
-        "Yes, shhh!"
+        "Shhh, I'm playing!"	; Edit effect
+        "Shhh."		; Effect
+        "Yes, shhh!"	; Edit effect
         "Now wilt thou be quiet?"
         "Thanks."
         "I am going to call the guards!"
@@ -136,7 +136,7 @@ context [
 ]
 context [
     name: "bri08-a_guard"
-    voice: 'tts_models/en/vctk/vits/p265
+    voice: 'tts_models/en/vctk/vits/p313
     pitch: 0
     pre-encode: none
     lines: [
@@ -153,8 +153,8 @@ context [
 ]
 context [
     name: "bri09-a_child"
-    voice: 'tts_models/en/vctk/vits/p282
-    pitch: 0
+    voice: 'tts_models/en/vctk/vits/p374
+    pitch: 50
     pre-encode: none
     lines: [
         "I am a child."
@@ -170,8 +170,8 @@ context [
 ]
 context [
     name: "bri10-Shalimar"
-    voice: 'tts_models/en/vctk/vits/p252
-    pitch: 0
+    voice: 'tts_models/en/vctk/vits/p265
+    pitch: 100
     pre-encode: none
     lines: [
         "I am Shalimar."
@@ -187,7 +187,7 @@ context [
 ]
 context [
     name: "bri11-Sebastian"
-    voice: 'tts_models/en/vctk/vits/p285
+    voice: 'tts_models/en/vctk/vits/p282
     pitch: 0
     pre-encode: none
     lines: [
@@ -204,7 +204,7 @@ context [
 ]
 context [
     name: "bri12-Shapero"
-    voice: 'tts_models/en/vctk/vits/p238
+    voice: 'tts_models/en/vctk/vits/p252
     pitch: 0
     pre-encode: none
     lines: [
@@ -221,7 +221,7 @@ context [
 ]
 context [
     name: "bri13-Julio"
-    voice: 'tts_models/en/vctk/vits/p330
+    voice: 'tts_models/en/vctk/vits/p285
     pitch: 0
     pre-encode: none
     lines: [
@@ -238,7 +238,7 @@ context [
 ]
 context [
     name: "bri14-Mentor"
-    voice: 'tts_models/en/vctk/vits/p254
+    voice: 'tts_models/en/vctk/vits/p238
     pitch: 0
     pre-encode: none
     lines: [
@@ -255,7 +255,7 @@ context [
 ]
 context [
     name: "bri15-Sprite"
-    voice: 'tts_models/en/vctk/vits/p295
+    voice: 'tts_models/en/vctk/vits/p305
     pitch: 0
     pre-encode: none
     lines: [

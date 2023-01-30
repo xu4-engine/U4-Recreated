@@ -17,9 +17,9 @@ context [
 ]
 context [
     name: "ves01-Guard"
-    voice: 'tts_models/en/vctk/vits/p306
+    voice: 'tts_models/en/vctk/vits/p255
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -220 tempo -s 1.1"
     lines: [
         "I am Guard."
         "Bye."

@@ -9,14 +9,14 @@ context [
         "We guard the bridge slime!"
         "What's it to ya scumpuppy!"
         "This bridge ya stupid jerk!"
-        "Art thou a wise &##!?"
+        "Art thou a wise ass!?"     ; &##!?
         "Thou had best ditch it then!"
         "Then just buzz off!"
     ]
 ]
 context [
     name: "den01-Rankbreath"
-    voice: 'tts_models/en/vctk/vits/p376
+    voice: 'tts_models/en/vctk/vits/p340
     pitch: 0
     pre-encode: none
     lines: [
@@ -50,9 +50,9 @@ context [
 ]
 context [
     name: "den03-Silver_John"
-    voice: 'tts_models/en/vctk/vits/p376
+    voice: 'tts_models/en/vctk/vits/p313
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -100 tempo -s 0.9"
     lines: [
         "I am Silver John."
         "Bye."
@@ -69,7 +69,7 @@ context [
     name: "den04-Slysam"
     voice: 'tts_models/en/vctk/vits/p272
     pitch: 0
-    pre-encode: none
+    pre-encode: "tempo -s 1.2"
     lines: [
         "I am Slysam."
         "Bye."
@@ -86,7 +86,7 @@ context [
     name: "den05-Ragnar"
     voice: 'tts_models/en/vctk/vits/p272
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -150"
     lines: [
         "I am Ragnar."
         "Bye."
@@ -168,9 +168,9 @@ context [
 ]
 context [
     name: "den10-Boris"
-    voice: 'tts_models/en/vctk/vits/p314
+    voice: 'tts_models/en/vctk/vits/p279
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -220"
     lines: [
         "I am Boris."
         "Bye."
@@ -254,7 +254,7 @@ context [
     name: "den15-Sniflet"
     voice: 'tts_models/en/vctk/vits/p281
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 120"
     lines: [
         "I am Sniflet."
         "Bye."

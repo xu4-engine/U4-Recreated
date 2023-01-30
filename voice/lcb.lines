@@ -1,17 +1,17 @@
 context [
     name: "lcb00-Joshua"
-    voice: 'tts_models/en/vctk/vits/p251
+    voice: 'tts_models/en/vctk/vits/p251	; 'northern_english_male
     pitch: 0
     pre-encode: none
     lines: [
-        "I am Joshua."
-        "Bye."
+        none ; "I am Joshua."
+        none ; "Bye."
         "I can help."
         "Well."
         "The riddle!"
-        {If the eight philosophies of avatarhood combine into and are made from truth, love & courage...}
+        none ; {If the eight philosophies of avatarhood combine into and are made from truth, love & courage...}
         "More?"
-        {What one thing creates and is created by all truths, all love & all courage?}
+        none ; {What one thing creates and is created by all truths, all love & all courage?}
         "Oh."
     ]
 ]
@@ -19,7 +19,7 @@ context [
     name: "lcb01-Juliet"
     voice: 'tts_models/en/vctk/vits/p294
     pitch: 0
-    pre-encode: none
+    pre-encode: "reverb 30 50 85 100 20 -5"
     lines: [
         "I am Juliet."
         "Bye."
@@ -35,8 +35,8 @@ context [
 context [
     name: "lcb02-Jester_Twin"
     voice: 'tts_models/en/vctk/vits/p232
-    pitch: 0
-    pre-encode: none
+    pitch: 150
+    pre-encode: "tempo -s 1.1 reverb 30 50 85 100 20 -5"
     lines: [
         "I am Jester Twin."
         "Bye."
@@ -85,9 +85,9 @@ context [
 ]
 context [
     name: "lcb05-a_reaper"
-    voice: 'tts_models/en/vctk/vits/p364
-    pitch: 0
-    pre-encode: none
+    voice: 'tts_models/en/vctk/vits/p340
+    pitch: -250
+    pre-encode: "pitch -200 echo 0.8 0.88 30 0.4"
     lines: [
         "I am a reaper."
         "Bye."
@@ -106,7 +106,7 @@ context [
     pitch: 0
     pre-encode: none
     lines: [
-        "I am a nameless prisoner."
+        "I am a prisoner." 	; "I am a nameless prisoner."
         "Bye."
         "I have none."
         "Very poor."
@@ -182,7 +182,7 @@ context [
         "I come from a proud city."
         "Art thou proud?"
         "Hmmm."
-        {My towne was destroyed for its pride. The ruins lie on an isle at lat-K'J" long-L'L"!}
+        {My towne was destroyed for its pride. The ruins lie on an isle at latitude KJ longitude LL!}
     ]
 ]
 context [
@@ -206,7 +206,7 @@ context [
     name: "lcb12-Chuckles"
     voice: 'tts_models/en/vctk/vits/p326
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 100 tempo -s 1.1"
     lines: [
         "I am Chuckles."
         "Bye."

@@ -2,7 +2,7 @@ context [
     name: "yew00-Jaana"
     voice: 'tts_models/en/vctk/vits/p305
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -200"
     lines: [
         "I am Jaana."
         "Bye."
@@ -119,7 +119,7 @@ context [
     pitch: 0
     pre-encode: none
     lines: [
-        "I am Dwp."
+        "I am Dewp."	; "Dwp."
         "Bye."
         "Welcome thee to Yew city of justice!"
         "I am well."
@@ -185,13 +185,13 @@ context [
     name: "yew11-Short_Round"
     voice: 'tts_models/en/vctk/vits/p234
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 300"
     lines: [
         "I am Short Round."
         "Bye."
         "I work for Jones."
         "I am fine."
-        "I think Indi's on a quest!"
+        "I think Indy's on a quest!"	; "Indi's"
         "I'm not so sure, but it should be fun!"
         "Art thou having fun?"
         "Write to Lord British and tell him!!!"

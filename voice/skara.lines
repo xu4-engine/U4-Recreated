@@ -2,15 +2,15 @@ context [
     name: "ska00-Shamino"
     voice: 'tts_models/en/vctk/vits/p326
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 80"
     lines: [
         "I am Shamino."
         "Bye."
         "I seek the inner light."
         "I am well."
-        {I seek the "one great truth"!}
+        {I seek the one great truth!}	; unquoted
         "That which lies within the codex!"
-        {Dost thou seek this "truth"?}
+        {Dost thou seek this truth?}	; unquoted
         {Some things take forever but brick by brick mountains can be built!}
         "Alas."
     ]
@@ -19,7 +19,7 @@ context [
     name: "ska01-Emerson"
     voice: 'tts_models/en/vctk/vits/p286
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -140"
     lines: [
         "I am Emerson."
         "Bye."
@@ -53,7 +53,7 @@ context [
     name: "ska03-Presto"
     voice: 'tts_models/en/vctk/vits/p307
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 200"
     lines: [
         "I am Presto."
         "Bye."
@@ -102,7 +102,7 @@ context [
 ]
 context [
     name: "ska06-Buddha"
-    voice: 'tts_models/en/vctk/vits/p256
+    voice: 'tts_models/en/vctk/vits/p301
     pitch: 0
     pre-encode: none
     lines: [
@@ -203,7 +203,7 @@ context [
     name: "ska12-the_Ankh_of_Spirituality"
     voice: 'tts_models/en/vctk/vits/p280
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -200 chorus 0.7 0.9 55 0.4 0.25 2 -t"
     lines: [
         "I am the Ankh of Spirituality."
         "Bye."
@@ -235,9 +235,9 @@ context [
 ]
 context [
     name: "ska14-Barren"
-    voice: 'tts_models/en/vctk/vits/p272
+    voice: 'tts_models/en/vctk/vits/p292
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 220"
     lines: [
         "I am Barren."
         "Bye."
@@ -250,7 +250,7 @@ context [
     name: "ska15-Isaac"
     voice: 'tts_models/en/vctk/vits/p302
     pitch: 0
-    pre-encode: none
+    pre-encode: 'ghost
     lines: [
         "I am Isaac."
         "Bye."

@@ -19,7 +19,7 @@ context [
     name: "min01-Zircon"
     voice: 'tts_models/en/vctk/vits/p301
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -100"
     lines: [
         "I am Zircon."
         "Bye."
@@ -36,7 +36,7 @@ context [
     name: "min02-Bob_the_Beggar"
     voice: 'tts_models/en/vctk/vits/p318
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 100 tempo -s 0.9"
     lines: [
         "I am Bob the Beggar."
         "Bye."
@@ -70,7 +70,7 @@ context [
     name: "min04-Gimble"
     voice: 'tts_models/en/vctk/vits/p298
     pitch: 0
-    pre-encode: none
+    pre-encode: "tempo -s 0.8 tremolo 50 40"
     lines: [
         "I am Gimble."
         "Bye."
@@ -96,7 +96,7 @@ context [
         "I will not speak of my sin!"
         "I used it!"
         {If I help thee wilt thou swear to only use it at the mouth of the abyss to destroy it?}
-        {It can be found at lat-P'F" long-M'F" on the darkest night!}
+        {It can be found at latitude PF longitude MF on the darkest night!}
         "Oh."
     ]
 ]
@@ -127,18 +127,18 @@ context [
         "Bye."
         "I am trying to get a room."
         "Well enough."
-        "I have travelled clear from Skara Brae."
+        "I have travelled clear from Skara Bray."	; "Brae."
         "The rune of our city is missing!"
         "Know thee of the rune?"
         {It is the key to the shrine of spirituality!}
-        "It is not in Skara Brae."
+        "It is not in Skara Bray."	; "Brae."
     ]
 ]
 context [
     name: "min08-Alex"
     voice: 'tts_models/en/vctk/vits/p253
     pitch: 0
-    pre-encode: none
+    pre-encode: "tempo -s 1.1"
     lines: [
         "I am Alex."
         "Bye."
@@ -179,7 +179,7 @@ context [
         "I sing songs!"
         "Very well indeed!"
         "I sing songs!"
-        {Very well, the raven sings, the raven saw and in the corn he sayeth 'CAH'.}
+        {Very well, the raven sings, the raven saw and in the corn he sayeth Caw.}	; 'CAH'.
         "Dost thou like it?"
         "Thanks."
         "Too bad..."

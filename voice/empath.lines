@@ -70,7 +70,7 @@ context [
     name: "emp04-the_pass_guard"
     voice: 'tts_models/en/vctk/vits/p305
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -150"
     lines: [
         "I am the pass guard."
         "Bye."
@@ -121,7 +121,7 @@ context [
     name: "emp07-Chinup"
     voice: 'tts_models/en/vctk/vits/p252
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 250"
     lines: [
         "I am Chinup."
         "Bye."
@@ -189,7 +189,7 @@ context [
     name: "emp11-Thomas"
     voice: 'tts_models/en/vctk/vits/p262
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 200"
     lines: [
         "I am Thomas."
         "Bye."
@@ -204,7 +204,7 @@ context [
 ]
 context [
     name: "emp12-Lastro"
-    voice: 'tts_models/en/vctk/vits/p262
+    voice: 'tts_models/en/vctk/vits/p298
     pitch: 0
     pre-encode: none
     lines: [
@@ -223,7 +223,7 @@ context [
     name: "emp13-Humlock"
     voice: 'tts_models/en/vctk/vits/p262
     pitch: 0
-    pre-encode: none
+    pre-encode: "tempo -s 1.1"
     lines: [
         "I am Humlock."
         "Bye."
@@ -238,11 +238,11 @@ context [
 ]
 context [
     name: "emp14-Malchor"
-    voice: 'tts_models/en/vctk/vits/p326
+    voice: 'tts_models/en/vctk/vits/p286
     pitch: 0
     pre-encode: none
     lines: [
-        "I am Malchor."
+        "I am Malcor."	; Malchor
         "Bye."
         "I solve quests."
         "Just now fully healed!"
@@ -255,9 +255,9 @@ context [
 ]
 context [
     name: "emp15-Brother_Antos"
-    voice: 'tts_models/en/vctk/vits/p286
+    voice: 'tts_models/en/vctk/vits/p326
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -50 tremolo 40 40 tempo -s 0.9"
     lines: [
         "I am Brother Antos."
         "Bye."

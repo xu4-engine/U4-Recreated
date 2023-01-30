@@ -53,7 +53,7 @@ context [
     name: "paw03-Zair_the_Wise"
     voice: 'tts_models/en/vctk/vits/p317
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 100 tempo -s 1.2"
     lines: [
         "I am Zair the Wise."
         "Bye."

@@ -53,7 +53,7 @@ context [
     name: "lyc03-Palamar"
     voice: 'tts_models/en/vctk/vits/p231
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -100 tremolo 40 30 tempo -s 0.9"
     lines: [
         "I am Palamar."
         "Bye."
@@ -63,14 +63,14 @@ context [
         {Search there by the end, thou shalt find a knob.}
         "Dost thou see where?"
         "Set the dial and thou shalt see!"
-        "Look!!!"
+        "Look!"	; "Look!!!"
     ]
 ]
 context [
     name: "lyc04-Father_Antos"
     voice: 'tts_models/en/vctk/vits/p279
     pitch: 0
-    pre-encode: none
+    pre-encode: "tremolo 40 40 tempo -s 0.9"
     lines: [
         "I am Father Antos."
         "Bye."
@@ -104,7 +104,7 @@ context [
     name: "lyc06-Scatu"
     voice: 'tts_models/en/vctk/vits/p232
     pitch: 0
-    pre-encode: none
+    pre-encode: "tempo -s 1.1"
     lines: [
         "I am Scatu."
         "Bye."
@@ -129,7 +129,7 @@ context [
         "Why I am fine, you too I hope."
         "I am looking for the book of justice!"
         "It must be here somewhere!"
-        "Hast thou never committed *any* crime!?"
+        "Hast thou never committed ANY crime!?"	; "*any*"
         "I believe thou art boasting a lie!"
         "Then speak to the judge in Yew!"
     ]
@@ -138,7 +138,7 @@ context [
     name: "lyc08-Tymus"
     voice: 'tts_models/en/vctk/vits/p231
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -200"
     lines: [
         "I am Tymus."
         "Bye."
@@ -254,7 +254,7 @@ context [
     name: "lyc15-Shylock_the_Meek"
     voice: 'tts_models/en/vctk/vits/p236
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 80 tempo -s 0.9"
     lines: [
         "I am Shylock the Meek."
         "Bye."

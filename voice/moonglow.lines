@@ -26,7 +26,7 @@ context [
         "I am a writer."
         {I feel fine... if I could just quit smoking!}
         "It's low paid, but glamorous!"
-        "Cough...cough..."
+        "Cough...cough..."	; Effect
         "Do you smoke?"
         "I can tell by the smell!"
         "Don't start!"
@@ -36,7 +36,7 @@ context [
     name: "moo02-Cromwell"
     voice: 'tts_models/en/vctk/vits/p272
     pitch: 0
-    pre-encode: none
+    pre-encode: "tempo -s 1.2"
     lines: [
         "I am Cromwell."
         "Bye."
@@ -170,7 +170,7 @@ context [
 ]
 context [
     name: "moo10-Daranor"
-    voice: 'tts_models/en/vctk/vits/p376
+    voice: 'tts_models/en/vctk/vits/p340
     pitch: 0
     pre-encode: none
     lines: [
@@ -180,7 +180,7 @@ context [
         "Health?"
         "The moons are my enemies!"
         "When I die the world will end!"
-        "Do you believe my story!?!?..."
+        "Do you believe my story!?"	; "story!?!?..."
         "Then we must fell the moons!"
         "Idiot, you must think I am insane!"
     ]
@@ -266,7 +266,7 @@ context [
         {The stone of honesty is found on an altar in the dungeon of Deceit.}
         "Wilt thou search?"
         "Know its uses!"
-        "Hmm."
+        "Hmm."	; Effect
         {It is used within the dungeon altar rooms and in the abyss.}
     ]
 ]

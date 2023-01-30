@@ -2,14 +2,14 @@ context [
     name: "ser00-Sentri"
     voice: 'tts_models/en/vctk/vits/p285
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -200"
     lines: [
         "I am Sentri."
         "Bye."
         "I rule this province."
         "Very well."
         "Yes, these islands and much more."
-        "I know but one of three syllables-'cor'."
+        "I know but one of three syllables: 'cor'."  ; "syllables-'cor'."
         {Dost thou know the four cities of courage?}
         "Very good."
         {They are Jhelom, Minoc, Trinsic and Skara Brae.}
@@ -87,7 +87,7 @@ context [
     name: "ser05-Shyra"
     voice: 'tts_models/en/vctk/vits/p250
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -150"
     lines: [
         "I am Shyra."
         "Bye."
@@ -104,7 +104,7 @@ context [
     name: "ser06-a_baronial_guard"
     voice: 'tts_models/en/vctk/vits/p261
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -100 tempo -s 1.1"
     lines: [
         "I am a baronial guard."
         "Bye."
@@ -148,14 +148,14 @@ context [
         "Then train!"
         "Quite well."
         "Courage makes kings out of knaves!"
-        {The bell of courage lies at the bottom of a deep well at sea found at lat-N'A" long-L'A".}
+        {The bell of courage lies at the bottom of a deep well at sea found at latitude NA longitude LA.}
     ]
 ]
 context [
     name: "ser09-Durham"
     voice: 'tts_models/en/vctk/vits/p272
     pitch: 0
-    pre-encode: none
+    pre-encode: "tempo -s 1.1"
     lines: [
         "I am Durham."
         "Bye."
@@ -172,7 +172,7 @@ context [
     name: "ser10-Lori"
     voice: 'tts_models/en/vctk/vits/p248
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -200"
     lines: [
         "I am Lori."
         "Bye."

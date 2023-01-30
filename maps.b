@@ -46,7 +46,7 @@ maps: [
         ]
     ]
     map (id: 1 type: city fname: "map/ult_lcb_1.tmx" borderbehavior: exit music: 9) [
-        city (name: "Britannia" type: castle tlk_fname: "npc/lcb.b") [
+        city (name: "Britannia" type: castle tlk_fname: "npc/lcb.b" voice: 12) [
         ]
         portals [
              3,3 climb   56, 3, 3  message: "Klimb to second floor!^/"
@@ -55,7 +55,7 @@ maps: [
         ]
     ]
     map (id: 56 type: city fname: "map/ult_lcb_2.tmx" borderbehavior: exit music: 9) [
-        city (name: "Britannia" type: castle tlk_fname: "npc/lcb.b") [
+        city (name: "Britannia" type: castle tlk_fname: "npc/lcb.b" voice: 12) [
         ]
         portals [
              3, 3 descend 1, 3, 3 message: "Descend to first floor!^/"
@@ -63,63 +63,63 @@ maps: [
         ]
     ]
     map (id: 2 type: city fname: "map/ult_lycaeum.tmx" borderbehavior: exit music: 9) [
-        city (name: "Lycaeum" type: castle tlk_fname: "npc/lycaeum.b") [
+        city (name: "Lycaeum" type: castle tlk_fname: "npc/lycaeum.b" voice: 13) [
         ]
     ]
     map (id: 3 type: city fname: "map/ult_empath.tmx" borderbehavior: exit music: 9) [
-        city (name: "Empath Abbey" type: castle tlk_fname: "npc/empath.b") [
+        city (name: "Empath Abbey" type: castle tlk_fname: "npc/empath.b" voice: 14) [
         ]
     ]
     map (id: 4 type: city fname: "map/ult_serpent.tmx" borderbehavior: exit music: 9) [
-        city (name: "Serpents Hold" type: castle tlk_fname: "npc/serpent.b") [
+        city (name: "Serpents Hold" type: castle tlk_fname: "npc/serpent.b" voice: 15) [
         ]
     ]
     map (id: 5 type: city fname: "map/ult_moonglow.tmx" borderbehavior: exit music: 2) [
-        city (name: "Moonglow" type: towne tlk_fname: "npc/moonglow.b") [
+        city (name: "Moonglow" type: towne tlk_fname: "npc/moonglow.b" voice: 16) [
         ]
     ]
     map (id: 6 type: city fname: "map/ult_britain.tmx" borderbehavior: exit music: 2) [
-        city (name: "Britain" type: towne tlk_fname: "npc/britain.b") [
+        city (name: "Britain" type: towne tlk_fname: "npc/britain.b" voice: 17) [
         ]
     ]
     map (id: 7 type: city fname: "map/ult_jhelom.tmx" borderbehavior: exit music: 2) [
-        city (name: "Jhelom" type: towne tlk_fname: "npc/jhelom.b") [
+        city (name: "Jhelom" type: towne tlk_fname: "npc/jhelom.b" voice: 18) [
         ]
     ]
     map (id: 8 type: city fname: "map/ult_yew.tmx" borderbehavior: exit music: 2) [
-        city (name: "Yew" type: towne tlk_fname: "npc/yew.b") [
+        city (name: "Yew" type: towne tlk_fname: "npc/yew.b" voice: 19) [
         ]
     ]
     map (id: 9 type: city fname: "map/ult_minoc.tmx" borderbehavior: exit music: 2) [
-        city (name: "Minoc" type: towne tlk_fname: "npc/minoc.b") [
+        city (name: "Minoc" type: towne tlk_fname: "npc/minoc.b" voice: 20) [
         ]
     ]
     map (id: 10 type: city fname: "map/ult_trinsic.tmx" borderbehavior: exit music: 2) [
-        city (name: "Trinsic" type: towne tlk_fname: "npc/trinsic.b") [
+        city (name: "Trinsic" type: towne tlk_fname: "npc/trinsic.b" voice: 21) [
         ]
     ]
     map (id: 11 type: city fname: "map/ult_skara.tmx" borderbehavior: exit music: 2) [
-        city (name: "Skara Brae" type: towne tlk_fname: "npc/skara.b") [
+        city (name: "Skara Brae" type: towne tlk_fname: "npc/skara.b" voice: 22) [
         ]
     ]
     map (id: 12 type: city fname: "map/ult_magincia.tmx" borderbehavior: exit music: 2) [
-        city (name: "Magincia" type: ruins tlk_fname: "npc/magincia.b") [
+        city (name: "Magincia" type: ruins tlk_fname: "npc/magincia.b" voice: 23) [
         ]
     ]
     map (id: 13 type: city fname: "map/ult_paws.tmx" borderbehavior: exit music: 2) [
-        city (name: "Paws" type: village tlk_fname: "npc/paws.b") [
+        city (name: "Paws" type: village tlk_fname: "npc/paws.b" voice: 24) [
         ]
     ]
     map (id: 14 type: city fname: "map/ult_den.tmx" borderbehavior: exit music: 2) [
-        city (name: "Buccaneers Den" type: village tlk_fname: "npc/den.b") [
+        city (name: "Buccaneers Den" type: village tlk_fname: "npc/den.b" voice:25) [
         ]
     ]
     map (id: 15 type: city fname: "map/ult_vesper.tmx" borderbehavior: exit music: 2) [
-        city (name: "Vesper" type: village tlk_fname: "npc/vesper.b") [
+        city (name: "Vesper" type: village tlk_fname: "npc/vesper.b" voice: 26) [
         ]
     ]
     map (id: 16 type: city fname: "map/ult_cove.tmx" borderbehavior: exit music: 2) [
-        city (name: "Cove" type: village tlk_fname: "npc/cove.b") [
+        city (name: "Cove" type: village tlk_fname: "npc/cove.b" voice:27) [
         ]
     ]
     map (id: 17 type: dungeon fname: "deceit.dng" width: 8 height: 8 levels: 8 borderbehavior: wrap firstperson: true music: 7) [

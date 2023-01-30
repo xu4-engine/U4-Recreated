@@ -70,7 +70,7 @@ context [
     name: "cov04-the_ankh"
     voice: 'tts_models/en/vctk/vits/p335
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -200 chorus 0.7 0.9 55 0.4 0.25 2 -t"
     lines: [
         "I am the ankh."
         "Bye."

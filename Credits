@@ -15,3 +15,10 @@ image/vutne
 
     Copyright: KOA files (C) 2015 by Vanja Utne
     Download:  https://github.com/MagerValp/u4remastered/tree/master/src/charcreate
+
+voice/*.ogg
+    All voice OGG streams were created with Coqui & Larynx TTS.  Many lines
+    are processed with Sox and a few contain CC0 sound samples.
+
+    Copyright: OGG files (C) 2023 by Karl Robillard
+    License: https://creativecommons.org/licenses/by-nc-sa/4.0/

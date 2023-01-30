@@ -34,6 +34,22 @@ music: [
      9 parts %lordbritish.ogg
     10 parts %hawkwind.ogg
     11 parts %gypsy.ogg
+    12 parts %lcb.ogg
+    13 parts %lycaeum.ogg
+    14 parts %empath.ogg
+    15 parts %serpent.ogg
+    16 parts %moonglow.ogg
+    17 parts %britain.ogg
+    18 parts %jhelom.ogg
+    19 parts %yew.ogg
+    20 parts %minoc.ogg
+    21 parts %trinsic.ogg
+    22 parts %skara.ogg
+    23 parts %magincia.ogg
+    24 parts %paws.ogg
+    25 parts %den.ogg
+    26 parts %vesper.ogg
+    27 parts %cove.ogg
 ]
 
 include %graphics.b

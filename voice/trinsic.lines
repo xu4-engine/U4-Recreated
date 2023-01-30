@@ -1,10 +1,10 @@
 context [
     name: "tri00-Dupre"
-    voice: 'tts_models/en/vctk/vits/p281
+    voice: 'tts_models/en/vctk/vits/p287
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 20"
     lines: [
-        "I am Dupre."
+        "I am Dupré."	; accent
         "Bye."
         "I am towne leader."
         "Very well."
@@ -29,7 +29,7 @@ context [
         "'tis it thine?"
         "Bravo!"
         "Well I don't care!"
-        {Nightshade may be found only near lat-J'F" long-C'O" only on the darkest of nights!}
+        {Nightshade may be found only near latitude JF longitude CO only on the darkest of nights!}
     ]
 ]
 context [
@@ -53,7 +53,7 @@ context [
     name: "tri03-Skitle"
     voice: 'tts_models/en/vctk/vits/p257
     pitch: 0
-    pre-encode: none
+    pre-encode: "tremolo 16 70 pitch -220 gain -8 equalizer 7k 2k 45" 'skeleton
     lines: [
         "I am Skitle."
         "Bye."
@@ -172,7 +172,7 @@ context [
     name: "tri10-Kline"
     voice: 'tts_models/en/vctk/vits/p262
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 120"
     lines: [
         "I am Kline."
         "Bye."
@@ -189,7 +189,7 @@ context [
     name: "tri11-Lexington"
     voice: 'tts_models/en/vctk/vits/p238
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -180"
     lines: [
         "I am Lexington."
         "Bye."
