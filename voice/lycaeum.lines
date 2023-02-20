@@ -117,7 +117,6 @@ context [
         "Alas."
     ]
 ]
-Missing punctuation: Research
 context [
     name: "lyc07-Estro"
     voice: 'tts_models/en/vctk/vits/p226
@@ -126,7 +125,7 @@ context [
     lines: [
         "I am Estro."
         "Bye."
-        "Research"
+        "Research."
         "Why I am fine, you too I hope."
         "I am looking for the book of justice!"
         "It must be here somewhere!"
@@ -183,7 +182,6 @@ context [
         {They connect the dungeons unto each other!}
     ]
 ]
-Missing punctuation: Look under 't'
 context [
     name: "lyc11-Lord_Terence"
     voice: 'tts_models/en/vctk/vits/p318
@@ -198,7 +196,7 @@ context [
         "Art thou looking for a particular book?"
         "Which book?"
         "Feel free to browse."
-        "Look under 't'"
+        "Look under 't'."
     ]
 ]
 context [
@@ -218,7 +216,6 @@ context [
         {He lives in the castle Britannia ask him of his clue!}
     ]
 ]
-Missing punctuation: I shan't stop thee
 context [
     name: "lyc13-Catriona"
     voice: 'tts_models/en/vctk/vits/p274
@@ -232,7 +229,7 @@ context [
         "The treasures are of great value!"
         "Yes, much gold."
         "Dost thou intend to steal?"
-        "I shan't stop thee"
+        "I shan't stop thee."
         "Good, you had me worried!"
     ]
 ]

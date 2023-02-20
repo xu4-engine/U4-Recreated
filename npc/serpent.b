@@ -87,7 +87,7 @@
   pronoun: "She"
   look: "a stern guard."
   topics: [
-    "job" {I guard our lord}
+    "job" {I guard our lord.}
     "health" {Most good.}
     "LORD" {Sentri rules^/this castle.}
     ask {Dost thou wish^/an audience^/with Sentri?} [
@@ -103,7 +103,7 @@
   topics: [
     "job" {We guard our^/lord's treasure.}
     "health" {Excellent.}
-    "TREA" {This treasure is^/not for thee}
+    "TREA" {This treasure is^/not for thee.}
     ask {Dost thou intend^/to steal^/our lord's^/treasure?} [
       {Fool!}
       {Wise move!}
@@ -122,7 +122,7 @@
     ]
     "health" {Quite well.}
     "COUR" {Courage makes^/kings out of^/knaves!}
-    "BELL" {The bell of^/courage lies at^/the bottom of a^/deep well at sea^/found at^/lat-N'A"^/long-L'A"}
+    "BELL" {The bell of^/courage lies at^/the bottom of a^/deep well at sea^/found at^/lat-N'A"^/long-L'A".}
   ]
 ][
   name: "Durham"	; 9

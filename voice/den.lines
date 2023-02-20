@@ -31,7 +31,6 @@ context [
         "Then thou had better run!!!"
     ]
 ]
-Missing punctuation: Oh, a sailor's life is the life for me,
 context [
     name: "den02-Sailor"
     voice: 'tts_models/en/vctk/vits/p269
@@ -66,7 +65,6 @@ context [
         "Pillage and burn!"
     ]
 ]
-Missing punctuation: Just as I thought
 context [
     name: "den04-Slysam"
     voice: 'tts_models/en/vctk/vits/p272
@@ -81,7 +79,7 @@ context [
         "Thou dost ask too many questions!"
         "Art thou a thief?"
         "Oh, I'd better watch out!"
-        "Just as I thought"
+        "Just as I thought."
     ]
 ]
 context [
@@ -101,8 +99,6 @@ context [
         {Be warned that if thou dost ever use the skull, except to destroy it, all thy virtues will be lost!}
     ]
 ]
-Missing punctuation: I am a sorceress
-Missing punctuation: Ah
 context [
     name: "den06-Seanna"
     voice: 'tts_models/en/vctk/vits/p288
@@ -111,10 +107,10 @@ context [
     lines: [
         "I am Seanna."
         "Bye."
-        "I am a sorceress"
+        "I am a sorceress."
         "My dear friend, may I help you?"
         "How about with thy magic?"
-        "Ah"
+        "Ah."
         "I am well."
         {How about the sleep spell... sleep... sleep....}
         {A sleep spell requires but one part silk! sleep... sleep... sleep...}

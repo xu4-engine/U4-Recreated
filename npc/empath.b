@@ -74,7 +74,7 @@
   pronoun: "He"
   look: "a guard."
   topics: [
-    "job" {A gate guard}
+    "job" {A gate guard.}
     "health" {Top notch.}
     "GATE" {To the abbey.}
     "ABBE" {Here, in the oak^/grove many find^/the meaning of^/peace and love!}
@@ -159,7 +159,7 @@
   look: "a hearty tinker."
   topics: [
     "job" {I am thinking of^/love's part in^/sacrifice.}
-    "health" {Fine}
+    "health" {Fine.}
     ask {Thyself?} [
       {Good.}
       {Shame.}
@@ -186,7 +186,7 @@
   pronoun: "He"
   look: "a mumbling^/beggar."
   topics: [
-    "job" {I seek salvation}
+    "job" {I seek salvation.}
     "health" {Not so good.}
     "MUMB" {The...ankh...^/spoke to me!}
     "SALV" {I am but a poor^/destitute beggar^/I have nothing!}
@@ -200,7 +200,7 @@
   pronoun: "He"
   look: "a bold paladin."
   topics: [
-    "job" {I solve quests}
+    "job" {I solve quests.}
     "health" {Just now^/fully healed!}
     "QUES" {My last quest^/took me near^/Spiritwood.}
     ask {Art thou^/on a quest?} [

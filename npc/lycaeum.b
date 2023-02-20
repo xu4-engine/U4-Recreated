@@ -102,7 +102,7 @@
   pronoun: "He"
   look: "a short druid."
   topics: [
-    "job" {Research}
+    "job" {Research.}
     "health" {Why I am fine,^/you too I hope.}
     "REAS" {I am looking for^/the book of^/justice!}
     "JUST" {It must be here^/somewhere!}
@@ -162,7 +162,7 @@
       {Which book?}
       {Feel free^/to browse.}
     ]
-    "TRUT" {Look under 't'}
+    "TRUT" {Look under 't'.}
   ]
 ][
   name: "Zajac"	; 12
@@ -188,7 +188,7 @@
     "TREA" {The treasures^/are of great^/value!}
     "VALU" {Yes, much gold.}
     ask {Dost thou intend^/to steal?} [
-      {I shan't stop^/thee}
+      {I shan't stop^/thee.}
       {Good, you had^/me worried!}
     ]
   ]

@@ -202,7 +202,6 @@ context [
         "Hmm."
     ]
 ]
-Missing punctuation: I am the royal jester
 context [
     name: "lcb12-Chuckles"
     voice: 'tts_models/en/vctk/vits/p326
@@ -211,7 +210,7 @@ context [
     lines: [
         "I am Chuckles."
         "Bye."
-        "I am the royal jester"
+        "I am the royal jester."
         "Good, thanks."
         "Welcome unto the castle Britannia!"
         "Hast thou an ankh?"
@@ -220,8 +219,6 @@ context [
         {Speak ye unto the waters of the well and ask of altars!}
     ]
 ]
-Missing punctuation: A guard
-Missing punctuation: Excellent
 context [
     name: "lcb13-a_guard"
     voice: 'tts_models/en/vctk/vits/p228
@@ -230,8 +227,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
-        "A guard"
-        "Excellent"
+        "A guard."
+        "Excellent."
         "We guard the castle and its treasures."
         "That is not your business."
         "Do you mean to steal?"

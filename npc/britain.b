@@ -31,7 +31,7 @@
   pronoun: "The child"
   look: "a small child."
   topics: [
-    "job" {Singing}
+    "job" {Singing.}
     "health" {Very happy.}
     "SING" {The song goes:^/Ho eyo he hum!}
     "HO E" {It means:^/Love to one^/and all!}
@@ -104,7 +104,7 @@
   turn-away: 32
   topics: [
     "job" {Shhh, I'm^/playing!}
-    "health" {Shhh}
+    "health" {Shhh.}
     "SHHH" {Yes, shhh!}
     ask {Now wilt thou^/be quiet?} [
       {Thanks.}

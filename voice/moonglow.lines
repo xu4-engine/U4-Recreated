@@ -49,7 +49,6 @@ context [
         {The mantra of the shrine of honesty is 'AHM'.}
     ]
 ]
-Missing punctuation: I've been better
 context [
     name: "moo03-Rebelias"
     voice: 'tts_models/en/vctk/vits/p256
@@ -59,7 +58,7 @@ context [
         "I am Rebelias."
         "Bye."
         "I live an honest life."
-        "I've been better"
+        "I've been better."
         {Speak the truth and shame the evil forces!}
         {Evil still exists in our hearts and souls!}
         {Dost thou seek to conquer thine own evil?}

@@ -15,7 +15,6 @@ context [
         {Humility is the virtue that must overcome pride!}
     ]
 ]
-Missing punctuation: I haunt Magincia
 context [
     name: "mag01-Ghostly"
     voice: 'tts_models/en/vctk/vits/p273
@@ -24,7 +23,7 @@ context [
     lines: [
         "I am Ghostly."
         "Bye."
-        "I haunt Magincia"
+        "I haunt Magincia."
         "Undead in search of peace."
         {Peace I can never find, forever banished unto the realm of earthbound spirits.}
         {Be not proud of thy little deeds lest ye too fall from the light!}

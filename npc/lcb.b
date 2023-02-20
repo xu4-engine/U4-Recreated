@@ -172,7 +172,7 @@
   pronoun: "He"
   look: "a bouncing^/jester."
   topics: [
-    "job" {I am the royal^/jester}
+    "job" {I am the royal^/jester.}
     "health" {Good, thanks.}
     "JEST" {Welcome unto^/the castle^/Britannia!}
     ask {Hast thou^/an ankh?} [
@@ -186,8 +186,8 @@
   pronoun: "He"
   look: "a guard."
   topics: [
-    "job" {A guard}
-    "health" {Excellent}
+    "job" {A guard.}
+    "health" {Excellent.}
     "GUAR" {We guard the^/castle and its^/treasures.}
     "TREA" {That is not^/your business.}
     ask {Do you mean^/to steal?} [

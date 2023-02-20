@@ -216,7 +216,6 @@ context [
         {That's a strange one at the end. People often disappear.}
     ]
 ]
-Missing punctuation: I seek the stone
 context [
     name: "jhe13-X"
     voice: 'tts_models/en/vctk/vits/p232
@@ -225,7 +224,7 @@ context [
     lines: [
         "I am X."
         "Bye."
-        "I seek the stone"
+        "I seek the stone."
         "O.K."
         "The red stone."
         "Red is for valor a virtue of the avatar!"

@@ -22,7 +22,7 @@ random/seed checksum/crc32 first args ; now
 
 clean-line: func [text] [
     nl: construct text ['^/' ' ']
-    ifn find ".!?" last nl [
+    ifn find ".!?," last nl [
         print ["Missing punctuation:" nl]
     ]
     mark-sol nl

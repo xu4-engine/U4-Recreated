@@ -67,7 +67,7 @@
     "CLEV" {Thou dost ask^/too many^/questions!}
     ask {Art thou^/a thief?} [
       {Oh, I'd better^/watch out!}
-      {Just as I^/thought}
+      {Just as I^/thought.}
     ]
   ]
 ][
@@ -90,10 +90,10 @@
   pronoun: "She"
   look: "a slinky mage."
   topics: [
-    "job" {I am a sorceress}
+    "job" {I am a sorceress.}
     ask {My dear friend,^/may I help you?} [
       {How about with^/thy magic?}
-      {Ah}
+      {Ah.}
     ]
     "health" {I am well.}
     "MAGI" {How about the^/sleep spell...^/sleep...^/sleep....}

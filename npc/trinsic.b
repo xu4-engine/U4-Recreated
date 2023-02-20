@@ -3,7 +3,7 @@
   pronoun: "He"
   look: "a handsome fighter."
   topics: [
-    "job" {I am towne leader}
+    "job" {I am towne leader.}
     "health" {Very well.}
     "LEAD" {'tis an honor!}
     ask {Dost thou try to^/live honorably?} [
@@ -217,6 +217,6 @@
     "job" {To guard.}
     "health" {Guarded.}
     "GUAR" {Guarding.}
-    "STRO" {Guard}
+    "STRO" {Guard.}
   ]
 ]

@@ -32,7 +32,6 @@ context [
         "To give to a beggar shows compassion."
     ]
 ]
-Missing punctuation: Singing
 context [
     name: "bri02-a_child"
     voice: 'tts_models/en/vctk/vits/p329
@@ -41,7 +40,7 @@ context [
     lines: [
         "I am a child."
         "Bye."
-        "Singing"
+        "Singing."
         "Very happy."
         "The song goes: Ho eyo he hum!"
         "It means: Love to one and all!"
@@ -118,7 +117,6 @@ context [
         "Ah, be a joe!"
     ]
 ]
-Missing punctuation: Shhh
 context [
     name: "bri07-Cricket"
     voice: 'tts_models/en/vctk/vits/p253
@@ -128,7 +126,7 @@ context [
         "I am Cricket."
         "Bye."
         "Shhh, I'm playing!"
-        "Shhh"
+        "Shhh."
         "Yes, shhh!"
         "Now wilt thou be quiet?"
         "Thanks."

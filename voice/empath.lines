@@ -83,7 +83,6 @@ context [
         {From them a three part key is gained, needed to enter the chamber of the codex!}
     ]
 ]
-Missing punctuation: A gate guard
 context [
     name: "emp05-a_gate_guard"
     voice: 'tts_models/en/vctk/vits/p255
@@ -92,7 +91,7 @@ context [
     lines: [
         "I am a gate guard."
         "Bye."
-        "A gate guard"
+        "A gate guard."
         "Top notch."
         "To the abbey."
         {Here, in the oak grove many find the meaning of peace and love!}
@@ -186,7 +185,6 @@ context [
         {Justice is one of the eight avatar virtues and derives from truth and love.}
     ]
 ]
-Missing punctuation: Fine
 context [
     name: "emp11-Thomas"
     voice: 'tts_models/en/vctk/vits/p262
@@ -196,7 +194,7 @@ context [
         "I am Thomas."
         "Bye."
         {I am thinking of love's part in sacrifice.}
-        "Fine"
+        "Fine."
         "Thyself?"
         "Good."
         "Shame."
@@ -221,7 +219,6 @@ context [
         {My being is based on my own truth, love and courage.}
     ]
 ]
-Missing punctuation: I seek salvation
 context [
     name: "emp13-Humlock"
     voice: 'tts_models/en/vctk/vits/p262
@@ -230,7 +227,7 @@ context [
     lines: [
         "I am Humlock."
         "Bye."
-        "I seek salvation"
+        "I seek salvation."
         "Not so good."
         "The...ankh... spoke to me!"
         {I am but a poor destitute beggar I have nothing!}
@@ -239,7 +236,6 @@ context [
         "But I am in most dire need!"
     ]
 ]
-Missing punctuation: I solve quests
 context [
     name: "emp14-Malchor"
     voice: 'tts_models/en/vctk/vits/p326
@@ -248,7 +244,7 @@ context [
     lines: [
         "I am Malchor."
         "Bye."
-        "I solve quests"
+        "I solve quests."
         "Just now fully healed!"
         "My last quest took me near Spiritwood."
         "Art thou on a quest?"

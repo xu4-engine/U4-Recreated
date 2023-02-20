@@ -46,7 +46,7 @@
   look: "a mystic wizard."
   topics: [
     "job" {I live an^/honest life.}
-    "health" {I've been better}
+    "health" {I've been better.}
     "HONE" {Speak the truth^/and shame the^/evil forces!}
     "EVIL" {Evil still^/exists in^/our hearts^/and souls!}
     ask {Dost thou seek^/to conquer thine^/own evil?} [

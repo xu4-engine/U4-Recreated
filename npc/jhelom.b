@@ -182,7 +182,7 @@
   pronoun: "He"
   look: "a strange person."
   topics: [
-    "job" {I seek the stone}
+    "job" {I seek the stone.}
     "health" {O.K.}
     "STON" {The red stone.}
     "RED" {Red is for valor^/a virtue of the^/avatar!}

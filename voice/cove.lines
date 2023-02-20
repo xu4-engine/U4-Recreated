@@ -134,7 +134,6 @@ context [
         {Stand where the gate of both moons dark shall appear. Search when the moons go dark!}
     ]
 ]
-Missing punctuation: There are eight possible combinations of truth, love and courage. Each of the eight virtues is one of those combination
 context [
     name: "cov08-Draconian"
     voice: 'tts_models/en/vctk/vits/p318
@@ -148,7 +147,7 @@ context [
         "Very good!"
         "Learn the towns and castles!"
         "I am well."
-        {There are eight possible combinations of truth, love and courage. Each of the eight virtues is one of those combination}
+        {There are eight possible combinations of truth, love and courage. Each of the eight virtues is one of those combination.}
     ]
 ]
 context [
@@ -182,7 +181,6 @@ context [
         "Carry love within it!"
     ]
 ]
-Missing punctuation: The kings of the castles which represent the three principles of virtue each know but one syllable of the word of passag
 context [
     name: "cov11-Brother_Zair"
     voice: 'tts_models/en/vctk/vits/p254
@@ -197,7 +195,7 @@ context [
         "Agree?"
         "Good."
         "Indeed."
-        {The kings of the castles which represent the three principles of virtue each know but one syllable of the word of passag}
+        {The kings of the castles which represent the three principles of virtue each know but one syllable of the word of passage.}
     ]
 ]
 context [
@@ -245,7 +243,6 @@ context [
         {The truths of the universe, the love of the heart, and the courage of the soul!}
     ]
 ]
-Missing punctuation: The measure of unending love, the limitless courage needed to face all obstacles,the truth which encompasses all things
 context [
     name: "cov15-Circe"
     voice: 'tts_models/en/vctk/vits/p307
@@ -257,6 +254,6 @@ context [
         "I teach of the axiom!"
         "Well."
         {The whole of the axiom is greater than all its parts!}
-        {The measure of unending love, the limitless courage needed to face all obstacles,the truth which encompasses all things}
+        {The measure of unending love, the limitless courage needed to face all obstacles,the truth which encompasses all things.}
     ]
 ]

@@ -17,7 +17,7 @@
   pronoun: "It"
   look: "a shadowy ghost."
   topics: [
-    "job" {I haunt Magincia}
+    "job" {I haunt Magincia.}
     "health" {Undead in search^/of peace.}
     "PEAC" {Peace I can^/never find,^/forever banished^/unto the realm^/of earthbound^/spirits.}
     "SPIR" {Be not proud of^/thy little deeds^/lest ye too fall^/from the light!}

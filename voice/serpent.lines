@@ -100,7 +100,6 @@ context [
         {In the altar room of courage use the red, orange, purple and white stones!}
     ]
 ]
-Missing punctuation: I guard our lord
 context [
     name: "ser06-a_baronial_guard"
     voice: 'tts_models/en/vctk/vits/p261
@@ -109,7 +108,7 @@ context [
     lines: [
         "I am a baronial guard."
         "Bye."
-        "I guard our lord"
+        "I guard our lord."
         "Most good."
         "Sentri rules this castle."
         "Dost thou wish an audience with Sentri?"
@@ -118,7 +117,6 @@ context [
         "This castle is built on courage."
     ]
 ]
-Missing punctuation: This treasure is not for thee
 context [
     name: "ser07-a_treasure_guard"
     voice: 'tts_models/en/vctk/vits/p255
@@ -129,14 +127,13 @@ context [
         "Bye."
         "We guard our lord's treasure."
         "Excellent."
-        "This treasure is not for thee"
+        "This treasure is not for thee."
         {Dost thou intend to steal our lord's treasure?}
         "Fool!"
         "Wise move!"
         {Seek out Durham for knowledge of dungeons.}
     ]
 ]
-Missing punctuation: The bell of courage lies at the bottom of a deep well at sea found at lat-N'A" long-L'A"
 context [
     name: "ser08-Garam"
     voice: 'tts_models/en/vctk/vits/p232
@@ -151,7 +148,7 @@ context [
         "Then train!"
         "Quite well."
         "Courage makes kings out of knaves!"
-        {The bell of courage lies at the bottom of a deep well at sea found at lat-N'A" long-L'A"}
+        {The bell of courage lies at the bottom of a deep well at sea found at lat-N'A" long-L'A".}
     ]
 ]
 context [

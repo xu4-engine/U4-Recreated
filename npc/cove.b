@@ -121,7 +121,7 @@
       {Learn the towns^/and castles!}
     ]
     "health" {I am well.}
-    "RELA" {There are^/eight possible^/combinations of^/truth, love and^/courage. Each^/of the eight^/virtues is one^/of those^/combination}
+    "RELA" {There are^/eight possible^/combinations of^/truth, love and^/courage. Each^/of the eight^/virtues is one^/of those^/combination.}
   ]
 ][
   name: "Blissful"	; 9
@@ -159,7 +159,7 @@
       {Good.}
       {Indeed.}
     ]
-    "WORD" {The kings of the^/castles which^/represent the^/three principles^/of virtue each^/know but one^/syllable of the^/word of passag}
+    "WORD" {The kings of the^/castles which^/represent the^/three principles^/of virtue each^/know but one^/syllable of the^/word of passage.}
   ]
 ][
   name: "Spellbind"	; 12
@@ -203,6 +203,6 @@
     "job" {I teach of^/the axiom!}
     "health" {Well.}
     "AXIO" {The whole of the^/axiom is greater^/than all its^/parts!}
-    "PART" {The measure of^/unending love,^/the limitless^/courage needed^/to face all^/obstacles,the^/truth which^/encompasses all^/things}
+    "PART" {The measure of^/unending love,^/the limitless^/courage needed^/to face all^/obstacles,the^/truth which^/encompasses all^/things.}
   ]
 ]
