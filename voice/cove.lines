@@ -1,0 +1,262 @@
+context [
+    name: "cov00-Allen"
+    voice: 'tts_models/en/vctk/vits/p374
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Allen."
+        "Bye."
+        "I know how to enter the abyss!"
+        "I am fine."
+        {The abyss may only be approached by ship!}
+        {The ship must have a magically strengthened hull!}
+        "Hast thou such a vessel?"
+        "Ask Blissful of the abyss."
+        "Ask Blissful of the abyss."
+    ]
+]
+context [
+    name: "cov01-Frontis"
+    voice: 'tts_models/en/vctk/vits/p252
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Frontis."
+        "Bye."
+        {Welcome to Cove, the hidden city of wisdom.}
+        "I am well."
+        "Art thou well?"
+        "Very good."
+        {Visit our healers, I am sure they can help thee!}
+        "Herein is found much wisdom and peace."
+        "Find peace in our shrine."
+    ]
+]
+context [
+    name: "cov02-Sloven"
+    voice: 'tts_models/en/vctk/vits/p264
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sloven."
+        "Bye."
+        "I am a recluse."
+        "I am well."
+        "I have withdrawn from society."
+        {Only the ghost of Isaac who haunts the inn at Skara Brae can tell thee.}
+        "Hast thou seen him?"
+        "Ask him!"
+        "Stay at the inn until he shows himself!"
+    ]
+]
+context [
+    name: "cov03-Mentorian"
+    voice: 'tts_models/en/vctk/vits/p340
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Mentorian."
+        "Bye."
+        "I study the magical arts."
+        "Well indeed."
+        "There is truth in magic!"
+        "Dost thou disagree?"
+        "Well then, begone!"
+        "Good."
+        {Since thou dost bear the ankh I shall tell thee. A gate spell requires ash, pearl, and mandrake root!}
+    ]
+]
+context [
+    name: "cov04-the_ankh"
+    voice: 'tts_models/en/vctk/vits/p335
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am the ankh."
+        "Bye."
+        "I resonate with thoughts."
+        "Dost thou seek help?"
+        "What are thy thoughts?"
+        "Oh."
+        "Bright."
+        "To enter the codex chamber."
+        {One must be 8 parts avatar, have the key of 3 parts, the word of passage and know the pure axiom!}
+    ]
+]
+context [
+    name: "cov05-Paul"
+    voice: 'tts_models/en/vctk/vits/p317
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Paul."
+        "Bye."
+        "I play of love."
+        "Wilt thou listen?"
+        "About love."
+        "Too bad."
+        "I am well."
+        {I light a candle to our love, in love our problems disappear.}
+        {But all in all we soon discover that one and one is all we long to hear!}
+    ]
+]
+context [
+    name: "cov06-Linda"
+    voice: 'tts_models/en/vctk/vits/p259
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Linda."
+        "Bye."
+        "I sing of the children."
+        "Fine."
+        {All round the world, little children being born to the world.}
+        {Got to give them all we can 'til the quest is won, then will the work be done!}
+        "Wilt thou help?"
+        "Teach them songs of joy!"
+        "Hmm."
+    ]
+]
+context [
+    name: "cov07-Merlin"
+    voice: 'tts_models/en/vctk/vits/p234
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Merlin."
+        "Bye."
+        "I use magic."
+        "Dost thou study magic?"
+        "Best of luck with thy studies!"
+        "Too bad."
+        "Fine."
+        {The black stone is caught in a moon gate!}
+        {Stand where the gate of both moons dark shall appear. Search when the moons go dark!}
+    ]
+]
+Missing punctuation: There are eight possible combinations of truth, love and courage. Each of the eight virtues is one of those combination
+context [
+    name: "cov08-Draconian"
+    voice: 'tts_models/en/vctk/vits/p318
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Draconian."
+        "Bye."
+        "I teach the relation."
+        "Knew ye this?"
+        "Very good!"
+        "Learn the towns and castles!"
+        "I am well."
+        {There are eight possible combinations of truth, love and courage. Each of the eight virtues is one of those combination}
+    ]
+]
+context [
+    name: "cov09-Blissful"
+    voice: 'tts_models/en/vctk/vits/p363
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Blissful."
+        "Bye."
+        "I know much of the codex!"
+        "I am doing well."
+        {The shrine ankh knows how to enter the chamber of the codex!}
+        {Meditate at the shrines of honesty, compassion and valor for 3 cycles to know how to enter!}
+    ]
+]
+context [
+    name: "cov10-Rabindranath_tagore"
+    voice: 'tts_models/en/vctk/vits/p287
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Rabindranath tagore."
+        "Bye."
+        "I speak of love."
+        {Dost thou seek to carry love in thy heart?}
+        "Thou art a good soul."
+        "Thou art a fool."
+        "I am old but strong!"
+        {In love, all life's contradictions dissolve and disappear.}
+        "Carry love within it!"
+    ]
+]
+Missing punctuation: The kings of the castles which represent the three principles of virtue each know but one syllable of the word of passag
+context [
+    name: "cov11-Brother_Zair"
+    voice: 'tts_models/en/vctk/vits/p254
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Brother Zair."
+        "Bye."
+        "I sit and watch the river."
+        "I am well."
+        "It flows endlessly."
+        "Agree?"
+        "Good."
+        "Indeed."
+        {The kings of the castles which represent the three principles of virtue each know but one syllable of the word of passag}
+    ]
+]
+context [
+    name: "cov12-Spellbind"
+    voice: 'tts_models/en/vctk/vits/p227
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Spellbind."
+        "Bye."
+        "I know of the codex."
+        "Well indeed."
+        {One must know the combination of the three principles of virtue!}
+        {The combination of the three principles of virtue equals the measure of time and space!}
+    ]
+]
+context [
+    name: "cov13-Shaman"
+    voice: 'tts_models/en/vctk/vits/p286
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shaman."
+        "Bye."
+        {I study the 'one' thing that is the secret to the codex!}
+        "Quite well."
+        "I study of the codex!"
+        {The one pure axiom is more endless than the changing tides, more eternal than day and night!}
+    ]
+]
+context [
+    name: "cov14-Charm"
+    voice: 'tts_models/en/vctk/vits/p268
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Charm."
+        "Bye."
+        "I ponder the key to the axiom."
+        "Well enough."
+        "To the axiom."
+        "The 1 pure axiom encompasses all things."
+        "Know ye what they are?"
+        "Good."
+        {The truths of the universe, the love of the heart, and the courage of the soul!}
+    ]
+]
+Missing punctuation: The measure of unending love, the limitless courage needed to face all obstacles,the truth which encompasses all things
+context [
+    name: "cov15-Circe"
+    voice: 'tts_models/en/vctk/vits/p307
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Circe."
+        "Bye."
+        "I teach of the axiom!"
+        "Well."
+        {The whole of the axiom is greater than all its parts!}
+        {The measure of unending love, the limitless courage needed to face all obstacles,the truth which encompasses all things}
+    ]
+]

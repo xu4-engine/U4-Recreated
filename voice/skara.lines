@@ -1,0 +1,265 @@
+context [
+    name: "ska00-Shamino"
+    voice: 'tts_models/en/vctk/vits/p326
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shamino."
+        "Bye."
+        "I seek the inner light."
+        "I am well."
+        {I seek the "one great truth"!}
+        "That which lies within the codex!"
+        {Dost thou seek this "truth"?}
+        {Some things take forever but brick by brick mountains can be built!}
+        "Alas."
+    ]
+]
+context [
+    name: "ska01-Emerson"
+    voice: 'tts_models/en/vctk/vits/p286
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Emerson."
+        "Bye."
+        "I seek the spiritual path."
+        "I am grievously wounded."
+        {Spiritual is stronger than any material force.}
+        {Nothing can bring thee peace but the triumph of principles!}
+        "Art thou good in spirit?"
+        "A good path."
+        "An evil path!"
+    ]
+]
+context [
+    name: "ska02-Santayana"
+    voice: 'tts_models/en/vctk/vits/p286
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Santayana."
+        "Bye."
+        "I carry the light within my heart."
+        "I am alive."
+        "The light of philosophy."
+        {In philosophical minds the familiar excites wonder!}
+        "Dost thou always tread the right path?"
+        "Doubtful!"
+        "Few can, but strive to do so!"
+    ]
+]
+context [
+    name: "ska03-Presto"
+    voice: 'tts_models/en/vctk/vits/p307
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Presto."
+        "Bye."
+        "I cast great big spells!"
+        "Superior!"
+        "I can cast: jinx, kill, and view!"
+        {Dost thou know what these spells have in common?}
+        "What?"
+        "Guess!"
+        {Yes, ask the barkeep at 'The Axe-n-Ale' in Vesper about nightshade.}
+    ]
+]
+context [
+    name: "ska04-Granted"
+    voice: 'tts_models/en/vctk/vits/p329
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Granted."
+        "Bye."
+        "I beg for food and money."
+        "I am not at all well."
+        "To eat!"
+        "To buy food!"
+        "Wilt thou give me food or money?"
+        {In return I will tell thee that the ankh knows of the rune and my friend Ambule knows the mantra!}
+        "Jerk!"
+    ]
+]
+context [
+    name: "ska05-Mitre"
+    voice: 'tts_models/en/vctk/vits/p257
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Mitre."
+        "Bye."
+        "I am reading the wizard's journal."
+        "I am fine."
+        "It tells of the white stone."
+        {It is no longer in the dungeon Hythloth, it is gone!}
+        "Wilt thou try to recover it?"
+        "Ask of the stone at the Tap in Trinsic!"
+        "Too bad."
+    ]
+]
+context [
+    name: "ska06-Buddha"
+    voice: 'tts_models/en/vctk/vits/p256
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Buddha."
+        "Bye."
+        "I teach."
+        "I am well."
+        {When one has pity on all living creatures then is one noble.}
+        {If one speaks or acts with pure thought, happiness will follow like a shadow that never leaves.}
+    ]
+]
+context [
+    name: "ska07-Michaelangelo"
+    voice: 'tts_models/en/vctk/vits/p256
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Michaelangelo."
+        "Bye."
+        "I strive along the path."
+        "Art thou far along the path?"
+        "This is good."
+        "Fear not thou shalt be."
+        "Well."
+        "Success is a journey, not a destination."
+        {May thou always desire more than thou can accomplish!}
+    ]
+]
+context [
+    name: "ska08-Romasco"
+    voice: 'tts_models/en/vctk/vits/p281
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Romasco."
+        "Bye."
+        "I am a teacher, I enrich young minds."
+        "I am fine."
+        "I teach of the abyss."
+        "Know ye of the abyss?"
+        {A word of passage is needed at the last gate!}
+        "Learn!"
+        {Seek Zair the Wise in Paws for more on the word.}
+    ]
+]
+context [
+    name: "ska09-Carlyle"
+    voice: 'tts_models/en/vctk/vits/p298
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Carlyle."
+        "Bye."
+        "I write magic."
+        "Dost thou believe in magic?"
+        "Magic missiles need but 1 part ash!"
+        "I see."
+        "Fine."
+        "One lives by believing in something."
+        {Great discoveries are made by those whose feelings run ahead of their thinking.}
+    ]
+]
+context [
+    name: "ska10-Dickens"
+    voice: 'tts_models/en/vctk/vits/p241
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Dickens."
+        "Bye."
+        "I write stories."
+        "O.K."
+        "Stories are good for the spirit!"
+        {Remember, no one is useless in this world who lightens the burdens of others!}
+        "Art thou good in nature?"
+        {Be sure thy net good well exceeds thy net evil!}
+        "I see."
+    ]
+]
+context [
+    name: "ska11-White"
+    voice: 'tts_models/en/vctk/vits/p266
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am White."
+        "Bye."
+        "I quest."
+        "Excellent!"
+        "Many quests are very dangerous!"
+        "Art thou fearless in all thing?"
+        "Boastful fool!"
+        "Danger is real!"
+        {I am not afraid of tomorrow; I have seen yesterday and I love today.}
+    ]
+]
+context [
+    name: "ska12-the_Ankh_of_Spirituality"
+    voice: 'tts_models/en/vctk/vits/p280
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am the Ankh of Spirituality."
+        "Bye."
+        "I keep the secret of the rune."
+        "Strong."
+        "Mantra?"
+        {Search for the rune of spirituality in the treasure chamber of Britannia!}
+        "Hast thou found the shrine?"
+        "Good!"
+        "Enter the gate of full moons!"
+    ]
+]
+context [
+    name: "ska13-Ambule"
+    voice: 'tts_models/en/vctk/vits/p303
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Ambule."
+        "Bye."
+        "I beg for but for a single gold piece!"
+        "So-so."
+        "Oh, please... Oh, please..."
+        "Wilt thou please give me a gold piece?"
+        "Dear kind soul."
+        "Stingy, I know thou hast many!"
+        "Ask the child named Barren."
+    ]
+]
+context [
+    name: "ska14-Barren"
+    voice: 'tts_models/en/vctk/vits/p272
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Barren."
+        "Bye."
+        "No job."
+        "O.K."
+        "I know it well, it is 'OM'."
+    ]
+]
+context [
+    name: "ska15-Isaac"
+    voice: 'tts_models/en/vctk/vits/p302
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Isaac."
+        "Bye."
+        "I haunt this inn!"
+        "I am many years dead."
+        "The quest is not complete!"
+        "Art thou on the quest?"
+        "Hope!"
+        "Alas."
+        {The white stone sits atop the Serpent's Spine. It can only be reached by one who floats within the clouds.}
+    ]
+]

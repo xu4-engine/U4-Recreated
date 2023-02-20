@@ -1,0 +1,273 @@
+context [
+    name: "den00-Roofus"
+    voice: 'tts_models/en/vctk/vits/p262
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Roofus."
+        "Bye."
+        "We guard the bridge slime!"
+        "What's it to ya scumpuppy!"
+        "This bridge ya stupid jerk!"
+        "Art thou a wise &##!?"
+        "Thou had best ditch it then!"
+        "Then just buzz off!"
+    ]
+]
+context [
+    name: "den01-Rankbreath"
+    voice: 'tts_models/en/vctk/vits/p376
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Rankbreath."
+        "Bye."
+        "I am a guard."
+        "Very hungry!"
+        "I guard the city!"
+        "Yes, I am very hungry!"
+        "Art thou here to feed me?"
+        "I am grateful."
+        "Then thou had better run!!!"
+    ]
+]
+Missing punctuation: Oh, a sailor's life is the life for me,
+context [
+    name: "den02-Sailor"
+    voice: 'tts_models/en/vctk/vits/p269
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sailor."
+        "Bye."
+        "I am a sailor!"
+        "Salty."
+        "Oh, a sailor's life is the life for me,"
+        "As I sail across the bounding sea!"
+        "The rest?"
+        {And never ever ever do I worry 'bout the weather, for the weather never ever did a thing for me!}
+        "Oh."
+    ]
+]
+context [
+    name: "den03-Silver_John"
+    voice: 'tts_models/en/vctk/vits/p376
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Silver John."
+        "Bye."
+        "I'm a pirate matey!"
+        "Good enough, eh!"
+        "We raid the coasts of Britannia, fun eh!"
+        "Art thou a pirate?"
+        "Good matey!"
+        {Thou had best leave this place 'fore there's any trouble!}
+        "Pillage and burn!"
+    ]
+]
+Missing punctuation: Just as I thought
+context [
+    name: "den04-Slysam"
+    voice: 'tts_models/en/vctk/vits/p272
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Slysam."
+        "Bye."
+        "What's it to thee?"
+        "As good as I need be!"
+        "Yea, and clever too."
+        "Thou dost ask too many questions!"
+        "Art thou a thief?"
+        "Oh, I'd better watch out!"
+        "Just as I thought"
+    ]
+]
+context [
+    name: "den05-Ragnar"
+    voice: 'tts_models/en/vctk/vits/p272
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Ragnar."
+        "Bye."
+        "I travel."
+        "O.K."
+        "The lands of Britannia."
+        "Art thou here looking for information?"
+        "On what?"
+        "Then buzz off."
+        {Be warned that if thou dost ever use the skull, except to destroy it, all thy virtues will be lost!}
+    ]
+]
+Missing punctuation: I am a sorceress
+Missing punctuation: Ah
+context [
+    name: "den06-Seanna"
+    voice: 'tts_models/en/vctk/vits/p288
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Seanna."
+        "Bye."
+        "I am a sorceress"
+        "My dear friend, may I help you?"
+        "How about with thy magic?"
+        "Ah"
+        "I am well."
+        {How about the sleep spell... sleep... sleep....}
+        {A sleep spell requires but one part silk! sleep... sleep... sleep...}
+    ]
+]
+context [
+    name: "den07-Jeremy_James_Scirlock"
+    voice: 'tts_models/en/vctk/vits/p281
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Jeremy James Scirlock."
+        "Bye."
+        "At thy service!"
+        "Very well!"
+        "How about information?"
+        "Dost thou seek a special dungeon?"
+        "Which?"
+        "I cannot help thee."
+        {The dungeon Hythloth can only be reached by a secret entrance in the great castle.}
+    ]
+]
+context [
+    name: "den08-Starlight"
+    voice: 'tts_models/en/vctk/vits/p267
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Starlight."
+        "Bye."
+        "I use black magic!"
+        "Dark indeed."
+        "I cast powerful magic missile spells."
+        "Dost thou?"
+        "Thou should try my mix of reagents!"
+        "Too bad."
+        {Try one black pearl and one part sulfurous ash!}
+    ]
+]
+context [
+    name: "den09-Brigant"
+    voice: 'tts_models/en/vctk/vits/p250
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Brigant."
+        "Bye."
+        "Aw, buzz off!"
+        "Shove it!"
+        "Did thou hear me?"
+        "Then do it!"
+        "I said shove it!"
+        "Thy face!"
+    ]
+]
+context [
+    name: "den10-Boris"
+    voice: 'tts_models/en/vctk/vits/p314
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Boris."
+        "Bye."
+        "I smuggle black market items."
+        "Good'n smelly."
+        {Magic keys, magic gems, that sort of thing.}
+        "Dost thou need such an item?"
+        "I just gave the guild shop a new supply!"
+        "Ah well, maybe next time."
+    ]
+]
+context [
+    name: "den11-Ignap"
+    voice: 'tts_models/en/vctk/vits/p239
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Ignap."
+        "Bye."
+        "I must warn thee!"
+        "Adequate."
+        {To step into those woods will seal thy doom!}
+        "In there lies the dark side, enter not!"
+        "Shalt thou go on?"
+        "Evil shall consume thee!"
+        "Wise decision!"
+    ]
+]
+context [
+    name: "den12-Green_Beard"
+    voice: 'tts_models/en/vctk/vits/p272
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Green Beard."
+        "Bye."
+        "I'm buying armour for my crew!"
+        "Jolly good mate!"
+        "I hope to get some magical plate!"
+        "Know where to buy mystic armour?"
+        "Where?"
+        "Wish I did!"
+        "Oh, I see."
+    ]
+]
+context [
+    name: "den13-Marsor"
+    voice: 'tts_models/en/vctk/vits/p376
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Marsor."
+        "Bye."
+        "I sell wine!"
+        "Great!"
+        "I have some good vintages."
+        {I own my own vineyards, they are on an isle northeast of here!}
+        "Dost thou like wine?"
+        "Ah, then join me in a glass!"
+        "Don't know what thou art missing!"
+    ]
+]
+context [
+    name: "den14-Dancek"
+    voice: 'tts_models/en/vctk/vits/p298
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Dancek."
+        "Bye."
+        "I am a tinker by trade."
+        "Jolly good, thanks."
+        "I create projectile machinery."
+        "Primarily ship cannons!"
+        "Dost thou own a ship!"
+        "Good odds I built the cannons!"
+        "Thou really should get one!"
+    ]
+]
+context [
+    name: "den15-Sniflet"
+    voice: 'tts_models/en/vctk/vits/p281
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sniflet."
+        "Bye."
+        "I am hiding."
+        "O.K. for now."
+        "I know something others want!"
+        "I... I..."
+        {Wilt thou promise to use it only to aid the powers of good?}
+        {The lighter than air device that was stolen lies near the dungeon Hythloth!}
+        "Oh, no."
+    ]
+]

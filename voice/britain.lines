@@ -1,0 +1,274 @@
+context [
+    name: "bri00-Iolo"
+    voice: 'tts_models/en/vctk/vits/p307
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Iolo."
+        "Bye."
+        "I play for the people."
+        "Good."
+        {I play my lute and receive the good wishes of the people.}
+        "Do you like my music?"
+        "I would join thee!"
+        "A shame."
+        {If you treat someone else well then they will have reason to do the same.}
+    ]
+]
+context [
+    name: "bri01-Gweno"
+    voice: 'tts_models/en/vctk/vits/p336
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Gweno."
+        "Bye."
+        "I dance and sing for the children."
+        "Very well."
+        "Dance is good for the soul."
+        "Do you give to the needy?"
+        {Beggars are thankful for small donations.}
+        "Alas."
+        "To give to a beggar shows compassion."
+    ]
+]
+Missing punctuation: Singing
+context [
+    name: "bri02-a_child"
+    voice: 'tts_models/en/vctk/vits/p329
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a child."
+        "Bye."
+        "Singing"
+        "Very happy."
+        "The song goes: Ho eyo he hum!"
+        "It means: Love to one and all!"
+        "Do you like the song?"
+        "Then help us spread the word!"
+        "Too bad."
+    ]
+]
+context [
+    name: "bri03-a_guard"
+    voice: 'tts_models/en/vctk/vits/p279
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "I guard the bridge."
+        "Good."
+        {Across the bridge our people dance and sing!}
+        "Would thou like to join them?"
+        {Remember, an open heart is the first step on the path to wisdom!}
+        {Then you have no business across the bridge.}
+        "Yep."
+    ]
+]
+context [
+    name: "bri04-Pepper"
+    voice: 'tts_models/en/vctk/vits/p276
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Pepper."
+        "Bye."
+        "I am a fighting bard."
+        "Healthy."
+        "Bards know many things."
+        "Dost thou seek something?"
+        "What might that be?"
+        "Alas, I may have been able to help."
+        {The rune of compassion lies at the end of a hall somewhere in this towne.}
+    ]
+]
+context [
+    name: "bri05-Thevel"
+    voice: 'tts_models/en/vctk/vits/p258
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Thevel."
+        "Bye."
+        {I search for the mystery of the magic orbs.}
+        "Fairly well."
+        "A one-handed beggar knows their secrets!"
+        "Hast thou seen him?"
+        "Only he knows the orb's gift!"
+        {Find him in Serpent castle for he knows of orbs!}
+        "Magic orbs."
+    ]
+]
+context [
+    name: "bri06-Joe"
+    voice: 'tts_models/en/vctk/vits/p313
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Joe."
+        "Bye."
+        {Yo ho ho... and a bottle... of rum... hic...}
+        "And a bottle of..."
+        {The yellow stone is in the dungeon Despise...}
+        "Rum... hic..."
+        "Give me rum?..."
+        {Thanxth... my friend Joe can help with the stones... hic...}
+        "Ah, be a joe!"
+    ]
+]
+Missing punctuation: Shhh
+context [
+    name: "bri07-Cricket"
+    voice: 'tts_models/en/vctk/vits/p253
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Cricket."
+        "Bye."
+        "Shhh, I'm playing!"
+        "Shhh"
+        "Yes, shhh!"
+        "Now wilt thou be quiet?"
+        "Thanks."
+        "I am going to call the guards!"
+        {The mantra for the shrine of compassion is 'MU'!}
+    ]
+]
+context [
+    name: "bri08-a_guard"
+    voice: 'tts_models/en/vctk/vits/p265
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "I am a guard of course!"
+        "I am fully healed."
+        "We guards have a lot of compassion."
+        {We always say: Let all others' troubles be as thine own!}
+        "Dost thou kill non-evil creatures?"
+        "That does not show compassion!"
+        "Good."
+    ]
+]
+context [
+    name: "bri09-a_child"
+    voice: 'tts_models/en/vctk/vits/p282
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a child."
+        "Bye."
+        "I am learning compassion."
+        "O.K."
+        {The solution to ones problems often lies in solving others!}
+        {Never care so much for thyself that thou cannot care for others!}
+        "Know ye the mantra of compassion?"
+        "Good."
+        "Ask Cricket!"
+    ]
+]
+context [
+    name: "bri10-Shalimar"
+    voice: 'tts_models/en/vctk/vits/p252
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shalimar."
+        "Bye."
+        "I watch over the children."
+        "Good."
+        {It takes a good deal of compassion to deal with children!}
+        {Compassion strengthens the soul as knowledge tempers the mind!}
+        "Have any kids?"
+        "Thou dost know what I mean!"
+        "Too bad."
+    ]
+]
+context [
+    name: "bri11-Sebastian"
+    voice: 'tts_models/en/vctk/vits/p285
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sebastian."
+        "Bye."
+        "I know a terrible secret!"
+        "Not so well."
+        {Mondain's influence has not left the world!}
+        {An artifact remains! I heard at Buccaneer's Den!}
+        "Wilt thou find and destroy it?"
+        "Then ask at the pub there of the skull!"
+        "Oh."
+    ]
+]
+context [
+    name: "bri12-Shapero"
+    voice: 'tts_models/en/vctk/vits/p238
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shapero."
+        "Bye."
+        "I am looking for Julio."
+        "All right."
+        "He knows the true nature of compassion."
+        "Art thou on the Quest of the Avatar?"
+        {Find the shrine of compassion east across 2 bridges!}
+        "Too bad."
+        {Seek out Julio and ask him of compassion!}
+    ]
+]
+context [
+    name: "bri13-Julio"
+    voice: 'tts_models/en/vctk/vits/p330
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Julio."
+        "Bye."
+        "I seek the true nature of things!"
+        "Solemn."
+        "All things have a true nature!"
+        {Dost thou know the true nature of all things?}
+        "Thou art a liar and a braggart."
+        "No mortal can."
+        {Compassion derives itself from unending love!}
+    ]
+]
+context [
+    name: "bri14-Mentor"
+    voice: 'tts_models/en/vctk/vits/p254
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Mentor."
+        "Bye."
+        "I escaped Magincia!"
+        "I am well."
+        "Pride was too great in Magincia!"
+        {The city was destroyed by daemons for its pride!}
+        "Art thou proud?"
+        "That is not a virtue!"
+        {Pride exists without truth, love, or courage!}
+    ]
+]
+context [
+    name: "bri15-Sprite"
+    voice: 'tts_models/en/vctk/vits/p295
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sprite."
+        "Bye."
+        "I have no job so now I beg!"
+        "I fear I shall die of starvation!"
+        "I have not eaten in a week!"
+        "Please! Help me!"
+        "Wilt thou help me?"
+        {In return I shall tell thee that Pepper knows of the rune!}
+        "I shall starve to death!"
+    ]
+]

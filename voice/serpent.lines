@@ -1,0 +1,275 @@
+context [
+    name: "ser00-Sentri"
+    voice: 'tts_models/en/vctk/vits/p285
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sentri."
+        "Bye."
+        "I rule this province."
+        "Very well."
+        "Yes, these islands and much more."
+        "I know but one of three syllables-'cor'."
+        {Dost thou know the four cities of courage?}
+        "Very good."
+        {They are Jhelom, Minoc, Trinsic and Skara Brae.}
+    ]
+]
+context [
+    name: "ser01-the_gate_guard."
+    voice: 'tts_models/en/vctk/vits/p286
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am the gate guard.."
+        "Bye."
+        "Guard the gates, of course."
+        "Very strong!"
+        "These are the gates to Serpent castle."
+        "Guard, watch, protect."
+        "Art thou here to find courage?"
+        "Then thou art at the right place."
+        "Then perhaps to become a guard!"
+    ]
+]
+context [
+    name: "ser02-Lassorn"
+    voice: 'tts_models/en/vctk/vits/p256
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Lassorn."
+        "Bye."
+        "I am a sailor."
+        "I alone survived the shipwreck."
+        "The H.M.S. Cape."
+        "Ever heard of her?"
+        "She was a mighty vessel!"
+        "She was a mighty vessel!"
+        {She went down in the deep waters of the bay in the Cape of Heroes!}
+    ]
+]
+context [
+    name: "ser03-Roark"
+    voice: 'tts_models/en/vctk/vits/p233
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Roark."
+        "Bye."
+        "I fight for Britannia!"
+        "Just healed."
+        "Art thou well?"
+        {Then strive to find the secrets of the abyss.}
+        "Thou hast come to the right place."
+        {The Great Stygian Abyss holds the codex of ultimate wisdom!}
+        "I know little."
+    ]
+]
+context [
+    name: "ser04-a_ranger."
+    voice: 'tts_models/en/vctk/vits/p231
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a ranger.."
+        "Bye."
+        "I am training!"
+        "Excellent."
+        {I train so that I might survive the dungeons!}
+        {I plan to conquer the secret of the altar rooms.}
+        "Dost thou?"
+        {Ask our teacher about the rooms for she knowns much!}
+        "Wimp."
+    ]
+]
+context [
+    name: "ser05-Shyra"
+    voice: 'tts_models/en/vctk/vits/p250
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shyra."
+        "Bye."
+        "I train warriors to fight with courage!"
+        "Prime."
+        {Train well and thy courage can grow with confidence.}
+        "Wilt thou train?"
+        "Bravo!"
+        "Pity."
+        {In the altar room of courage use the red, orange, purple and white stones!}
+    ]
+]
+Missing punctuation: I guard our lord
+context [
+    name: "ser06-a_baronial_guard"
+    voice: 'tts_models/en/vctk/vits/p261
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a baronial guard."
+        "Bye."
+        "I guard our lord"
+        "Most good."
+        "Sentri rules this castle."
+        "Dost thou wish an audience with Sentri?"
+        "Granted, enter."
+        "Then do not disturb him."
+        "This castle is built on courage."
+    ]
+]
+Missing punctuation: This treasure is not for thee
+context [
+    name: "ser07-a_treasure_guard"
+    voice: 'tts_models/en/vctk/vits/p255
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a treasure guard."
+        "Bye."
+        "We guard our lord's treasure."
+        "Excellent."
+        "This treasure is not for thee"
+        {Dost thou intend to steal our lord's treasure?}
+        "Fool!"
+        "Wise move!"
+        {Seek out Durham for knowledge of dungeons.}
+    ]
+]
+Missing punctuation: The bell of courage lies at the bottom of a deep well at sea found at lat-N'A" long-L'A"
+context [
+    name: "ser08-Garam"
+    voice: 'tts_models/en/vctk/vits/p232
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Garam."
+        "Bye."
+        "I fight with courage!"
+        "Dost thou?"
+        "Good."
+        "Then train!"
+        "Quite well."
+        "Courage makes kings out of knaves!"
+        {The bell of courage lies at the bottom of a deep well at sea found at lat-N'A" long-L'A"}
+    ]
+]
+context [
+    name: "ser09-Durham"
+    voice: 'tts_models/en/vctk/vits/p272
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Durham."
+        "Bye."
+        "I quest for glory!"
+        "Fairly well."
+        {I feel that when on a quest my life has purpose!}
+        "Art thou on a quest?"
+        "Then thy life has meaning!"
+        "What a loss."
+        {The altar room of courage gives the third part of a key.}
+    ]
+]
+context [
+    name: "ser10-Lori"
+    voice: 'tts_models/en/vctk/vits/p248
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Lori."
+        "Bye."
+        "I guard this passage."
+        "Art thou looking for someone?"
+        "Who?"
+        "Then be on thy way!"
+        "So far, so good."
+        "He is in the west chamber."
+        "He is in the east chamber."
+    ]
+]
+context [
+    name: "ser11-Samuel"
+    voice: 'tts_models/en/vctk/vits/p251
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Samuel."
+        "Bye."
+        "I guard this passage."
+        "Art thou looking for someone?"
+        "Who?"
+        "Then be on thy way!"
+        "So far, so good."
+        "He is in the west chamber."
+        "He is in the east chamber."
+    ]
+]
+context [
+    name: "ser12-Roderick"
+    voice: 'tts_models/en/vctk/vits/p376
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Roderick."
+        "Bye."
+        "I cannot work."
+        "I've lost a hand!"
+        "It was eaten by a zorn."
+        "Wilt thou give me gold?"
+        "Thou art kind."
+        "Stingy!"
+        {An orb of blue light will raise thy strength, dexterity or intelligence, but at a cost!}
+    ]
+]
+context [
+    name: "ser13-Sister_Antos"
+    voice: 'tts_models/en/vctk/vits/p243
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sister Antos."
+        "Bye."
+        "I have important information."
+        "Well enough."
+        "On what subject?"
+        {The bell of courage is needed to enter the abyss.}
+        "Dost thou have it?"
+        "Very good."
+        {Then ask the fighter Garam for he knows where it lies!}
+    ]
+]
+context [
+    name: "ser14-Noxum"
+    voice: 'tts_models/en/vctk/vits/p229
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Noxum."
+        "Bye."
+        "I swim the seas!"
+        "Nice and wet!"
+        "There are many ships at the bottom!"
+        "A survivor would know where to search."
+        "Hast thou heard of the H.M.S. Cape?"
+        {She had a magical wheel that would strengthen her hull!}
+        "A great ship!"
+    ]
+]
+context [
+    name: "ser15-Michelle"
+    voice: 'tts_models/en/vctk/vits/p304
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Michelle."
+        "Bye."
+        "I welcome thee unto Serpent Castle!"
+        "Very well."
+        "Art thou well?"
+        "Very good, perhaps thou seeks Sentri."
+        "Then thou should visit our healer!"
+        {He is the lord here, take the west passage.}
+        "Take the east passage."
+    ]
+]

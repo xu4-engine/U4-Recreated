@@ -1,0 +1,273 @@
+context [
+    name: "moo00-Mariah"
+    voice: 'tts_models/en/vctk/vits/p274
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Mariah."
+        "Bye."
+        "I seek adventure!"
+        "Quite good."
+        "Yes, I hope to go on a great quest!"
+        "Art thou on a quest?"
+        "I wish I could join thee!"
+        "Wish thou were!"
+        "The quest of the avatar is noble indeed!"
+    ]
+]
+context [
+    name: "moo01-Tracie"
+    voice: 'tts_models/en/vctk/vits/p362
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Tracie."
+        "Bye."
+        "I am a writer."
+        {I feel fine... if I could just quit smoking!}
+        "It's low paid, but glamorous!"
+        "Cough...cough..."
+        "Do you smoke?"
+        "I can tell by the smell!"
+        "Don't start!"
+    ]
+]
+context [
+    name: "moo02-Cromwell"
+    voice: 'tts_models/en/vctk/vits/p272
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Cromwell."
+        "Bye."
+        "I speak of the virtues of honesty!"
+        "Well indeed."
+        {A few honest men are better than numbers!}
+        "Dost thou strive to be honest?"
+        "Then you will need the mantra."
+        "Shame!"
+        {The mantra of the shrine of honesty is 'AHM'.}
+    ]
+]
+Missing punctuation: I've been better
+context [
+    name: "moo03-Rebelias"
+    voice: 'tts_models/en/vctk/vits/p256
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Rebelias."
+        "Bye."
+        "I live an honest life."
+        "I've been better"
+        {Speak the truth and shame the evil forces!}
+        {Evil still exists in our hearts and souls!}
+        {Dost thou seek to conquer thine own evil?}
+        "The quest of a lifetime!"
+        "Wretch!"
+    ]
+]
+context [
+    name: "moo04-Christen"
+    voice: 'tts_models/en/vctk/vits/p274
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Christen."
+        "Bye."
+        "I am your friend."
+        "Feeling good."
+        "Honest friends are few!"
+        "Art thou my friend?"
+        "That makes me happy."
+        "I am sad."
+        {My friend William knows where the rune of honesty is.}
+    ]
+]
+context [
+    name: "moo05-Patric_the_Humble_Shepherd"
+    voice: 'tts_models/en/vctk/vits/p285
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Patric the Humble Shepherd."
+        "Bye."
+        "I am shepherd."
+        "Pretty good."
+        {Humility is not derived from the direct combination of truth, love or courage.}
+        "Humility is to act and be humble."
+        "Art thou totally humble?"
+        "Doubtful!"
+        "Strive to be."
+    ]
+]
+context [
+    name: "moo06-Shazom"
+    voice: 'tts_models/en/vctk/vits/p236
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shazom."
+        "Bye."
+        {I am apprentice to the great wizard Nigel!}
+        "I will soon die."
+        {I will soon need to use the spell he calls 'recall'.}
+        "Hast thou met Nigel?"
+        "Seek him out for he will teach thee."
+        "He lives at the Lycaeum."
+        "Pass on."
+    ]
+]
+context [
+    name: "moo07-Shakespeare"
+    voice: 'tts_models/en/vctk/vits/p238
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shakespeare."
+        "Bye."
+        "I create tales of honesty."
+        "Getting on."
+        {Remember, there is no terror in threats for I am strong in honesty!}
+        "Dost thou strive to be honest?"
+        "Beware corruption!"
+        "Fool!"
+        "Corruption wins not more than honesty!"
+    ]
+]
+context [
+    name: "moo08-Browning"
+    voice: 'tts_models/en/vctk/vits/p330
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Browning."
+        "Bye."
+        "I strive to live an honest life!"
+        "Been better."
+        "An honest soul need remember no lies!"
+        "Hast thou never lied?"
+        "That seems unlikely!"
+        "Truth never hurts the teller!"
+        "Truth is the root of honesty!"
+    ]
+]
+context [
+    name: "moo09-Cosima"
+    voice: 'tts_models/en/vctk/vits/p270
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Cosima."
+        "Bye."
+        "I am an alchemist."
+        "Tired, so tired."
+        "I know how best to mix reagents!"
+        "Dost thou know how to best mix spells?"
+        "Good!"
+        "The secret's in the reagents!"
+        {A sleep spell actually requires but one part spider silk!}
+    ]
+]
+context [
+    name: "moo10-Daranor"
+    voice: 'tts_models/en/vctk/vits/p376
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Daranor."
+        "Bye."
+        "I move the sun!"
+        "Health?"
+        "The moons are my enemies!"
+        "When I die the world will end!"
+        "Do you believe my story!?!?..."
+        "Then we must fell the moons!"
+        "Idiot, you must think I am insane!"
+    ]
+]
+context [
+    name: "moo11-Inoo"
+    voice: 'tts_models/en/vctk/vits/p257
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Inoo."
+        "Bye."
+        "I am a fortune teller, I read palms."
+        "I predict I will be fine today!"
+        "Palms tell fortunes!"
+        "Give thy palm."
+        "Dost thou wish thy destiny?"
+        {A great quest will lead thee into the abyss where the codex awaits!}
+        "Wise choice."
+    ]
+]
+context [
+    name: "moo12-Calabrini"
+    voice: 'tts_models/en/vctk/vits/p234
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Calabrini."
+        "Bye."
+        {I bear greetings from the fair city of Moonglow.}
+        "Dost thou seek an inn or healing?"
+        "Which?"
+        {Perhaps, the shrine which lies on an isle to the north!}
+        "Fine."
+        "We have an excellent inn."
+        "Our healer is one of the best!"
+    ]
+]
+context [
+    name: "moo13-Dekker"
+    voice: 'tts_models/en/vctk/vits/p265
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Dekker."
+        "Bye."
+        "I earn an honest living, jesting!"
+        "Very good."
+        "Honest labor bears a lovely face!"
+        "I love a good jest."
+        "Dost thou?"
+        "We ought to exchange jokes sometime!"
+        "Thou art probably a sourpuss!"
+    ]
+]
+context [
+    name: "moo14-William"
+    voice: 'tts_models/en/vctk/vits/p256
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am William."
+        "Bye."
+        "Oh, not much."
+        "Pretty good."
+        {It's a peanut butter and grape jelly on lightly toasted bread!}
+        "Wouldst thou like a bite?"
+        "Yummy, huh!"
+        "It's awful yummy!"
+        {Search for the rune of honesty by Mariah's gold!}
+    ]
+]
+context [
+    name: "moo15-Tyrone"
+    voice: 'tts_models/en/vctk/vits/p302
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Tyrone."
+        "Bye."
+        "I used to search for the blue stone."
+        "Fading."
+        {The stone of honesty is found on an altar in the dungeon of Deceit.}
+        "Wilt thou search?"
+        "Know its uses!"
+        "Hmm."
+        {It is used within the dungeon altar rooms and in the abyss.}
+    ]
+]

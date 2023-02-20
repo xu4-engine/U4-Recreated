@@ -1,0 +1,268 @@
+context [
+    name: "yew00-Jaana"
+    voice: 'tts_models/en/vctk/vits/p305
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Jaana."
+        "Bye."
+        "I strive to understand justice."
+        "I am well."
+        "True justice satisfies all, false none."
+        {Let justice be thy calling not thy excuse!}
+        "Art thou just?"
+        {Many a grave has been unjustly filled in the name of justice.}
+        "Alas."
+    ]
+]
+context [
+    name: "yew01-a_guard"
+    voice: 'tts_models/en/vctk/vits/p268
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "To guard the court."
+        "Yes."
+        {A good life is inspired by love and guided by knowledge.}
+        "Within this chamber justice is served."
+        {Dost thou have business before the court?}
+        "Then enter."
+        "Then do not disturb the proceedings!"
+    ]
+]
+context [
+    name: "yew02-a_guard"
+    voice: 'tts_models/en/vctk/vits/p253
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "We guard the jail."
+        "Hast thou come to turn thyself in?"
+        {In which cell dost thou belong, felonies or misdemeanors.}
+        "Just visiting, eh."
+        "Fit."
+        "That'll be the left cell."
+        {That'll be the right hand cell. careful in there!}
+    ]
+]
+context [
+    name: "yew03-Calumny"
+    voice: 'tts_models/en/vctk/vits/p228
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Calumny."
+        "Bye."
+        "I make spells."
+        "Well."
+        "I invented quickness!"
+        "Can thou cast it?"
+        "It requires but one bloodmoss!"
+        "Adept."
+        {Mandrake root is found only in the Fens of the Dead and in the Bloody Plains where the ground is always damp.}
+    ]
+]
+context [
+    name: "yew04-Talfourd"
+    voice: 'tts_models/en/vctk/vits/p340
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Talfourd."
+        "Bye."
+        "I decide justice."
+        "Well."
+        "Justice is truth in action!"
+        "It is hidden well!"
+        {Can thou honestly claim to be guilty of no crime ever?}
+        "Doubtful."
+        {Then do thy penance in a cell, and with the felon search ye well.}
+    ]
+]
+context [
+    name: "yew05-Flamis"
+    voice: 'tts_models/en/vctk/vits/p323
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Flamis."
+        "Bye."
+        {I hold the fabric of the true nature of justice.}
+        "Bright."
+        {The virtue of justice draws its nature from the principles of truth and love!}
+        "Of justice."
+        "Hast thou always been just?"
+        "Unlikely."
+        "At least thou art honest."
+    ]
+]
+context [
+    name: "yew06-Silent"
+    voice: 'tts_models/en/vctk/vits/p232
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Silent."
+        "Bye."
+        "Beh... Beh..."
+        "Beh... Beh..."
+        "Beh... Beh..."
+    ]
+]
+context [
+    name: "yew07-Dwp"
+    voice: 'tts_models/en/vctk/vits/p236
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Dwp."
+        "Bye."
+        "Welcome thee to Yew city of justice!"
+        "I am well."
+        {Love no one more than the truth, for justice seeks no favors. Temper thy justice with understanding.}
+        "Yes 'tis a fair city!"
+        "Dost thou like it?"
+        "Let it be as thine!"
+        "A pity."
+    ]
+]
+context [
+    name: "yew08-a_poor_beggar."
+    voice: 'tts_models/en/vctk/vits/p313
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a poor beggar.."
+        "Bye."
+        "I have sinned."
+        "Well treated."
+        {I have gotten chests in the townes and killed non-evil creatures.}
+        "Should thou be in with the felon?"
+        "Thou art in the wrong cell."
+        "Good."
+        "He is a mean nasty ugly villain!"
+    ]
+]
+context [
+    name: "yew09-Vorpal"
+    voice: 'tts_models/en/vctk/vits/p239
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Vorpal."
+        "Bye."
+        "I eat people who bug me!"
+        "Hungry!"
+        "That's me alright!"
+        "Like thee!"
+        "Art thou here to bug me?"
+        "Eat death, scum puppy!"
+        "Well thou art!"
+    ]
+]
+context [
+    name: "yew10-a_ranger"
+    voice: 'tts_models/en/vctk/vits/p310
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a ranger."
+        "Bye."
+        "I search for a home."
+        "O.K."
+        "On the range!"
+        "Where the deer and the antelope play."
+        "Ever heard of such a place?"
+        "Seldom is heard a discouraging word!"
+        "Ah, what'ya have to ruin it for!"
+    ]
+]
+context [
+    name: "yew11-Short_Round"
+    voice: 'tts_models/en/vctk/vits/p234
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Short Round."
+        "Bye."
+        "I work for Jones."
+        "I am fine."
+        "I think Indi's on a quest!"
+        "I'm not so sure, but it should be fun!"
+        "Art thou having fun?"
+        "Write to Lord British and tell him!!!"
+        "I am so sorry we all wish you would!"
+    ]
+]
+context [
+    name: "yew12-Frida"
+    voice: 'tts_models/en/vctk/vits/p351
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Frida."
+        "Bye."
+        "See my poor baby I beg for him."
+        "I am starving and sick."
+        "Oh, no, my baby is dying!"
+        {Wilt thou give me money so that I can get my baby healed?}
+        "Thou art kind and just!"
+        "Evil wretch, curse thee!"
+        "Jaana may join thee!"
+    ]
+]
+context [
+    name: "yew13-Pinrod"
+    voice: 'tts_models/en/vctk/vits/p256
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Pinrod."
+        "Bye."
+        "I take council."
+        "Fine."
+        "On justice."
+        "Fight ye for justice?"
+        "Good, the druids chant the mantra!"
+        "Cad."
+        {Justice is hardest to find at the point of a sword, the steel is an agent of justice, humanity the perpetrator!}
+    ]
+]
+context [
+    name: "yew14-a_guard"
+    voice: 'tts_models/en/vctk/vits/p258
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        {To preserve the peace and insure justice!}
+        "O.K."
+        {A good life is inspired by love and guided by truth!}
+        "Art thou always just?"
+        "Unlikely!"
+        "Strive to be!"
+        {Justice means not only to punish the bad but also to reward the good!}
+    ]
+]
+context [
+    name: "yew15-Druid"
+    voice: 'tts_models/en/vctk/vits/p250
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Druid."
+        "Bye."
+        "I seek justice."
+        "Well."
+        "Learn at the shrine!"
+        "The shrine is to the east then north!"
+        "Dost thou have the rune?"
+        {Now learn the mantra, and seek the green stone in 'Wrong'!}
+        "Ask Talfourd for he knows of the rune."
+    ]
+]

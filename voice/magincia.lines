@@ -1,0 +1,262 @@
+context [
+    name: "mag00-Katrina"
+    voice: 'tts_models/en/vctk/vits/p300
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Katrina."
+        "Bye."
+        "A survivor."
+        "Well."
+        "Magincia was destroyed by its pride."
+        {Pride flourishes in the absence of truth, love and courage.}
+        "Art thou proud?"
+        "Thy efforts are meaningless."
+        {Humility is the virtue that must overcome pride!}
+    ]
+]
+Missing punctuation: I haunt Magincia
+context [
+    name: "mag01-Ghostly"
+    voice: 'tts_models/en/vctk/vits/p273
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Ghostly."
+        "Bye."
+        "I haunt Magincia"
+        "Undead in search of peace."
+        {Peace I can never find, forever banished unto the realm of earthbound spirits.}
+        {Be not proud of thy little deeds lest ye too fall from the light!}
+    ]
+]
+context [
+    name: "mag02-Skullface"
+    voice: 'tts_models/en/vctk/vits/p341
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Skullface."
+        "Bye."
+        "I am a nobleman of great birth."
+        "Most superb."
+        {Me and my brother are the last two of the great Meridid family.}
+        "Thou hast heard of us of course, yes?"
+        "I thought so."
+        "You must not be from near these parts!"
+    ]
+]
+context [
+    name: "mag03-Casperin"
+    voice: 'tts_models/en/vctk/vits/p237
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Casperin."
+        "Bye."
+        "To haunt this shop."
+        "Feeling a bit translucent."
+        "A lot of haunting goes on round here."
+        "Know thee why?"
+        {Pride is the surest measure of goals never attained!}
+        "Pride!"
+        {Seek ye the mantra for humility, ask ye Heywood!}
+    ]
+]
+context [
+    name: "mag04-Faultless"
+    voice: 'tts_models/en/vctk/vits/p311
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Faultless."
+        "Bye."
+        "Oh, I just hang around!"
+        "Been better."
+        "I was hung for my sin of pride!"
+        "Art thou proud?"
+        "A grave sin!"
+        "Pride is evil's favorite sin!"
+        {The mantra for pride, being the antithesis of humility, is 'MUL'.}
+    ]
+]
+context [
+    name: "mag05-Heywood"
+    voice: 'tts_models/en/vctk/vits/p360
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Heywood."
+        "Bye."
+        "Haunt eternally."
+        "As well as can be expected."
+        "Pride goeth before, shame cometh after!"
+        "Art thou proud?"
+        "Thou shalt find shame!"
+        "A proud soul surely knows not its worth!"
+        {Faultless knows the mantra of pride ask him!}
+    ]
+]
+context [
+    name: "mag06-Slim"
+    voice: 'tts_models/en/vctk/vits/p310
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Slim."
+        "Bye."
+        "I rattle my bones."
+        "A bit on the thin side."
+        {I did value myself far too greatly, that pride was my downfall.}
+        "Art thou always humble?"
+        "Doubtful."
+        {Take no pride in humility, lest ye destroy it!}
+        "A terrible thing!"
+    ]
+]
+context [
+    name: "mag07-Banter"
+    voice: 'tts_models/en/vctk/vits/p362
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Banter."
+        "Bye."
+        "I once held the silver horn."
+        "A bit bony."
+        {The silver horn must be used to pass the daemon guard of the shrine.}
+        {Wierdrum has been to the shrine of humility!}
+        "Seek ye the horn?"
+        "Ask Demitry!"
+        "Oh."
+    ]
+]
+context [
+    name: "mag08-Demitry"
+    voice: 'tts_models/en/vctk/vits/p276
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Demitry."
+        "Bye."
+        "I rattle my bones."
+        "'bout the same as yesterday."
+        "Bones, them bones, them dry bones..."
+        "Art thou dead?"
+        "Ah, too bad!"
+        "Watch out for Nate!"
+        {The queen of love has a lady in waiting, she can tell thee more of the horn!}
+    ]
+]
+context [
+    name: "mag09-Wierdrum"
+    voice: 'tts_models/en/vctk/vits/p311
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Wierdrum."
+        "Bye."
+        "I haunt, and I haunt, and I haunt!"
+        "Haunted."
+        {A haunting job takes more than a lifetime, it takes forever!}
+        {Yes, I have been to the shrine, it lies on the north bank in the isle of the abyss!}
+    ]
+]
+context [
+    name: "mag10-Boozer"
+    voice: 'tts_models/en/vctk/vits/p294
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Boozer."
+        "Bye."
+        "I was once a powerful merchant!"
+        "Hic..."
+        {My wealth was boundless, I held great power!}
+        {A proud soul surely knows not it's worth!}
+        "Dost thou see?"
+        "The world goes on without me."
+        "The world goes on without me."
+    ]
+]
+context [
+    name: "mag11-Bulbous"
+    voice: 'tts_models/en/vctk/vits/p341
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Bulbous."
+        "Bye."
+        "I run this shop."
+        "Couldn't be better."
+        "Why, the food shop of course."
+        "Can I interest thee in some rations?"
+        {Hmmm, our stock seems to have spoiled....}
+        "I sell only the very best."
+        "Well, we're expecting more any day!"
+    ]
+]
+context [
+    name: "mag12-Splot"
+    voice: 'tts_models/en/vctk/vits/p270
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Splot."
+        "Bye."
+        "I regret."
+        "Been better."
+        {I was proud, strip thyself of conceits, only the humble are pure!}
+        "The root from which all virtues grow!"
+        "Dost thou seek purity?"
+        {Then ask the snake of the rune and stone!}
+        "Fool!"
+    ]
+]
+context [
+    name: "mag13-Ruskin"
+    voice: 'tts_models/en/vctk/vits/p316
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Ruskin."
+        "Bye."
+        "I now try to understand humility."
+        "Not well."
+        {The first test of a great soul is humility!}
+        "Dost thou seek to know humility?"
+        "Thou shalt need the rune!"
+        "A shame."
+        {Ask the snake of the rune, just before it strikes!}
+    ]
+]
+context [
+    name: "mag14-Nate"
+    voice: 'tts_models/en/vctk/vits/p301
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Nate."
+        "Bye."
+        "I bring death to all life in Magincia!"
+        "Bloodthirsty!"
+        {Those who seek the black stone need ask at the pub in Britain!}
+        {The sacred rune of humility was banished from this city. Ask Barren in Paws!}
+    ]
+]
+context [
+    name: "mag15-Virtuebane"
+    voice: 'tts_models/en/vctk/vits/p297
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Virtuebane."
+        "Bye."
+        {I welcome thee to Magincia! Proud city of the high seas!}
+        "Devilish!"
+        {Magincia fell unto the realm of darkness for the foundation of their virtue was ill-placed in pride!}
+        "Art thou proud?"
+        "Good!"
+        "Ah."
+    ]
+]

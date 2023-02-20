@@ -1,0 +1,267 @@
+context [
+    name: "ves00-Twin_Gates"
+    voice: 'tts_models/en/vctk/vits/p238
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Twin Gates."
+        "Bye."
+        "We welcome thee to Vesper."
+        "Well."
+        "Yes, Vesper is a fair village."
+        "Hast thou come a long way?"
+        {We are honored by the visit of one on the quest!}
+        {We are honored by the visit of one on the quest!}
+        "Welcome, unto Vesper!"
+    ]
+]
+context [
+    name: "ves01-Guard"
+    voice: 'tts_models/en/vctk/vits/p306
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Guard."
+        "Bye."
+        "Ug, me tough!"
+        "Ug, me tough!"
+        "Ug, me tough!"
+        "Me tough!"
+        "Ug, thee tough?"
+        "Ug, thee tough!"
+        "Ug, me tough!"
+    ]
+]
+context [
+    name: "ves02-Servile"
+    voice: 'tts_models/en/vctk/vits/p239
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Servile."
+        "Bye."
+        "I can help thee!"
+        "Well for now."
+        {I know of the skull of Mondain the Wizard!}
+        "Hast thou heard of it?"
+        "It is an evil artifact!"
+        "It is an evil artifact!"
+        {To use it for any reason is a sign of great evil, and no virtue!}
+    ]
+]
+context [
+    name: "ves03-Traveling_Dan"
+    voice: 'tts_models/en/vctk/vits/p234
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Traveling Dan."
+        "Bye."
+        "Traveling dan, the tinker man."
+        "I am fine, thank thee."
+        {I am here to repair goods at the guild shop.}
+        "Been to the guild shop?"
+        "Great selection!"
+        "Best prices!"
+        "I know the world is round!"
+    ]
+]
+context [
+    name: "ves04-Balthasar"
+    voice: 'tts_models/en/vctk/vits/p269
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Balthasar."
+        "Bye."
+        "I am a serf."
+        "I'm pooped."
+        "Serfs work hard for little pay!"
+        "I work the fields for my master!"
+        "Dost thou have a master?"
+        "I hope he or she is a kind one!"
+        "Thou art lucky indeed!"
+    ]
+]
+context [
+    name: "ves05-Plain"
+    voice: 'tts_models/en/vctk/vits/p264
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Plain."
+        "Bye."
+        "I seek humility."
+        "I am fully healed."
+        {When the 3 principles of virtue combine in eight ways pride has no virtue!}
+        {To be proud is not a virtue, and so Magincia was destroyed! Humility is the virtue that remains!}
+    ]
+]
+context [
+    name: "ves06-Simple"
+    voice: 'tts_models/en/vctk/vits/p283
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Simple."
+        "Bye."
+        "I seek the shrine."
+        "I am fine."
+        "The shrine of humility!"
+        {The shrine lies on the north bank of the isle of the abyss and is guarded by endless hoards of daemons!}
+        "Know the isle?"
+        "Good."
+        "Southeast of Britannia!"
+    ]
+]
+context [
+    name: "ves07-Gem"
+    voice: 'tts_models/en/vctk/vits/p293
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Gem."
+        "Bye."
+        "I do humble works."
+        "I am doing well."
+        "I can help thee with the mantra!"
+        {Since humility is the opposite of pride, so is its mantra!}
+        "Know ye the mantra of pride?"
+        "Then reverse it for humility!"
+        "When thou dost, reverse it!"
+    ]
+]
+context [
+    name: "ves08-Joseph"
+    voice: 'tts_models/en/vctk/vits/p318
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Joseph."
+        "Bye."
+        "I am but a humble shepherd."
+        "I am well."
+        {I am on a pilgrimage unto the shrine of humility!}
+        {Did thou know that there is no shrine of pride?}
+        "Very good."
+        "Pride is not a virtue of the avatar!"
+        "It is on the dark island!"
+    ]
+]
+context [
+    name: "ves09-Friday"
+    voice: 'tts_models/en/vctk/vits/p311
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Friday."
+        "Bye."
+        {I shall warn thee against taking this gold!}
+        "Dost thou intend to take it?"
+        {That would not reflect well upon thy virtues!}
+        "That is good."
+        "I am well enough!"
+        "It is not thine!"
+        "It is not thine!"
+    ]
+]
+context [
+    name: "ves10-Randal"
+    voice: 'tts_models/en/vctk/vits/p234
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Randal."
+        "Bye."
+        "I teach of the shrines."
+        "I am well."
+        {One >must< visit each shrine for 1, 2 & 3 cycles each for thy paths to be clear!}
+        "Dost thou visit them often?"
+        "Very good."
+        {Make that the first goal along thy path to avatarhood!}
+    ]
+]
+context [
+    name: "ves11-Dirgen"
+    voice: 'tts_models/en/vctk/vits/p232
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Dirgen."
+        "Bye."
+        "I give wise counsel."
+        "Well."
+        {Strive ye to know and develop the virtue within thee.}
+        {The Seer Hawkwind should be consulted >often< for he can see within thee!}
+        "Dost thou?"
+        "Good!"
+        "Thou shalt surely stray from the path!"
+    ]
+]
+context [
+    name: "ves12-Shazbot"
+    voice: 'tts_models/en/vctk/vits/p343
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shazbot."
+        "Bye."
+        "Thou thinks I'm funny!"
+        "Don't thou?"
+        "Well good, I try to be!"
+        "Ah, too bad, I thought I was."
+        "I've a slight tickle!"
+        {I dare thee to ask me about Nate the snake!}
+        {Well, it's a long story and we haven't the time.}
+    ]
+]
+context [
+    name: "ves13-Flatbush"
+    voice: 'tts_models/en/vctk/vits/p229
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Flatbush."
+        "Bye."
+        "I am an apprentice mage!"
+        "I am very powerful!"
+        "I am the Calumny's favorite!"
+        "He lives in Yew!"
+        "Hast thou been to Yew?"
+        "Calumny knows the quickness spell!"
+        {Calumny knows the quickness spell! Seek him out!}
+    ]
+]
+context [
+    name: "ves14-Corkrin"
+    voice: 'tts_models/en/vctk/vits/p239
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Corkrin."
+        "Bye."
+        {I travel these fair lands to spread the virtues!}
+        "I am fully healed!"
+        {To know thy progress on the paths of virtue one >must< visit the Seer Hawkwind often!}
+        "Dost thou do this?"
+        "Good."
+        "Thou must or thou may stray!"
+    ]
+]
+context [
+    name: "ves15-Dyka"
+    voice: 'tts_models/en/vctk/vits/p238
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Dyka."
+        "Bye."
+        "I am a thief, I like to borrow!"
+        "I am very well!"
+        "My favorite things to borrow are horses!"
+        "You can steal horses in the towne Paws!"
+        "Art thou a thief?"
+        "Watch out for the bull in the corral!"
+        "Likely, thou art a wimp!"
+    ]
+]

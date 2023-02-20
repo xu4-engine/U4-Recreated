@@ -1,0 +1,270 @@
+context [
+    name: "jhe00-Geoffrey"
+    voice: 'tts_models/en/vctk/vits/p265
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Geoffrey."
+        "Bye."
+        "I lead into battle!"
+        "I am good and strong!"
+        "A great warrior is a valiant warrior!"
+        "Art thou valiant!"
+        "Perhaps I could someday join thee!"
+        "To flee battle shows cowardice!"
+        "I desire to fight again in battle!"
+    ]
+]
+context [
+    name: "jhe01-Lord_Robert"
+    voice: 'tts_models/en/vctk/vits/p318
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Lord Robert."
+        "Bye."
+        "I battle for Lord British!"
+        "Are you a valiant warrior?"
+        "Thou dost deserve the rune, ask Nostro!"
+        "Thou art a wimp!"
+        "Outstanding!"
+        {Thou must battle long and hard to be a warrior.}
+        "Battles are few and too many!"
+    ]
+]
+context [
+    name: "jhe02-Lady_Donna"
+    voice: 'tts_models/en/vctk/vits/p300
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Lady Donna."
+        "Bye."
+        "I watch over my sheep."
+        "Fine, all but the lump in my stomach."
+        "It's no fun to be pregnant."
+        "Why, art thou the father?"
+        "Wait till I tell my husband!"
+        "Thank god!"
+        "I can't stand sheep!"
+    ]
+]
+context [
+    name: "jhe03-Bengrod"
+    voice: 'tts_models/en/vctk/vits/p313
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Bengrod."
+        "Bye."
+        "I search the dungeons!"
+        "Poor."
+        "I fell in the dungeon 'Destard'."
+        "Hast thou found its altar room?"
+        {It connects with Covetous, Shame and Hythloth!}
+        "Find it!"
+        {Therein use the stones found in the connecting dungeons!}
+    ]
+]
+context [
+    name: "jhe04-Sir_William"
+    voice: 'tts_models/en/vctk/vits/p234
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sir William."
+        "Bye."
+        "I search for valiant fighters!"
+        "Art thou valiant?"
+        "Strive ye to defeat all evil!"
+        "I see."
+        "Very well."
+        {Kill not non-evil creatures but still always stand thy ground!}
+        {Let them flee instead. never flee uninjured!}
+    ]
+]
+context [
+    name: "jhe05-Sir_Hrothgar"
+    voice: 'tts_models/en/vctk/vits/p229
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sir Hrothgar."
+        "Bye."
+        "I fight for valor!"
+        "Excellent."
+        {The valiant soul fears not its own visage!}
+        "Art thou the most valiant of souls?"
+        "This is not likely!"
+        "Thou should seek the shrine of valor!"
+        "The mantra need be known, ask Aesop!"
+    ]
+]
+context [
+    name: "jhe06-a_guard"
+    voice: 'tts_models/en/vctk/vits/p298
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "We guard the gates and these passages!"
+        "Well."
+        "The gates of Jhelom."
+        "These passages are restricted."
+    ]
+]
+context [
+    name: "jhe07-Aesop"
+    voice: 'tts_models/en/vctk/vits/p228
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Aesop."
+        "Bye."
+        "I search for valor!"
+        "Well enough."
+        {I find that 'tis easy to be brave from a safe distance!}
+        "Know what I mean?"
+        "Thats my problem."
+        "Thou art brave!"
+        {The mantra of valor is 'RA' use it in the shrine on the next isle!}
+    ]
+]
+context [
+    name: "jhe08-Gravnor"
+    voice: 'tts_models/en/vctk/vits/p229
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Gravnor."
+        "Bye."
+        "I search the dungeons."
+        "So so."
+        "I seek the red stone."
+        "It is found on an altar!"
+        "Dost thou have it?"
+        "No wonder I can't find it!"
+        "It lies in the dungeon Destard!"
+    ]
+]
+context [
+    name: "jhe09-Senora"
+    voice: 'tts_models/en/vctk/vits/p361
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Senora."
+        "Bye."
+        "I am locked up in this tower."
+        "Well enough."
+        "I am being punished for my crimes."
+        "Does not matter, I can help thee!"
+        "Dost thou have a ship?"
+        {Then thou dost need a sextant ask the barkeep for he knows more!}
+        "Too bad."
+    ]
+]
+context [
+    name: "jhe10-Nostro"
+    voice: 'tts_models/en/vctk/vits/p376
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Nostro."
+        "Bye."
+        {I built these passages and they walled me in!}
+        "Very near death!"
+        "This passage runs around the city!"
+        "Wilt thou lead me out?"
+        "I am saved!"
+        "Thou art a cad! and I will still follow!"
+        "The rune is buried in a tower!"
+    ]
+]
+context [
+    name: "jhe11-Luke"
+    voice: 'tts_models/en/vctk/vits/p251
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Luke."
+        "Bye."
+        "I seek the inner light!"
+        "Quite well."
+        {I come from Skara Brae and am on my way to Yew.}
+        "Hast thou been to Skara Brae?"
+        "A fine city!"
+        "'tis a spiritual city!"
+        {'tis a city based in the virtue of justice!}
+    ]
+]
+context [
+    name: "jhe12-Max"
+    voice: 'tts_models/en/vctk/vits/p254
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Max."
+        "Bye."
+        "I am the housekeeper."
+        "Good!"
+        "I clean the rooms."
+        "Is there some problem with thy room?"
+        {I am very sorry I will correct it right away!}
+        "Oh, thou had me worried!"
+        {That's a strange one at the end. People often disappear.}
+    ]
+]
+Missing punctuation: I seek the stone
+context [
+    name: "jhe13-X"
+    voice: 'tts_models/en/vctk/vits/p232
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am X."
+        "Bye."
+        "I seek the stone"
+        "O.K."
+        "The red stone."
+        "Red is for valor a virtue of the avatar!"
+        "Art thou an avatar?"
+        "Wow!"
+        {Then thou shalt need the red stone in one altar room to get the third part of a key!}
+    ]
+]
+context [
+    name: "jhe14-Slithe"
+    voice: 'tts_models/en/vctk/vits/p312
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Slithe."
+        "Bye."
+        "I fight battles!"
+        "Only minor wounds!"
+        {True valor is seen not in the force of arms, but in the force of will!}
+        "Art thou valiant?"
+        "Then never flee unless the need is dire!"
+        "Coward."
+        "I display my valor in battle."
+    ]
+]
+context [
+    name: "jhe15-Timrod"
+    voice: 'tts_models/en/vctk/vits/p241
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Timrod."
+        "Bye."
+        "I fight with valor!"
+        "Couldn't be better!"
+        {There is no holier spot of ground than where defeated valor lies.}
+        "Art thou brave?"
+        "Fortune helps the brave!"
+        "Coward."
+        "Be brave for there is much to dare!"
+    ]
+]

@@ -1,0 +1,272 @@
+context [
+    name: "lyc00-Robert_Frasier"
+    voice: 'tts_models/en/vctk/vits/p264
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Robert Frasier."
+        "Bye."
+        "I rule this province."
+        "Very well."
+        "My Lady Beth can tell thee more!"
+        "I know but one of three syllables."
+        "Dost thou wish to know it now?"
+        {It is 'ver'! Seek ye now the other parts!}
+        "Perhaps another time."
+    ]
+]
+context [
+    name: "lyc01-Beth_Frasier"
+    voice: 'tts_models/en/vctk/vits/p305
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Beth Frasier."
+        "Bye."
+        "I rule with my Lord."
+        "Well."
+        "This province."
+        {Our people believe in truth as a way of life and live it to the fullest!}
+        "Dost thou seek truth?"
+        "Then may thou find it!"
+        "Then thou shalt not find it!"
+    ]
+]
+context [
+    name: "lyc02-a_guard"
+    voice: 'tts_models/en/vctk/vits/p262
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        {Guard the gate, guard the baron, guard the baroness, watch the towers....}
+        "Very sleepy."
+        "I have been here for hours!"
+        "Yes, many hours!"
+        "See why I'm tired?"
+        {It's hard work and long hours in the baronial guard!}
+        "Bum!"
+    ]
+]
+context [
+    name: "lyc03-Palamar"
+    voice: 'tts_models/en/vctk/vits/p231
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Palamar."
+        "Bye."
+        {I am an old wizard, but have much to show!}
+        "My bones ache but my mind is sharp!"
+        "Here in my telescope!"
+        {Search there by the end, thou shalt find a knob.}
+        "Dost thou see where?"
+        "Set the dial and thou shalt see!"
+        "Look!!!"
+    ]
+]
+context [
+    name: "lyc04-Father_Antos"
+    voice: 'tts_models/en/vctk/vits/p279
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Father Antos."
+        "Bye."
+        "I hold great knowledge."
+        "Old and frail, I've seen many quests!"
+        "Art thou on the quest?"
+        "May thou succeed!"
+        "Oh."
+        "What is it you seek?"
+        {Seek ye the book of truth where other books lie.}
+    ]
+]
+context [
+    name: "lyc05-Jon"
+    voice: 'tts_models/en/vctk/vits/p262
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Jon."
+        "Bye."
+        "I guard the throne room."
+        "Bit tired."
+        "Throne of truth!"
+        {There are four townes that follow the principle of truth.}
+        "Know which?"
+        "Good!"
+        {There are eight possible combinations of the three principles, there are eight cities!}
+    ]
+]
+context [
+    name: "lyc06-Scatu"
+    voice: 'tts_models/en/vctk/vits/p232
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Scatu."
+        "Bye."
+        "I advise."
+        "Well!"
+        {Thou would be well advised to visit the Seer often!}
+        "I wear mystic armour."
+        "Art thou a partial avatar?"
+        {When thou art 8 parts avatar, seek Zircon in Minoc and ask of mystics!}
+        "Alas."
+    ]
+]
+Missing punctuation: Research
+context [
+    name: "lyc07-Estro"
+    voice: 'tts_models/en/vctk/vits/p226
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Estro."
+        "Bye."
+        "Research"
+        "Why I am fine, you too I hope."
+        "I am looking for the book of justice!"
+        "It must be here somewhere!"
+        "Hast thou never committed *any* crime!?"
+        "I believe thou art boasting a lie!"
+        "Then speak to the judge in Yew!"
+    ]
+]
+context [
+    name: "lyc08-Tymus"
+    voice: 'tts_models/en/vctk/vits/p231
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Tymus."
+        "Bye."
+        "To welcome thee!"
+        "Very well, thanks!"
+        {Yes, welcome to the Lycaeum, the keep of truth!}
+        {Know ye how many cities follow the principles of truth?}
+        "How many?"
+        "Travel and learn!"
+        {The dungeon altar rooms need 4 stones each!}
+    ]
+]
+context [
+    name: "lyc09-a_truth_seeker."
+    voice: 'tts_models/en/vctk/vits/p234
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a truth seeker.."
+        "Bye."
+        "I seek to know truth."
+        "I am in a meditative state."
+        "The principle upon which I meditate."
+        {Meditate at each shrine for 1, 2 and 3 minutes, then shalt thou know the paths of goodness!}
+    ]
+]
+context [
+    name: "lyc10-a_fighter"
+    voice: 'tts_models/en/vctk/vits/p265
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a fighter."
+        "Bye."
+        "None now!"
+        "My wounds are grievous!"
+        "No more!"
+        "I lost in a dungeon altar room!"
+        "Hast thou seen one?"
+        {Notice that each of the three rooms connect to four dungeons each!}
+        {They connect the dungeons unto each other!}
+    ]
+]
+Missing punctuation: Look under 't'
+context [
+    name: "lyc11-Lord_Terence"
+    voice: 'tts_models/en/vctk/vits/p318
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Lord Terence."
+        "Bye."
+        "I am the librarian."
+        "I am well."
+        {Herein is the largest store of knowledge in Britannia except the codex!}
+        "Art thou looking for a particular book?"
+        "Which book?"
+        "Feel free to browse."
+        "Look under 't'"
+    ]
+]
+context [
+    name: "lyc12-Zajac"
+    voice: 'tts_models/en/vctk/vits/p285
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Zajac."
+        "Bye."
+        "To entertain!"
+        "Unhappy."
+        "Ah, not now."
+        {Because my friend Chuckles won't tell me his secret!}
+        "Dost thou know chuckles?"
+        "Why dost thou not ask him for his clue!"
+        {He lives in the castle Britannia ask him of his clue!}
+    ]
+]
+Missing punctuation: I shan't stop thee
+context [
+    name: "lyc13-Catriona"
+    voice: 'tts_models/en/vctk/vits/p274
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Catriona."
+        "Bye."
+        "To watch the treasures."
+        "Very good."
+        "The treasures are of great value!"
+        "Yes, much gold."
+        "Dost thou intend to steal?"
+        "I shan't stop thee"
+        "Good, you had me worried!"
+    ]
+]
+context [
+    name: "lyc14-Nigel,_at_thy_service."
+    voice: 'tts_models/en/vctk/vits/p231
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Nigel, at thy service.."
+        "Bye."
+        "I teach magical spells."
+        "Good enough."
+        "I have a specialty!"
+        "Dost thou know what it is?"
+        "What do I call the spell?"
+        "Sorry."
+        {Yes, resurrection it takes: ash, ginseng, garlic, silk, bloodmoss, and mandrake!}
+    ]
+]
+context [
+    name: "lyc15-Shylock_the_Meek"
+    voice: 'tts_models/en/vctk/vits/p236
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shylock the Meek."
+        "Bye."
+        "I sit and beg oh... please..."
+        "I am cold and sick! oh... please..."
+        "Wilt thou help me? Oh... please..."
+        "Oh... please..."
+        "Oh... please..."
+        {Yes, please give me money! oh... please...}
+        "I have the black plague!"
+    ]
+]

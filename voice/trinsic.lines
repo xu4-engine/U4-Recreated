@@ -1,0 +1,271 @@
+Missing punctuation: I am towne leader
+context [
+    name: "tri00-Dupre"
+    voice: 'tts_models/en/vctk/vits/p281
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Dupre."
+        "Bye."
+        "I am towne leader"
+        "Very well."
+        "'tis an honor!"
+        "Dost thou try to live honorably?"
+        {It is a constant quest. Honor is like finely polished armour. Without constant care, it will soon tarnish!}
+        "Fool!"
+        "It gives life meaning!"
+    ]
+]
+context [
+    name: "tri01-Virgil"
+    voice: 'tts_models/en/vctk/vits/p292
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Virgil."
+        "Bye."
+        "I create magical fields."
+        "I am well."
+        "Poison is my favorite."
+        "'tis it thine?"
+        "Bravo!"
+        "Well I don't care!"
+        {Nightshade may be found only near lat-J'F" long-C'O" only on the darkest of nights!}
+    ]
+]
+context [
+    name: "tri02-Publius"
+    voice: 'tts_models/en/vctk/vits/p299
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Publius."
+        "Bye."
+        "I drink a toast to honor!"
+        "Tired."
+        "What is left when honor is lost?"
+        {Right, take honor from me and my life is done!}
+        {Dost thou strive to live an honorable life?}
+        "Honor gives greatness."
+        "No honor, no meaning!"
+    ]
+]
+context [
+    name: "tri03-Skitle"
+    voice: 'tts_models/en/vctk/vits/p257
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Skitle."
+        "Bye."
+        "I hail from dungeon deep."
+        "What do you mean?"
+        "I come from the dungeon 'Shame'!"
+        {I have seen the purple stone used in the altars of truth and courage!}
+        "Ever been there?"
+        "Good."
+        "It holds items thou shalt need."
+    ]
+]
+context [
+    name: "tri04-Sailor_Sam"
+    voice: 'tts_models/en/vctk/vits/p318
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sailor Sam."
+        "Bye."
+        "I sail the the seas of Britannia!"
+        "A bit waterlogged."
+        "My specialty is navigation!"
+        "Is it thy specialty?"
+        "Good show mate!"
+        "Thou must not own a sextant, eh?"
+        {Go to the pub in Jhelom and ask of sextants.}
+    ]
+]
+context [
+    name: "tri05-Aristotle"
+    voice: 'tts_models/en/vctk/vits/p292
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Aristotle."
+        "Bye."
+        "I search for honor."
+        "I am well."
+        {Dignity consists not in possessing honors, but in deserving them.}
+        "Honor no one, but honor itself!"
+        "Art thou honorable at all times?"
+        "That is impressive."
+        "Strive to be as such."
+    ]
+]
+context [
+    name: "tri06-Terrin"
+    voice: 'tts_models/en/vctk/vits/p318
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Terrin."
+        "Bye."
+        "I ran from the bull!"
+        "Scared!"
+        "A big one, with long, pointy horns!"
+        "Is it gone yet?"
+        "Whew, I thought it would get me!"
+        "Save me!"
+        {It is buried in the southwest corner of towne.}
+    ]
+]
+context [
+    name: "tri07-Rigmore"
+    voice: 'tts_models/en/vctk/vits/p264
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Rigmore."
+        "Bye."
+        "I am the welcomer."
+        "Extra good."
+        "Yes, welcome to Trinsic city of honor!"
+        {Wisdom on the virtue of honor is found throughout this towne.}
+        "Dost thou seek this wisdom?"
+        "Enter and find thy path."
+        "This is the wrong place!"
+    ]
+]
+context [
+    name: "tri08-Winthrop"
+    voice: 'tts_models/en/vctk/vits/p266
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Winthrop."
+        "Bye."
+        "A trade in rumors."
+        "A bit ragged out."
+        "About what?"
+        {There is a small child who knew named... Terrin.}
+        "Dost thou know him?"
+        "Ask him of the rune."
+        "Find him and ask of the rune!"
+    ]
+]
+context [
+    name: "tri09-Swindrik"
+    voice: 'tts_models/en/vctk/vits/p266
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Swindrik."
+        "Bye."
+        "I cast spells."
+        "Fully healed."
+        "Spells of great power."
+        "Dost thou cast spells of great power?"
+        "What is the most powerful reagent?"
+        "Dost thou know their main ingredient?"
+        "Ask at the Folley tavern of mandrake."
+    ]
+]
+context [
+    name: "tri10-Kline"
+    voice: 'tts_models/en/vctk/vits/p262
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Kline."
+        "Bye."
+        "I seek entry to the shrine of honor!"
+        {Know ye the two requirements to enter and use the shrine?}
+        "What are they?"
+        "What dost thou think?"
+        "Well."
+        "The mantra is 'SUMM'."
+        "A man named Winthrop knows of the rune!"
+    ]
+]
+context [
+    name: "tri11-Lexington"
+    voice: 'tts_models/en/vctk/vits/p238
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Lexington."
+        "Bye."
+        "I am warlord of Trinsic."
+        "Superb."
+        "I have solved many quests!"
+        "The solving of quests brings ye honor!"
+        "Strive ye for honor?"
+        {Then solve quests but attack not non-evil creatures, and get not others gold!}
+        "Oh."
+    ]
+]
+context [
+    name: "tri12-Dergin"
+    voice: 'tts_models/en/vctk/vits/p269
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Dergin."
+        "Bye."
+        "I seek a place to rest."
+        "Tired."
+        "I have quested long and hard."
+        {I seek enlightenment at the shrine of honor!}
+        "Art thou enlightened in honor?"
+        "Good."
+        {The shrine lies to the south and west beyond the swamps!}
+    ]
+]
+context [
+    name: "tri13-a_guard"
+    voice: 'tts_models/en/vctk/vits/p262
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "We guard the gate."
+        "Excellent."
+        "Into and out of Trinsic."
+        "'tis an honorable job!"
+        {Dost thou strive to bring honor upon the peers?}
+        {Dupre, the leader of our towne, joins many honorable quests!}
+        "Dolt."
+    ]
+]
+context [
+    name: "tri14-Quix"
+    voice: 'tts_models/en/vctk/vits/p227
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Quix."
+        "Bye."
+        "I seek the skeleton!"
+        "Adequate."
+        "It knows a great secret."
+        "About the purple stone of honor!"
+        "Dost thou have the purple stone?"
+        "Use it wisely!"
+        "Seek it for it is very useful!"
+    ]
+]
+Missing punctuation: Guard
+context [
+    name: "tri15-a_guard"
+    voice: 'tts_models/en/vctk/vits/p284
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "To guard."
+        "Guarded."
+        "Guarding."
+        "Guard"
+    ]
+]

@@ -1,0 +1,275 @@
+context [
+    name: "lcb00-Joshua"
+    voice: 'tts_models/en/vctk/vits/p251
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Joshua."
+        "Bye."
+        "I can help."
+        "Well."
+        "The riddle!"
+        {If the eight philosophies of avatarhood combine into and are made from truth, love & courage...}
+        "More?"
+        {What one thing creates and is created by all truths, all love & all courage?}
+        "Oh."
+    ]
+]
+context [
+    name: "lcb01-Juliet"
+    voice: 'tts_models/en/vctk/vits/p294
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Juliet."
+        "Bye."
+        "I can help thee."
+        "Fine thanks."
+        {Seek ye to know how the eight virtues form into the three principles.}
+        "Know ye this?"
+        "Now the one!"
+        "Seek it!"
+        {Seek ye to know what one thing the three principles of virtue combine into!}
+    ]
+]
+context [
+    name: "lcb02-Jester_Twin"
+    voice: 'tts_models/en/vctk/vits/p232
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Jester Twin."
+        "Bye."
+        "To entertain."
+        "Perfectly hoppy!"
+        "A jester needs a good bard!"
+        "Our bard is very good."
+        "Dost thou like the music?"
+        {Then you should go to Britain for there lives the best!}
+        "A shame, we do!"
+    ]
+]
+context [
+    name: "lcb03-a_guard"
+    voice: 'tts_models/en/vctk/vits/p238
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "I guard the castle and my liege!"
+        "Great!"
+        "A guard must be a valiant warrior!"
+        "Art thou the most valiant warrior?"
+        "Then thou should be a guard!"
+        "Still flee not from battle!"
+        "I serve Lord British!"
+    ]
+]
+context [
+    name: "lcb04-Le_Chef"
+    voice: 'tts_models/en/vctk/vits/p241
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Le Chef."
+        "Bye."
+        "I am the chef."
+        "Well.. All but my finger, which I cut!"
+        "Food, glorious food, to cook is my life!"
+        "Cooking is a practiced art."
+        "Do you eat?"
+        "Then thou should try my soup!"
+        "Then thou must be a spiritualist!"
+    ]
+]
+context [
+    name: "lcb05-a_reaper"
+    voice: 'tts_models/en/vctk/vits/p364
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a reaper."
+        "Bye."
+        "I kill adventurers!"
+        "Not so good, no one to eat in here!"
+        "There is a thing which can kill many!"
+        {Knowledge of it is found at Buccaneer's Den!}
+        "Will you seek this thing?"
+        "It brings great power!"
+        "Then thou must be stupid."
+    ]
+]
+context [
+    name: "lcb06-a_nameless_prisoner"
+    voice: 'tts_models/en/vctk/vits/p272
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a nameless prisoner."
+        "Bye."
+        "I have none."
+        "Very poor."
+        "Crime is an evil thing!"
+        "Here I pay for my crimes!"
+        "Are you a pirate?"
+        {You may never complete thy quests, for evil makes not an avatar!}
+        "I hope that this is true!"
+    ]
+]
+context [
+    name: "lcb07-Zorin"
+    voice: 'tts_models/en/vctk/vits/p299
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Zorin."
+        "Bye."
+        "I am here to help thee."
+        "I am old, very old...."
+        "Seek help in the castles!"
+        {Seek: the Lycaeum, Empath Abbey, Serpent's Castle!}
+        "Wilt thou go hither?"
+        {Find therein all named Antos and ask of the bell, book, and candle!}
+        "Alas."
+    ]
+]
+context [
+    name: "lcb08-a_guard"
+    voice: 'tts_models/en/vctk/vits/p301
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "I guard the castle and all within."
+        "Couldn't be better!"
+        "I guard the castle!"
+        "The castle is fair and strong!"
+        "Do you seek Lord British?"
+        {He is on the upper level in the throne room.}
+        "He will aid you if you are in need!"
+    ]
+]
+context [
+    name: "lcb09-Water"
+    voice: 'tts_models/en/vctk/vits/p284
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Water."
+        "Bye."
+        "I hold a secret."
+        "Fine."
+        "To what?"
+        {There are three altar rooms which connect the bottom levels of all eight dungeons!}
+        "More?"
+        {If the correct colors of stones are used in the altars, a key of three parts can be gained!}
+        "Oh."
+    ]
+]
+context [
+    name: "lcb10-Shawn"
+    voice: 'tts_models/en/vctk/vits/p323
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shawn."
+        "Bye."
+        "I watch the water."
+        "Well."
+        "It brings me peace."
+        "I come from a proud city."
+        "Art thou proud?"
+        "Hmmm."
+        {My towne was destroyed for its pride. The ruins lie on an isle at lat-K'J" long-L'L"!}
+    ]
+]
+context [
+    name: "lcb11-Seesha"
+    voice: 'tts_models/en/vctk/vits/p363
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Seesha."
+        "Bye."
+        "I fight for my country."
+        "I have a grievous wound."
+        "Deep."
+        "Britannia."
+        "Fight ye for Britannia?"
+        {Then seek out the smith named Zircon in Minoc for he made the mystic arms, only they will save thee in the abyss!}
+        "Hmm."
+    ]
+]
+Missing punctuation: I am the royal jester
+context [
+    name: "lcb12-Chuckles"
+    voice: 'tts_models/en/vctk/vits/p326
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Chuckles."
+        "Bye."
+        "I am the royal jester"
+        "Good, thanks."
+        "Welcome unto the castle Britannia!"
+        "Hast thou an ankh?"
+        "Then enter in peace!"
+        "Then why art thou here?"
+        {Speak ye unto the waters of the well and ask of altars!}
+    ]
+]
+Missing punctuation: A guard
+Missing punctuation: Excellent
+context [
+    name: "lcb13-a_guard"
+    voice: 'tts_models/en/vctk/vits/p228
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "A guard"
+        "Excellent"
+        "We guard the castle and its treasures."
+        "That is not your business."
+        "Do you mean to steal?"
+        {I believe you will find that an unfruitful venture.}
+        "Then please leave at once!"
+    ]
+]
+context [
+    name: "lcb14-Sheila"
+    voice: 'tts_models/en/vctk/vits/p300
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Sheila."
+        "Bye."
+        "I search for the inner light."
+        "I am well."
+        "Seek inner light in the shrines!"
+        "Runes are needed to enter shrines!"
+        "Dost thou know of mantra?"
+        "Good."
+        {The mantra are chants needed to focus thy thoughts while meditating.}
+    ]
+]
+context [
+    name: "lcb15-Landri"
+    voice: 'tts_models/en/vctk/vits/p272
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Landri."
+        "Bye."
+        "I am here to warn thee!"
+        "I am fine, but thou must go back!"
+        "Ahead lies a perilous place!"
+        {Once thou enters thou may not return whence thee came!}
+        "Wilt thou go on?"
+        "Then thou art doomed!"
+        "That is good."
+    ]
+]

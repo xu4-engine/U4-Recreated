@@ -1,0 +1,276 @@
+context [
+    name: "emp00-Lord_Robert"
+    voice: 'tts_models/en/vctk/vits/p266
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Lord Robert."
+        "Bye."
+        "I rule this province."
+        "Very well."
+        "My Lady Marcy can tell thee more!"
+        "I know but one of three syllables."
+        "Dost thou wish to know it now?"
+        "It is 'amo' seek ye now the other parts!"
+        "Perhaps another time."
+    ]
+]
+context [
+    name: "emp01-Lady_Marcy"
+    voice: 'tts_models/en/vctk/vits/p347
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Lady Marcy."
+        "Bye."
+        "I rule with my Lord."
+        "Well."
+        "This province."
+        {Our people believe in love as a way of life and live it to the fullest!}
+        "Dost thou seek love?"
+        "Then may thou find it!"
+        "Then thou shalt not find it!"
+    ]
+]
+context [
+    name: "emp02-Suzanna"
+    voice: 'tts_models/en/vctk/vits/p293
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Suzanna."
+        "Bye."
+        "I am a lady in waiting."
+        "Overworked!"
+        "I serve Marcy."
+        "Art thou allowed to be in here?"
+        "I doubt it! Thou should leave!"
+        "Thou should leave!"
+        {There is a paladin by the name of Malchor. He can lead thee to the silver horn!}
+    ]
+]
+context [
+    name: "emp03-Life."
+    voice: 'tts_models/en/vctk/vits/p271
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Life.."
+        "Bye."
+        "I resonate thoughts."
+        "I exist."
+        "What are thy thoughts?"
+        {Seek ye the candle of love for only with it and two other parts might thou enter the abyss!}
+        "Dost thou have it?"
+        "Good."
+        "Ask the bard beyond the secret passage!"
+    ]
+]
+context [
+    name: "emp04-the_pass_guard"
+    voice: 'tts_models/en/vctk/vits/p305
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am the pass guard."
+        "Bye."
+        "I guard the passages."
+        "Fine."
+        "There is no danger."
+        {Well not compared to a dungeon altar room!}
+        "Hast thou solved the altars?"
+        "Good."
+        {From them a three part key is gained, needed to enter the chamber of the codex!}
+    ]
+]
+Missing punctuation: A gate guard
+context [
+    name: "emp05-a_gate_guard"
+    voice: 'tts_models/en/vctk/vits/p255
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a gate guard."
+        "Bye."
+        "A gate guard"
+        "Top notch."
+        "To the abbey."
+        {Here, in the oak grove many find the meaning of peace and love!}
+        "Art thou saturated with love?"
+        "Then thou need not be here!"
+        "Visit the small shrine within the abbey!"
+    ]
+]
+context [
+    name: "emp06-Derek_the_Bard"
+    voice: 'tts_models/en/vctk/vits/p231
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Derek the Bard."
+        "Bye."
+        "I am a bard, I sing songs."
+        "Pretty good."
+        "Oh, all types."
+        "Dost thou like this one?"
+        "Thanks, I just wrote it!"
+        "Alas, it was new."
+        {The candle of love is found in a secret place hidden off Lock Lake!}
+    ]
+]
+context [
+    name: "emp07-Chinup"
+    voice: 'tts_models/en/vctk/vits/p252
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Chinup."
+        "Bye."
+        "I welcome thee unto the Abbey!"
+        "Art thou here in search of love?"
+        "Perhaps then the oak grove!"
+        "Perhaps then the oak grove."
+        "Very well, thank you!"
+        "A grove of oak."
+        "There four profession types seek truth!"
+    ]
+]
+context [
+    name: "emp08-Diane"
+    voice: 'tts_models/en/vctk/vits/p284
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Diane."
+        "Bye."
+        "I counsel those who enter the grove."
+        "Good."
+        {Herein thou may find insights into love, within thyself or the others here in the grove.}
+        "Ask the others."
+        "Art thou the most loving person?"
+        "Doubtful!"
+        "Strive for love!"
+    ]
+]
+context [
+    name: "emp09-Benjamin"
+    voice: 'tts_models/en/vctk/vits/p376
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Benjamin."
+        "Bye."
+        "I relate love and compassion."
+        "Fine."
+        "Art thou well?"
+        "Very good."
+        "Too bad..."
+        {When the three combine in eight ways love alone is compassion.}
+        {Of the eight avatar attributes compassion is derived from love alone.}
+    ]
+]
+context [
+    name: "emp10-Deirdre"
+    voice: 'tts_models/en/vctk/vits/p257
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Deirdre."
+        "Bye."
+        "I ponder love and justice."
+        "Fine."
+        "Art thou?"
+        "Most good."
+        "I see."
+        {When three build eight, truth tempered by love becomes justice!}
+        {Justice is one of the eight avatar virtues and derives from truth and love.}
+    ]
+]
+Missing punctuation: Fine
+context [
+    name: "emp11-Thomas"
+    voice: 'tts_models/en/vctk/vits/p262
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Thomas."
+        "Bye."
+        {I am thinking of love's part in sacrifice.}
+        "Fine"
+        "Thyself?"
+        "Good."
+        "Shame."
+        {Love of others and the courage to face even death is self-sacrifice.}
+        {Sacrifice is built upon the motive of love and the ability of courage.}
+    ]
+]
+context [
+    name: "emp12-Lastro"
+    voice: 'tts_models/en/vctk/vits/p262
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Lastro."
+        "Bye."
+        "I follow the spiritual path."
+        "Most well."
+        "And thee?"
+        "Good."
+        "So sad."
+        {My spirituality is not a religion, but a searching to know and improve my own inner being.}
+        {My being is based on my own truth, love and courage.}
+    ]
+]
+Missing punctuation: I seek salvation
+context [
+    name: "emp13-Humlock"
+    voice: 'tts_models/en/vctk/vits/p262
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Humlock."
+        "Bye."
+        "I seek salvation"
+        "Not so good."
+        "The...ankh... spoke to me!"
+        {I am but a poor destitute beggar I have nothing!}
+        "Will you give me some money?"
+        "I would be soooo grateful...."
+        "But I am in most dire need!"
+    ]
+]
+Missing punctuation: I solve quests
+context [
+    name: "emp14-Malchor"
+    voice: 'tts_models/en/vctk/vits/p326
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Malchor."
+        "Bye."
+        "I solve quests"
+        "Just now fully healed!"
+        "My last quest took me near Spiritwood."
+        "Art thou on a quest?"
+        "Best of luck to thee!"
+        "Oh."
+        {Some say that the silver horn is buried on a small isle off the tip of Spiritwood.}
+    ]
+]
+context [
+    name: "emp15-Brother_Antos"
+    voice: 'tts_models/en/vctk/vits/p286
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Brother Antos."
+        "Bye."
+        "I hold great wisdom."
+        "I am getting old and frail."
+        "What dost thou ask of me?"
+        {Thou dost need the candle of love to enter the abyss.}
+        "Dost thou know where to find it?"
+        "Very good."
+        "Meditate on love at our shrine."
+    ]
+]

@@ -1,0 +1,272 @@
+context [
+    name: "min00-Julia"
+    voice: 'tts_models/en/vctk/vits/p240
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Julia."
+        "Bye."
+        "I care for the poor."
+        "Well."
+        {Self preservation is the first law of nature; self sacrifice the highest rule of grace.}
+        {Within this house are many poor and destitute souls.}
+        "Wilt thou help?"
+        "I would join thee."
+        "Bum."
+    ]
+]
+context [
+    name: "min01-Zircon"
+    voice: 'tts_models/en/vctk/vits/p301
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Zircon."
+        "Bye."
+        "I forge weapons."
+        "Quite well."
+        "I make the very best!"
+        "Seek thee a weapon?"
+        "Ask at the counter!"
+        "Hmmm."
+        {Ah, yes, the mystic weapons, and armour, my greatest work! Those I gave unto Sir Simon and Lady Tessa.}
+    ]
+]
+context [
+    name: "min02-Bob_the_Beggar"
+    voice: 'tts_models/en/vctk/vits/p318
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Bob the Beggar."
+        "Bye."
+        "I have none, help me."
+        "I am very sick, help me!"
+        "I need money to cure my sickness."
+        "I have terminal leg rot."
+        "Hast thou any money?"
+        "Then please share it with me!"
+        "Then join me and we can beg together!"
+    ]
+]
+context [
+    name: "min03-Linda_Sue"
+    voice: 'tts_models/en/vctk/vits/p261
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Linda Sue."
+        "Bye."
+        "I'm an undernourished beggar girl."
+        "I am hungry."
+        "I have not eaten in days."
+        "Could thou spare a nibble of food?"
+        "I would greatly appreciate that."
+        "Oh, I see."
+        "Oh, thou art a kind soul!"
+    ]
+]
+context [
+    name: "min04-Gimble"
+    voice: 'tts_models/en/vctk/vits/p298
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Gimble."
+        "Bye."
+        "I shall die soon."
+        "I am barely conscious."
+        "I suffer from a tsetse byte!"
+        "I will soon sleep forever."
+        {Could thou spare a gold piece so I may buy a last drink?}
+        "Remember Azure knows of the rune!"
+        "I am saddened."
+    ]
+]
+context [
+    name: "min05-Jude"
+    voice: 'tts_models/en/vctk/vits/p279
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Jude."
+        "Bye."
+        "To redeem myself!"
+        "Ailing."
+        "I will not speak of my sin!"
+        "I used it!"
+        {If I help thee wilt thou swear to only use it at the mouth of the abyss to destroy it?}
+        {It can be found at lat-P'F" long-M'F" on the darkest night!}
+        "Oh."
+    ]
+]
+context [
+    name: "min06-Alkerion"
+    voice: 'tts_models/en/vctk/vits/p228
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Alkerion."
+        "Bye."
+        "I am a peasant, I hear many things."
+        "I am old and weak."
+        "What does thou wish to know?"
+        {The stone of sacrifice is orange in color and used in the altar rooms of love and courage!}
+        "Seeketh thou?"
+        "Good luck."
+        "Oh."
+    ]
+]
+context [
+    name: "min07-Mike_Ward"
+    voice: 'tts_models/en/vctk/vits/p318
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Mike Ward."
+        "Bye."
+        "I am trying to get a room."
+        "Well enough."
+        "I have travelled clear from Skara Brae."
+        "The rune of our city is missing!"
+        "Know thee of the rune?"
+        {It is the key to the shrine of spirituality!}
+        "It is not in Skara Brae."
+    ]
+]
+context [
+    name: "min08-Alex"
+    voice: 'tts_models/en/vctk/vits/p253
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Alex."
+        "Bye."
+        "I give out flowers. Here you are!"
+        "Fine, thanks."
+        {The way I figure it, if thou art kind to others they will have reason to be kind in return!}
+        {Yes, give all that thou can unto the needy!}
+        "Wilt thou give?"
+        "Good."
+        "Alas."
+    ]
+]
+context [
+    name: "min09-Shentis"
+    voice: 'tts_models/en/vctk/vits/p374
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Shentis."
+        "Bye."
+        {I welcome thee unto Minoc, city of sacrifice!}
+        "OK."
+        "Self-sacrifice is a needed virtue!"
+        "Avatars strive to be virtuous."
+        "Dost thou strive for virtue?"
+        {Then perhaps thou shalt become an avatar!}
+        "An avatar thou art not!"
+    ]
+]
+context [
+    name: "min10-Singsong"
+    voice: 'tts_models/en/vctk/vits/p304
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Singsong."
+        "Bye."
+        "I sing songs!"
+        "Very well indeed!"
+        "I sing songs!"
+        {Very well, the raven sings, the raven saw and in the corn he sayeth 'CAH'.}
+        "Dost thou like it?"
+        "Thanks."
+        "Too bad..."
+    ]
+]
+context [
+    name: "min11-Damon"
+    voice: 'tts_models/en/vctk/vits/p264
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Damon."
+        "Bye."
+        "I stand here and think."
+        "Fine."
+        "Oh, just about things."
+        "Can't a man just think to himself?"
+        "Well I hope so!"
+        "Oh, yes I can thou bandersnatch!"
+        {Listen to the bard's song for in its verse lies the key!}
+    ]
+]
+context [
+    name: "min12-Mischief"
+    voice: 'tts_models/en/vctk/vits/p333
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Mischief."
+        "Bye."
+        "This and that."
+        "O.K. I guess."
+        "And that..."
+        {The rune of sacrifice is hard to get. It lies within the fires of the forge!}
+        "Hast thou the rune?"
+        "Then ask Alkerion of the stone!"
+        "Return when thou dost find it!"
+    ]
+]
+context [
+    name: "min13-Azure"
+    voice: 'tts_models/en/vctk/vits/p326
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Azure."
+        "Bye."
+        "I carve runes."
+        "O.K."
+        {I carve runes for passage into the shrines!}
+        "Dost thou seek a rune?"
+        "Which?"
+        "I see."
+        "Ask my sister, Mischief."
+    ]
+]
+context [
+    name: "min14-Merida"
+    voice: 'tts_models/en/vctk/vits/p301
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am Merida."
+        "Bye."
+        {I seek the wisdom of the shrine of sacrifice.}
+        "Been better."
+        "But first I need the mantra!"
+        "Know ye the mantra?"
+        "Good!"
+        "The shrine is on a lake to the east!"
+        {I am told that a hidden shepherd knows the mantra.}
+    ]
+]
+context [
+    name: "min15-a_guard"
+    voice: 'tts_models/en/vctk/vits/p313
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "I am a guard."
+        "Bye."
+        "To guard of course."
+        "Quite."
+        {I often wonder if I will ever have to give my life in the line of duty.}
+        "Understand my dilemma?"
+        {Of course, if it came down to it, I hope I would do it!}
+        "Too bad."
+        "One life for many!"
+    ]
+]
