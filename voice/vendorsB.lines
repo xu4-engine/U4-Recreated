@@ -1,0 +1,385 @@
+context [
+    name: "vend20-Scatu"
+    voice: 'tts_models/en/vctk/vits/p251
+    pitch: 0
+    pre-encode: "pitch 100"
+    lines: [
+        "Welcome to The Honest Inn. I am Scatu. Are you in need of lodging?"
+        "Then you have come to the wrong place! Good day."
+        "Get that horse out of here!"
+        "Very good. Have a pleasant night."
+        "Oh, and don't mind the strange noises, it's only rats!"
+        "If you can't pay, you can't stay! Good Bye."
+        "We have a room with 2 beds that rents for 20 gold."
+        "You won't find a better deal in this town!"
+    ]
+]
+context [
+    name: "vend21-Jason"
+    voice: 'tts_models/en/vctk/vits/p252
+    pitch: 0
+    pre-encode: "pitch -100"
+    lines: [
+        "Welcome to Britannia Manor. I am Jason. Are you in need of lodging?"
+        "Then you have come to the wrong place! Good day."
+        "Get that horse out of here!"
+        "Very good. Have a pleasant night."
+        "Oh, and don't mind the strange noises, it's only rats!"
+        "If you can't pay, you can't stay! Good Bye."
+        "We have a modest sized room with 1 bed for 15 gold."
+        "You won't find a better deal in this town!"
+    ]
+]
+context [
+    name: "vend22-Smirk"
+    voice: 'tts_models/en/vctk/vits/p253
+    pitch: 0
+    pre-encode: "pitch 100 tempo -s 1.2"
+    lines: [
+        "Welcome to The Inn of Ends. I am Smirk. Are you in need of lodging?"
+        "Then you have come to the wrong place! Good day."
+        "Get that horse out of here!"
+        "Very good. Have a pleasant night."
+        "Oh, and don't mind the strange noises, it's only rats!"
+        "If you can't pay, you can't stay! Good Bye."
+        "We have a very secure room of modest size and 1 bed for 10 gold."
+        "You won't find a better deal in this town!"
+    ]
+]
+context [
+    name: "vend23-Estro"
+    voice: 'tts_models/en/vctk/vits/p254
+    pitch: 0
+    pre-encode: "pitch 80 tempo -s 1.1"
+    lines: [
+        "Welcome to Wayfarer's Inn. I am Estro. Are you in need of lodging?"
+        "Then you have come to the wrong place! Good day."
+        "Get that horse out of here!"
+        "Very good. Have a pleasant night."
+        "Oh, and don't mind the strange noises, it's only rats!"
+        "If you can't pay, you can't stay! Good Bye."
+        "We have three rooms available, a 1, 2 and 3 bed room for 30, 60 and 90 gold each."
+        "You won't find a better deal in this town!"
+    ]
+]
+context [
+    name: "vend24-Zajac"
+    voice: 'tts_models/en/vctk/vits/p255
+    pitch: 0
+    pre-encode: "tempo -s 1.2"
+    lines: [
+        "Welcome to Honorable Inn. I am Zajac. Are you in need of lodging?"
+        "Then you have come to the wrong place! Good day."
+        "Get that horse out of here!"
+        "Very good. Have a pleasant night."
+        "Oh, and don't mind the strange noises, it's only rats!"
+        "If you can't pay, you can't stay! Good Bye."
+        "We have a single bed room with a back door for 15 gold."
+        "You won't find a better deal in this town!"
+    ]
+]
+context [
+    name: "vend25-Tyrone"
+    voice: 'tts_models/en/vctk/vits/p256
+    pitch: 0
+    pre-encode: "pitch 100 tempo -s 1.1"
+    lines: [
+        "Welcome to The Inn of the Spirits. I am Tyrone. Are you in need of lodging?"
+        "Then you have come to the wrong place! Good day."
+        "Get that horse out of here!"
+        "Very good. Have a pleasant night."
+        "Oh, and don't mind the strange noises, it's only rats!"
+        "If you can't pay, you can't stay! Good Bye."
+        "Unfortunately, I have but only a very small room with 1 bed: worse yet, it's haunted!"
+        "You won't find a better deal in this town!"
+    ]
+]
+context [
+    name: "vend26-Tymus"
+    voice: 'tts_models/en/vctk/vits/p258
+    pitch: 0
+    pre-encode: "pitch -100"
+    lines: [
+        "Welcome to The Sleep Shop. I am Tymus. Are you in need of lodging?"
+        "Then you have come to the wrong place! Good day."
+        "Get that horse out of here!"
+        "Very good. Have a pleasant night."
+        "Oh, and don't mind the strange noises, it's only rats!"
+        "If you can't pay, you can't stay! Good Bye."
+        "All we have is that cot over there. But it is comfortable, and only 1 gold."
+        "You won't find a better deal in this town!"
+    ]
+]
+
+context [
+    name: "vend27-Leary"
+    voice: 'tts_models/en/vctk/vits/p262
+    pitch: 0
+    pre-encode: "pitch -80 tempo -s 1.1"
+    lines: [
+        {{
+          Avast ye mate! Shure ye wishes to buy from ol' Long John Leary?
+          Welcome to The Guild Shop. Like to see my goods?
+        }}
+        "See ya matie!"
+        "Will ya buy?"
+        "Good Mate! Wat'l it be?"
+        "Fine... fine... See more?"
+        "What? Can't pay! Buzz off, swine!"
+    ]
+]
+context [
+    name: "vend28-Willey"
+    voice: 'tts_models/en/vctk/vits/p264
+    pitch: 0
+    pre-encode: "pitch -100 tempo -s 0.9"
+    lines: [
+        {{
+          Avast ye mate! Shure ye wishes to buy from ol' One Eyed Willey?
+          Welcome to Pirate's Guild. Like to see my goods?
+        }}
+        "See ya matie!"
+        "Will ya buy?"
+        "Good Mate! Wat'l it be?"
+        "Fine... fine... See more?"
+        "What? Can't pay! Buzz off, swine!"
+    ]
+]
+context [
+    name: "vend29-stable"
+    voice: 'tts_models/en/vctk/vits/p265
+    pitch: 0
+    pre-encode: "pitch 100 tempo -s 1.2"
+    lines: [
+        "Welcome friend! Can I interest thee in horses?"
+        "A shame, thou looks like thou could use a good horse!"
+        "Thou can have the best! Wilt thou buy?"
+        "Here, a better breed thou shalt not find ever!"
+        "It seems thou hast not gold enough to pay!"
+    ]
+]
+
+(healer-lines: [
+    "Peace and Joy be with you friend. Are you in need of help?"
+    "May thy life be guarded by the powers of good."
+    "Art thou willing to give of thy blood to aid others?" ; 100pts
+    "We can perform: Curing, Healing, Resurrection."
+    "Who is in need?"
+    "Do you need more help?"
+    "I cannot aid thee."
+       ;"I see by thy purse that thou hast not enough gold. I cannot aid thee."
+    "Wilt thou pay?"
+])
+
+context [
+    name: "vend30-Pendragon"
+    voice: 'tts_models/en/vctk/vits/p266
+    pitch: 0
+    pre-encode: none
+    lines: healer-lines
+]
+context [
+    name: "vend31-Harmony"
+    voice: 'tts_models/en/vctk/vits/p304
+    pitch: 0
+    pre-encode: none
+    lines: healer-lines
+]
+context [
+    name: "vend32-Celest"
+    voice: 'tts_models/en/vctk/vits/p305
+    pitch: 0
+    pre-encode: "pitch -160"
+    lines: healer-lines
+]
+context [
+    name: "vend33-Triplet"
+    voice: 'tts_models/en/vctk/vits/p267
+    pitch: 0
+    pre-encode: "pitch 100"
+    lines: healer-lines
+]
+context [
+    name: "vend34-Justin"
+    voice: 'tts_models/en/vctk/vits/p269
+    pitch: 0
+    pre-encode: "pitch 100 tempo -s 1.1"
+    lines: healer-lines
+]
+context [
+    name: "vend35-Spiran"
+    voice: 'tts_models/en/vctk/vits/p272
+    pitch: 0
+    pre-encode: "pitch 100 tempo -s 1.1"
+    lines: healer-lines
+]
+context [
+    name: "vend36-Starfire"
+    voice: 'tts_models/en/vctk/vits/p306
+    pitch: 0
+    pre-encode: none
+    lines: healer-lines
+]
+context [
+    name: "vend37-Salle"
+    voice: 'tts_models/en/vctk/vits/p279
+    pitch: 0
+    pre-encode: none
+    lines: healer-lines
+]
+context [
+    name: "vend38-Windwalker"
+    voice: 'tts_models/en/vctk/vits/p281
+    pitch: 0
+    pre-encode: "pitch -120"
+    lines: healer-lines
+]
+context [
+    name: "vend39-Quat"
+    voice: 'tts_models/en/vctk/vits/p282
+    pitch: 0
+    pre-encode: "pitch -120"
+    lines: healer-lines
+]
+
+context [
+    name: "vend40-Sam"
+    voice: 'tts_models/en/vctk/vits/p313    ;p285
+    pitch: 0
+    pre-encode: "pitch -120"
+    lines: [
+        "Welcome to Jolly Spirits. What'll it be, Food er Ale?"
+        "See ya mate!"
+        "Our specialty is Lamb Chops, which costs 4 gold."
+        "Sorry, you seem to have too many. Bye!"
+        "Here's a mug of our best. That'll be 2 gold."
+        "How many plates would you like?"
+        "Here ye arr. Somethin' else?"
+        "What'd ya like to know friend?"
+        "'fraid I can't help ya there friend!"
+        "Somethin' else?"
+        "Sorry, I could not help ya mate!"
+        "That subject is a bit foggy, perhaps more gold will refresh my memory."
+        "Of Nightshade I know but this... Seek out Virgil or thou shalt miss! Try in Trinsic!"
+        "If thou must know of that evilest of all things... find the beggar Jude. He is very very poor!"
+        "The last person I knew that had any Mandrake was an old alchemist named Calumny."
+        "Now let me see... Yes it was the old Hermit... Sloven! He is tough to find, lives near Lock Lake I hear."
+        "For navigation a Sextant is vital... Ask for item D in the Guild shops!"
+        "Ah, the Black Stone. Yes I've heard of it. But, the only one who knows where it lies is the wizard Merlin."
+    ]
+]
+context [
+    name: "vend41-Celestial"
+    voice: 'tts_models/en/vctk/vits/p286
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "Welcome to The Bloody Pub. What'll it be, Food er Ale?"
+        "See ya mate!"
+        "Our specialty is Dragon Tartar, which costs 2 gold."
+        "Sorry, you seem to have too many. Bye!"
+        "Here's a mug of our best. That'll be 2 gold."
+        "How many plates would you like?"
+        "Here ye arr. Somethin' else?"
+        "What'd ya like to know friend?"
+        "'fraid I can't help ya there friend!"
+        "Somethin' else?"
+        "Sorry, I could not help ya mate!"
+        "That subject is a bit foggy, perhaps more gold will refresh my memory."
+        "Of Nightshade I know but this... Seek out Virgil or thou shalt miss! Try in Trinsic!"
+        "If thou must know of that evilest of all things... find the beggar Jude. He is very very poor!"
+        "The last person I knew that had any Mandrake was an old alchemist named Calumny."
+        "Now let me see... Yes it was the old Hermit... Sloven! He is tough to find, lives near Lock Lake I hear."
+        "For navigation a Sextant is vital... Ask for item D in the Guild shops!"
+    ]
+]
+context [
+    name: "vend42-Terran"
+    voice: 'tts_models/en/vctk/vits/p287
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "Welcome to The Keg Tap. What'll it be, Food er Ale?"
+        "See ya mate!"
+        "Our specialty is Brown Beans, which costs 3 gold."
+        "Sorry, you seem to have too many. Bye!"
+        "Here's a mug of our best. That'll be 2 gold."
+        "How many plates would you like?"
+        "Here ye arr. Somethin' else?"
+        "What'd ya like to know friend?"
+        "'fraid I can't help ya there friend!"
+        "Somethin' else?"
+        "Sorry, I could not help ya mate!"
+        "That subject is a bit foggy, perhaps more gold will refresh my memory."
+        "Of Nightshade I know but this... Seek out Virgil or thou shalt miss! Try in Trinsic!"
+        "If thou must know of that evilest of all things... find the beggar Jude. He is very very poor!"
+        "The last person I knew that had any Mandrake was an old alchemist named Calumny."
+        "Now let me see... Yes it was the old Hermit... Sloven! He is tough to find, lives near Lock Lake I hear."
+    ]
+]
+context [
+    name: "vend43-Greg"
+    voice: 'tts_models/en/vctk/vits/p292
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "Welcome to Folley Tavern. What'll it be, Food er Ale?"
+        "See ya mate!"
+        "Our specialty is Folley Filet, which costs 2 gold."
+        "Sorry, you seem to have too many. Bye!"
+        "Here's a mug of our best. That'll be 2 gold."
+        "How many plates would you like?"
+        "Here ye arr. Somethin' else?"
+        "What'd ya like to know friend?"
+        "'fraid I can't help ya there friend!"
+        "Somethin' else?"
+        "Sorry, I could not help ya mate!"
+        "That subject is a bit foggy, perhaps more gold will refresh my memory."
+        "Of Nightshade I know but this... Seek out Virgil or thou shalt miss! Try in Trinsic!"
+        "If thou must know of that evilest of all things... find the beggar Jude. He is very very poor!"
+        "The last person I knew that had any Mandrake was an old alchemist named Calumny."
+    ]
+]
+context [
+    name: "vend44-TheCapn"
+    voice: 'tts_models/en/vctk/vits/p298
+    pitch: 0
+    pre-encode: "pitch -160"
+    lines: [
+        "Welcome to Captain Black Tavern. What'll it be, Food er Ale?"
+        "See ya mate!"
+        "Our specialty is Dog Meat Pie, which costs 4 gold."
+        "Sorry, you seem to have too many. Bye!"
+        "Here's a mug of our best. That'll be 2 gold."
+        "How many plates would you like?"
+        "Here ye arr. Somethin' else?"
+        "What'd ya like to know friend?"
+        "'fraid I can't help ya there friend!"
+        "Somethin' else?"
+        "Sorry, I could not help ya mate!"
+        "That subject is a bit foggy, perhaps more gold will refresh my memory."
+        "Of Nightshade I know but this... Seek out Virgil or thou shalt miss! Try in Trinsic!"
+        "If thou must know of that evilest of all things... find the beggar Jude. He is very very poor!"
+    ]
+]
+context [
+    name: "vend45-Arron"
+    voice: 'tts_models/en/vctk/vits/p299
+    pitch: 0
+    pre-encode: "pitch 100 tempo -s 1.1"
+    lines: [
+        "Welcome to Axe 'n Ale. What'll it be, Food er Ale?"
+        "See ya mate!"
+        "Our specialty is Green Granukit, which costs 2 gold."
+        "Sorry, you seem to have too many. Bye!"
+        "Here's a mug of our best. That'll be 2 gold."
+        "How many plates would you like?"
+        "Here ye arr. Somethin' else?"
+        "What'd ya like to know friend?"
+        "'fraid I can't help ya there friend!"
+        "Somethin' else?"
+        "Sorry, I could not help ya mate!"
+        "That subject is a bit foggy, perhaps more gold will refresh my memory."
+        "Of Nightshade I know but this... Seek out Virgil or thou shalt miss! Try in Trinsic!"
+    ]
+]

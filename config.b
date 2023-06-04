@@ -50,6 +50,8 @@ music: [
     25 parts %den.ogg
     26 parts %vesper.ogg
     27 parts %cove.ogg
+    28 parts %vendors.ogg
+    29 parts %vendorsB.ogg
 ]
 
 include %graphics.b

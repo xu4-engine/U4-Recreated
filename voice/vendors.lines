@@ -1,0 +1,234 @@
+context [
+    name: "vend00-Margot"
+    voice: 'tts_models/en/vctk/vits/p249
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "Welcome to Magical Herbs. I am Maargo. Are you in need of Reagents?"
+            ; Margot
+        "Perhaps another time then..."
+        "Very well, I have these reagents."
+        "How many would you like?"
+        "Very good. Anything else?"
+        "It seems you have not the gold! Anything else?"
+        "I see, then anything else?"
+    ]
+]
+context [
+    name: "vend01-Sasha"
+    voice: 'tts_models/en/vctk/vits/p263
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "Welcome to Herbs and Spice. I am Sasha. Are you in need of Reagents?"
+        "Perhaps another time then..."
+        "Very well, I have these reagents."
+        "How many would you like?"
+        "Very good. Anything else?"
+        "It seems you have not the gold! Anything else?"
+        "I see, then anything else?"
+    ]
+]
+context [
+    name: "vend02-Sheila"
+    voice: 'tts_models/en/vctk/vits/p260
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "Welcome to The Magics. I am Sheila. Are you in need of Reagents?"
+        "Perhaps another time then..."
+        "Very well, I have these reagents."
+        "How many would you like?"
+        "Very good. Anything else?"
+        "It seems you have not the gold! Anything else?"
+        "I see, then anything else?"
+    ]
+]
+context [
+    name: "vend03-Shannon"
+    voice: 'tts_models/en/vctk/vits/p347
+    pitch: 0
+    pre-encode: "pitch -100 tempo -s 0.9"
+    lines: [
+        "Welcome to Magic Mentar. I am Shannon. Are you in need of Reagents?"
+        "Perhaps another time then..."
+        "Very well, I have these reagents."
+        "How many would you like?"
+        "Very good. Anything else?"
+        "It seems you have not the gold! Anything else?"
+        "I see, then anything else?"
+    ]
+]
+
+(food-vendor: [
+   "Good day, and Welcome friend."
+   "Goodbye. Come again!"
+   "Come back when you have some money!"
+   "May I interest you in some rations?"
+   "We have the best adventure rations."
+   "How many packs would you like?"
+   "Thank you. Come again!"
+   "Thank you. Anything else?"
+]
+armor-vendor: [
+    "Welcome friend! Want to Buy or Sell?"
+    "Good bye."
+    "What'll it be?"
+    "You have not the funds for even one!"
+    "Take it?"
+    "Too bad."
+    "How many would you like?"
+    "You don't have enough gold. Maybe something cheaper?"
+    "Good choice! Anything else?"
+    "Come on, you don't own any."
+    "Deal?"
+    "How many would you wish to sell?"
+    "You don't have that many, swine!"
+    "Fine! What else?"
+  ; "Harumph."
+]
+weapon-vendor: [
+    "Welcome friend! Art thou here to Buy or Sell?"
+    "Fare thee well!"
+    "Very Good!"
+    "Excellent!"
+    "You have not the funds for even one!"
+    "Take it?"
+    "Too bad."
+    "How many would you like?"
+    "I fear you have not the funds, perhaps something else."
+    "A fine choice! Anything else?"
+    "Thou dost not own that."
+    "Deal?"
+    "You don't have that many, swine!"
+    "Fine! What else?"
+  ; "Hmmph."
+]
+)
+
+context [
+    name: "vend04-Shaman"
+    voice: 'tts_models/en/vctk/vits/p279
+    pitch: 0
+    pre-encode: "pitch 100 tempo -s 1.1"
+    lines: food-vendor
+]
+context [
+    name: "vend05-Windrick"
+    voice: 'tts_models/en/vctk/vits/p230
+    pitch: 0
+    pre-encode: "pitch 120 tempo -s 0.9"
+    lines: food-vendor
+]
+context [
+    name: "vend06-Donnar"
+    voice: 'tts_models/en/vctk/vits/p239
+    pitch: 0
+    pre-encode: "pitch -100 tempo -s 1.2"
+    lines: food-vendor
+]
+context [
+    name: "vend07-Mintol"
+    voice: 'tts_models/en/vctk/vits/p298
+    pitch: 0
+    pre-encode: "pitch 100"
+    lines: food-vendor
+]
+context [
+    name: "vend08-Max"
+    voice: 'tts_models/en/vctk/vits/p330
+    pitch: 0
+    pre-encode: "tempo -s 1.4"
+    lines: food-vendor
+]
+
+context [
+    name: "vend09-Winston"
+    voice: 'tts_models/en/vctk/vits/p230
+    pitch: 0
+    pre-encode: "pitch 120"
+    lines: armor-vendor
+]
+context [
+    name: "vend10-Valiant"
+    voice: 'tts_models/en/vctk/vits/p228
+    pitch: 0
+    pre-encode: "pitch -100"
+    lines: armor-vendor
+]
+context [
+    name: "vend11-Jean"
+    voice: 'tts_models/en/vctk/vits/p229
+    pitch: 0
+    pre-encode: "pitch 100 tempo -s 1.4"
+    lines: armor-vendor
+]
+context [
+    name: "vend12-Pierre"
+    voice: 'tts_models/en/vctk/vits/p226
+    pitch: 0
+    pre-encode: "pitch -200 tempo -s 1.1"
+    lines: armor-vendor
+]
+context [
+    name: "vend13-Limpy"
+    voice: 'tts_models/en/vctk/vits/p232
+    pitch: 0
+    pre-encode: "pitch 160 tempo -s 1.4"
+    lines: armor-vendor
+]
+
+context [
+    name: "vend14-Winston"
+    voice: 'tts_models/en/vctk/vits/p230
+    pitch: 0
+    pre-encode: "pitch -100 tempo -s 1.2"
+    lines: weapon-vendor
+]
+context [
+    name: "vend15-Willard"
+    voice: 'tts_models/en/vctk/vits/p234
+    pitch: 0
+    pre-encode: "pitch 160 tempo -s 1.1"
+    lines: weapon-vendor
+]
+context [
+    name: "vend16-Peter"
+    voice: 'tts_models/en/vctk/vits/p236
+    pitch: 0
+    pre-encode: "pitch -100 tempo -s 1.1"
+    lines: weapon-vendor
+]
+context [
+    name: "vend17-Jumar"
+    voice: 'tts_models/en/vctk/vits/p239
+    pitch: 0
+    pre-encode: "tempo -s 1.2"
+    lines: weapon-vendor
+]
+context [
+    name: "vend18-Hook"
+    voice: 'tts_models/en/vctk/vits/p241
+    pitch: 0
+    pre-encode: "pitch -100 tempo -s 0.9"
+    lines: weapon-vendor
+]
+context [
+    name: "vend19-Wendy"
+    voice: 'tts_models/en/vctk/vits/p277
+    pitch: 0
+    pre-encode: "pitch -100"
+    lines: weapon-vendor
+]
+
+/*
+context [
+    name: "vend33-dev"
+    voice: 'tts_models/en/vctk/vits/p228
+    pitch: 0
+    pre-encode: none
+    lines: [
+        "Good choice! Anything else?"
+    ]
+]
+*/
