@@ -184,9 +184,9 @@ context [
 ]
 context [
     name: "paw11-Sir_Simon"
-    voice: 'tts_models/en/vctk/vits/p317
+    voice: 'tts_models/en/vctk/vits/p317	; KR
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch -80 gain -n rate 22050"
     lines: [
         "I am Sir Simon."
         "Bye."
@@ -252,9 +252,9 @@ context [
 ]
 context [
     name: "paw15-Smith"
-    voice: 'tts_models/en/vctk/vits/p258
+    voice: 'tts_models/en/vctk/vits/p258	; KR
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 200 gain -n rate 22050"
     lines: [
         "I am Smith."
         "Bye."

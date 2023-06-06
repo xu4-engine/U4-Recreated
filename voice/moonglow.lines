@@ -51,9 +51,9 @@ context [
 ]
 context [
     name: "moo03-Rebelias"
-    voice: 'tts_models/en/vctk/vits/p256
+    voice: 'tts_models/en/vctk/vits/p256	; KR
     pitch: 0
-    pre-encode: none
+    pre-encode: "gain -n rate 22050"
     lines: [
         "I am Rebelias."
         "Bye."
@@ -170,9 +170,9 @@ context [
 ]
 context [
     name: "moo10-Daranor"
-    voice: 'tts_models/en/vctk/vits/p340
+    voice: 'tts_models/en/vctk/vits/p340	; KR
     pitch: 0
-    pre-encode: none
+    pre-encode: "pitch 110 tempo -s 1.1 treble 10 gain -n rate 22050"
     lines: [
         "I am Daranor."
         "Bye."
