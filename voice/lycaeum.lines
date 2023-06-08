@@ -1,7 +1,6 @@
 context [
     name: "lyc00-Robert_Frasier"
     voice: 'tts_models/en/vctk/vits/p264
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Robert Frasier."
@@ -18,7 +17,6 @@ context [
 context [
     name: "lyc01-Beth_Frasier"
     voice: 'tts_models/en/vctk/vits/p305
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Beth Frasier."
@@ -35,7 +33,6 @@ context [
 context [
     name: "lyc02-a_guard"
     voice: 'tts_models/en/vctk/vits/p262
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."
@@ -52,7 +49,6 @@ context [
 context [
     name: "lyc03-Palamar"
     voice: 'tts_models/en/vctk/vits/p231
-    pitch: 0
     pre-encode: "pitch -100 tremolo 40 30 tempo -s 0.9"
     lines: [
         "I am Palamar."
@@ -69,7 +65,6 @@ context [
 context [
     name: "lyc04-Father_Antos"
     voice: 'tts_models/en/vctk/vits/p279
-    pitch: 0
     pre-encode: "tremolo 40 40 tempo -s 0.9"
     lines: [
         "I am Father Antos."
@@ -86,7 +81,6 @@ context [
 context [
     name: "lyc05-Jon"
     voice: 'tts_models/en/vctk/vits/p262
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Jon."
@@ -103,7 +97,6 @@ context [
 context [
     name: "lyc06-Scatu"
     voice: 'tts_models/en/vctk/vits/p232
-    pitch: 0
     pre-encode: "tempo -s 1.1"
     lines: [
         "I am Scatu."
@@ -120,7 +113,6 @@ context [
 context [
     name: "lyc07-Estro"
     voice: 'tts_models/en/vctk/vits/p226
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Estro."
@@ -137,7 +129,6 @@ context [
 context [
     name: "lyc08-Tymus"
     voice: 'tts_models/en/vctk/vits/p231
-    pitch: 0
     pre-encode: "pitch -200"
     lines: [
         "I am Tymus."
@@ -154,7 +145,6 @@ context [
 context [
     name: "lyc09-a_truth_seeker."
     voice: 'tts_models/en/vctk/vits/p234
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a truth seeker.."
@@ -168,7 +158,6 @@ context [
 context [
     name: "lyc10-a_fighter"
     voice: 'tts_models/en/vctk/vits/p265
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a fighter."
@@ -185,7 +174,6 @@ context [
 context [
     name: "lyc11-Lord_Terence"
     voice: 'tts_models/en/vctk/vits/p318
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Lord Terence."
@@ -202,7 +190,6 @@ context [
 context [
     name: "lyc12-Zajac"
     voice: 'tts_models/en/vctk/vits/p285
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Zajac."
@@ -219,7 +206,6 @@ context [
 context [
     name: "lyc13-Catriona"
     voice: 'tts_models/en/vctk/vits/p274
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Catriona."
@@ -236,7 +222,6 @@ context [
 context [
     name: "lyc14-Nigel,_at_thy_service."
     voice: 'tts_models/en/vctk/vits/p231
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Nigel, at thy service.."
@@ -253,7 +238,6 @@ context [
 context [
     name: "lyc15-Shylock_the_Meek"
     voice: 'tts_models/en/vctk/vits/p236
-    pitch: 0
     pre-encode: "pitch 80 tempo -s 0.9"
     lines: [
         "I am Shylock the Meek."

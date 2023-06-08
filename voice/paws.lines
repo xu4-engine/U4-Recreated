@@ -1,7 +1,6 @@
 context [
     name: "paw00-Wilmoore"
     voice: 'tts_models/en/vctk/vits/p292
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Wilmoore."
@@ -18,7 +17,6 @@ context [
 context [
     name: "paw01-Francesca"
     voice: 'tts_models/en/vctk/vits/p300
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Francesca."
@@ -35,7 +33,6 @@ context [
 context [
     name: "paw02-Sven"
     voice: 'tts_models/en/vctk/vits/p374
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Sven."
@@ -52,7 +49,6 @@ context [
 context [
     name: "paw03-Zair_the_Wise"
     voice: 'tts_models/en/vctk/vits/p317
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 1.2"
     lines: [
         "I am Zair the Wise."
@@ -69,7 +65,6 @@ context [
 context [
     name: "paw04-Sal"
     voice: 'tts_models/en/vctk/vits/p277
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Sal."
@@ -86,7 +81,6 @@ context [
 context [
     name: "paw05-Jingles"
     voice: 'tts_models/en/vctk/vits/p231
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Jingles."
@@ -103,7 +97,6 @@ context [
 context [
     name: "paw06-Sir_Hobie"
     voice: 'tts_models/en/vctk/vits/p255
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Sir Hobie."
@@ -120,7 +113,6 @@ context [
 context [
     name: "paw07-Damsel"
     voice: 'tts_models/en/vctk/vits/p284
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Damsel."
@@ -137,7 +129,6 @@ context [
 context [
     name: "paw08-Wheatpin"
     voice: 'tts_models/en/vctk/vits/p282
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Wheatpin."
@@ -153,7 +144,6 @@ context [
 context [
     name: "paw09-Barren"
     voice: 'tts_models/en/vctk/vits/p255
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Barren."
@@ -170,7 +160,6 @@ context [
 context [
     name: "paw10-Pix"
     voice: 'tts_models/en/vctk/vits/p308
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Pix."
@@ -185,7 +174,6 @@ context [
 context [
     name: "paw11-Sir_Simon"
     voice: 'tts_models/en/vctk/vits/p317	; KR
-    pitch: 0
     pre-encode: "pitch -80 gain -n rate 22050"
     lines: [
         "I am Sir Simon."
@@ -202,7 +190,6 @@ context [
 context [
     name: "paw12-Lady_Tessa"
     voice: 'tts_models/en/vctk/vits/p244
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Lady Tessa."
@@ -219,7 +206,6 @@ context [
 context [
     name: "paw13-Asemly"
     voice: 'tts_models/en/vctk/vits/p312
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Asemly."
@@ -236,7 +222,6 @@ context [
 context [
     name: "paw14-Little_Jon"
     voice: 'tts_models/en/vctk/vits/p238
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Little Jon."
@@ -253,7 +238,6 @@ context [
 context [
     name: "paw15-Smith"
     voice: 'tts_models/en/vctk/vits/p258	; KR
-    pitch: 0
     pre-encode: "pitch 200 gain -n rate 22050"
     lines: [
         "I am Smith."

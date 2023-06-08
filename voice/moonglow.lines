@@ -1,7 +1,6 @@
 context [
     name: "moo00-Mariah"
     voice: 'tts_models/en/vctk/vits/p274
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Mariah."
@@ -18,7 +17,6 @@ context [
 context [
     name: "moo01-Tracie"
     voice: 'tts_models/en/vctk/vits/p362
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Tracie."
@@ -35,7 +33,6 @@ context [
 context [
     name: "moo02-Cromwell"
     voice: 'tts_models/en/vctk/vits/p272
-    pitch: 0
     pre-encode: "tempo -s 1.2"
     lines: [
         "I am Cromwell."
@@ -52,7 +49,6 @@ context [
 context [
     name: "moo03-Rebelias"
     voice: 'tts_models/en/vctk/vits/p256	; KR
-    pitch: 0
     pre-encode: "gain -n rate 22050"
     lines: [
         "I am Rebelias."
@@ -69,7 +65,6 @@ context [
 context [
     name: "moo04-Christen"
     voice: 'tts_models/en/vctk/vits/p274
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Christen."
@@ -86,7 +81,6 @@ context [
 context [
     name: "moo05-Patric_the_Humble_Shepherd"
     voice: 'tts_models/en/vctk/vits/p285
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Patric the Humble Shepherd."
@@ -103,7 +97,6 @@ context [
 context [
     name: "moo06-Shazom"
     voice: 'tts_models/en/vctk/vits/p236
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Shazom."
@@ -120,7 +113,6 @@ context [
 context [
     name: "moo07-Shakespeare"
     voice: 'tts_models/en/vctk/vits/p238
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Shakespeare."
@@ -137,7 +129,6 @@ context [
 context [
     name: "moo08-Browning"
     voice: 'tts_models/en/vctk/vits/p330
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Browning."
@@ -154,7 +145,6 @@ context [
 context [
     name: "moo09-Cosima"
     voice: 'tts_models/en/vctk/vits/p270
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Cosima."
@@ -171,7 +161,6 @@ context [
 context [
     name: "moo10-Daranor"
     voice: 'tts_models/en/vctk/vits/p340	; KR
-    pitch: 0
     pre-encode: "pitch 110 tempo -s 1.1 treble 10 gain -n rate 22050"
     lines: [
         "I am Daranor."
@@ -188,7 +177,6 @@ context [
 context [
     name: "moo11-Inoo"
     voice: 'tts_models/en/vctk/vits/p257
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Inoo."
@@ -205,7 +193,6 @@ context [
 context [
     name: "moo12-Calabrini"
     voice: 'tts_models/en/vctk/vits/p234
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Calabrini."
@@ -222,7 +209,6 @@ context [
 context [
     name: "moo13-Dekker"
     voice: 'tts_models/en/vctk/vits/p265
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Dekker."
@@ -239,7 +225,6 @@ context [
 context [
     name: "moo14-William"
     voice: 'tts_models/en/vctk/vits/p256
-    pitch: 0
     pre-encode: none
     lines: [
         "I am William."
@@ -256,7 +241,6 @@ context [
 context [
     name: "moo15-Tyrone"
     voice: 'tts_models/en/vctk/vits/p302
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Tyrone."

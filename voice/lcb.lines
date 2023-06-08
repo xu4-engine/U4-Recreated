@@ -1,7 +1,6 @@
 context [
     name: "lcb00-Joshua"
     voice: 'tts_models/en/vctk/vits/p251	; 'northern_english_male
-    pitch: 0
     pre-encode: none
     lines: [
         none ; "I am Joshua."
@@ -18,7 +17,6 @@ context [
 context [
     name: "lcb01-Juliet"
     voice: 'tts_models/en/vctk/vits/p294
-    pitch: 0
     pre-encode: "reverb 30 50 85 100 20 -5"
     lines: [
         "I am Juliet."
@@ -35,8 +33,7 @@ context [
 context [
     name: "lcb02-Jester_Twin"
     voice: 'tts_models/en/vctk/vits/p232
-    pitch: 150
-    pre-encode: "tempo -s 1.1 reverb 30 50 85 100 20 -5"
+    pre-encode: "pitch 150 tempo -s 1.1 reverb 30 50 85 100 20 -5"
     lines: [
         "I am Jester Twin."
         "Bye."
@@ -52,7 +49,6 @@ context [
 context [
     name: "lcb03-a_guard"
     voice: 'tts_models/en/vctk/vits/p238
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."
@@ -69,7 +65,6 @@ context [
 context [
     name: "lcb04-Le_Chef"
     voice: 'tts_models/en/vctk/vits/p241
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Le Chef."
@@ -86,8 +81,7 @@ context [
 context [
     name: "lcb05-a_reaper"
     voice: 'tts_models/en/vctk/vits/p340
-    pitch: -250
-    pre-encode: "pitch -200 echo 0.8 0.88 30 0.4"
+    pre-encode: "pitch -450 echo 0.8 0.88 30 0.4"
     lines: [
         "I am a reaper."
         "Bye."
@@ -103,7 +97,6 @@ context [
 context [
     name: "lcb06-a_nameless_prisoner"
     voice: 'tts_models/en/vctk/vits/p272
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a prisoner." 	; "I am a nameless prisoner."
@@ -120,7 +113,6 @@ context [
 context [
     name: "lcb07-Zorin"
     voice: 'tts_models/en/vctk/vits/p299
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Zorin."
@@ -137,7 +129,6 @@ context [
 context [
     name: "lcb08-a_guard"
     voice: 'tts_models/en/vctk/vits/p301
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."
@@ -154,7 +145,6 @@ context [
 context [
     name: "lcb09-Water"
     voice: 'tts_models/en/vctk/vits/p284
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Water."
@@ -171,7 +161,6 @@ context [
 context [
     name: "lcb10-Shawn"
     voice: 'tts_models/en/vctk/vits/p323
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Shawn."
@@ -188,7 +177,6 @@ context [
 context [
     name: "lcb11-Seesha"
     voice: 'tts_models/en/vctk/vits/p363
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Seesha."
@@ -205,7 +193,6 @@ context [
 context [
     name: "lcb12-Chuckles"
     voice: 'tts_models/en/vctk/vits/p326
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 1.1"
     lines: [
         "I am Chuckles."
@@ -222,7 +209,6 @@ context [
 context [
     name: "lcb13-a_guard"
     voice: 'tts_models/en/vctk/vits/p228
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."
@@ -239,7 +225,6 @@ context [
 context [
     name: "lcb14-Sheila"
     voice: 'tts_models/en/vctk/vits/p300
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Sheila."
@@ -256,7 +241,6 @@ context [
 context [
     name: "lcb15-Landri"
     voice: 'tts_models/en/vctk/vits/p272
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Landri."

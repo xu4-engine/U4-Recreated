@@ -1,6 +1,5 @@
 name: 'lordbritish
 voice: 'northern_english_male
-pitch: 0
 pre-encode: "reverb 50 50 85 100 20 -5"
 lines: [
 	"My name is Lord British, Sovereign of all Britannia!"

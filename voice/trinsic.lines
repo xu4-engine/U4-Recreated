@@ -1,7 +1,6 @@
 context [
     name: "tri00-Dupre"
     voice: 'tts_models/en/vctk/vits/p287
-    pitch: 0
     pre-encode: "pitch 20"
     lines: [
         "I am Dupré."	; accent
@@ -18,7 +17,6 @@ context [
 context [
     name: "tri01-Virgil"
     voice: 'tts_models/en/vctk/vits/p292
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Virgil."
@@ -35,7 +33,6 @@ context [
 context [
     name: "tri02-Publius"
     voice: 'tts_models/en/vctk/vits/p299
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Publius."
@@ -52,7 +49,6 @@ context [
 context [
     name: "tri03-Skitle"
     voice: 'tts_models/en/vctk/vits/p257
-    pitch: 0
     pre-encode: "tremolo 16 70 pitch -220 gain -8 equalizer 7k 2k 45" 'skeleton
     lines: [
         "I am Skitle."
@@ -69,7 +65,6 @@ context [
 context [
     name: "tri04-Sailor_Sam"
     voice: 'tts_models/en/vctk/vits/p318
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Sailor Sam."
@@ -86,7 +81,6 @@ context [
 context [
     name: "tri05-Aristotle"
     voice: 'tts_models/en/vctk/vits/p292
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Aristotle."
@@ -103,7 +97,6 @@ context [
 context [
     name: "tri06-Terrin"
     voice: 'tts_models/en/vctk/vits/p318
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Terrin."
@@ -120,7 +113,6 @@ context [
 context [
     name: "tri07-Rigmore"
     voice: 'tts_models/en/vctk/vits/p264
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Rigmore."
@@ -137,7 +129,6 @@ context [
 context [
     name: "tri08-Winthrop"
     voice: 'tts_models/en/vctk/vits/p266
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Winthrop."
@@ -154,7 +145,6 @@ context [
 context [
     name: "tri09-Swindrik"
     voice: 'tts_models/en/vctk/vits/p266
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Swindrik."
@@ -171,7 +161,6 @@ context [
 context [
     name: "tri10-Kline"
     voice: 'tts_models/en/vctk/vits/p262
-    pitch: 0
     pre-encode: "pitch 120"
     lines: [
         "I am Kline."
@@ -188,7 +177,6 @@ context [
 context [
     name: "tri11-Lexington"
     voice: 'tts_models/en/vctk/vits/p238
-    pitch: 0
     pre-encode: "pitch -180"
     lines: [
         "I am Lexington."
@@ -205,7 +193,6 @@ context [
 context [
     name: "tri12-Dergin"
     voice: 'tts_models/en/vctk/vits/p269
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Dergin."
@@ -222,7 +209,6 @@ context [
 context [
     name: "tri13-a_guard"
     voice: 'tts_models/en/vctk/vits/p262
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."
@@ -239,7 +225,6 @@ context [
 context [
     name: "tri14-Quix"
     voice: 'tts_models/en/vctk/vits/p227
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Quix."
@@ -256,7 +241,6 @@ context [
 context [
     name: "tri15-a_guard"
     voice: 'tts_models/en/vctk/vits/p284
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."

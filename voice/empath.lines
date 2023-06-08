@@ -1,7 +1,6 @@
 context [
     name: "emp00-Lord_Robert"
     voice: 'tts_models/en/vctk/vits/p266
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Lord Robert."
@@ -18,7 +17,6 @@ context [
 context [
     name: "emp01-Lady_Marcy"
     voice: 'tts_models/en/vctk/vits/p347
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Lady Marcy."
@@ -35,7 +33,6 @@ context [
 context [
     name: "emp02-Suzanna"
     voice: 'tts_models/en/vctk/vits/p293
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Suzanna."
@@ -52,7 +49,6 @@ context [
 context [
     name: "emp03-Life."
     voice: 'tts_models/en/vctk/vits/p271
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Life.."
@@ -69,7 +65,6 @@ context [
 context [
     name: "emp04-the_pass_guard"
     voice: 'tts_models/en/vctk/vits/p305
-    pitch: 0
     pre-encode: "pitch -150"
     lines: [
         "I am the pass guard."
@@ -86,7 +81,6 @@ context [
 context [
     name: "emp05-a_gate_guard"
     voice: 'tts_models/en/vctk/vits/p255
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a gate guard."
@@ -103,7 +97,6 @@ context [
 context [
     name: "emp06-Derek_the_Bard"
     voice: 'tts_models/en/vctk/vits/p231
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Derek the Bard."
@@ -120,7 +113,6 @@ context [
 context [
     name: "emp07-Chinup"
     voice: 'tts_models/en/vctk/vits/p252
-    pitch: 0
     pre-encode: "pitch 250"
     lines: [
         "I am Chinup."
@@ -137,7 +129,6 @@ context [
 context [
     name: "emp08-Diane"
     voice: 'tts_models/en/vctk/vits/p284
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Diane."
@@ -154,7 +145,6 @@ context [
 context [
     name: "emp09-Benjamin"
     voice: 'tts_models/en/vctk/vits/p376
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Benjamin."
@@ -171,7 +161,6 @@ context [
 context [
     name: "emp10-Deirdre"
     voice: 'tts_models/en/vctk/vits/p257
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Deirdre."
@@ -188,7 +177,6 @@ context [
 context [
     name: "emp11-Thomas"
     voice: 'tts_models/en/vctk/vits/p262
-    pitch: 0
     pre-encode: "pitch 200"
     lines: [
         "I am Thomas."
@@ -205,7 +193,6 @@ context [
 context [
     name: "emp12-Lastro"
     voice: 'tts_models/en/vctk/vits/p298
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Lastro."
@@ -222,7 +209,6 @@ context [
 context [
     name: "emp13-Humlock"
     voice: 'tts_models/en/vctk/vits/p262
-    pitch: 0
     pre-encode: "tempo -s 1.1"
     lines: [
         "I am Humlock."
@@ -239,7 +225,6 @@ context [
 context [
     name: "emp14-Malchor"
     voice: 'tts_models/en/vctk/vits/p286
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Malcor."	; Malchor
@@ -256,7 +241,6 @@ context [
 context [
     name: "emp15-Brother_Antos"
     voice: 'tts_models/en/vctk/vits/p326
-    pitch: 0
     pre-encode: "pitch -50 tremolo 40 40 tempo -s 0.9"
     lines: [
         "I am Brother Antos."

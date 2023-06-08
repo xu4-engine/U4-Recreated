@@ -1,7 +1,6 @@
 context [
     name: "ska00-Shamino"
     voice: 'tts_models/en/vctk/vits/p326
-    pitch: 0
     pre-encode: "pitch 80"
     lines: [
         "I am Shamino."
@@ -18,7 +17,6 @@ context [
 context [
     name: "ska01-Emerson"
     voice: 'tts_models/en/vctk/vits/p286
-    pitch: 0
     pre-encode: "pitch -140"
     lines: [
         "I am Emerson."
@@ -35,7 +33,6 @@ context [
 context [
     name: "ska02-Santayana"
     voice: 'tts_models/en/vctk/vits/p286
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Santayana."
@@ -52,7 +49,6 @@ context [
 context [
     name: "ska03-Presto"
     voice: 'tts_models/en/vctk/vits/p307
-    pitch: 0
     pre-encode: "pitch 200"
     lines: [
         "I am Presto."
@@ -69,7 +65,6 @@ context [
 context [
     name: "ska04-Granted"
     voice: 'tts_models/en/vctk/vits/p329
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Granted."
@@ -86,7 +81,6 @@ context [
 context [
     name: "ska05-Mitre"
     voice: 'tts_models/en/vctk/vits/p257
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Mitre."
@@ -103,7 +97,6 @@ context [
 context [
     name: "ska06-Buddha"
     voice: 'tts_models/en/vctk/vits/p301
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Buddha."
@@ -117,7 +110,6 @@ context [
 context [
     name: "ska07-Michaelangelo"
     voice: 'tts_models/en/vctk/vits/p256
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Michaelangelo."
@@ -134,7 +126,6 @@ context [
 context [
     name: "ska08-Romasco"
     voice: 'tts_models/en/vctk/vits/p281
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Romasco."
@@ -151,7 +142,6 @@ context [
 context [
     name: "ska09-Carlyle"
     voice: 'tts_models/en/vctk/vits/p298
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Carlyle."
@@ -168,7 +158,6 @@ context [
 context [
     name: "ska10-Dickens"
     voice: 'tts_models/en/vctk/vits/p241
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Dickens."
@@ -185,7 +174,6 @@ context [
 context [
     name: "ska11-White"
     voice: 'tts_models/en/vctk/vits/p266
-    pitch: 0
     pre-encode: none
     lines: [
         "I am White."
@@ -202,7 +190,6 @@ context [
 context [
     name: "ska12-the_Ankh_of_Spirituality"
     voice: 'tts_models/en/vctk/vits/p280
-    pitch: 0
     pre-encode: "pitch -200 chorus 0.7 0.9 55 0.4 0.25 2 -t"
     lines: [
         "I am the Ankh of Spirituality."
@@ -219,7 +206,6 @@ context [
 context [
     name: "ska13-Ambule"
     voice: 'tts_models/en/vctk/vits/p303
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Ambule."
@@ -236,7 +222,6 @@ context [
 context [
     name: "ska14-Barren"
     voice: 'tts_models/en/vctk/vits/p292
-    pitch: 0
     pre-encode: "pitch 220"
     lines: [
         "I am Barren."
@@ -249,7 +234,6 @@ context [
 context [
     name: "ska15-Isaac"
     voice: 'tts_models/en/vctk/vits/p302
-    pitch: 0
     pre-encode: 'ghost
     lines: [
         "I am Isaac."

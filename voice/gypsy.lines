@@ -1,6 +1,5 @@
 name: 'gypsy
 voice: 'ek	;'harvard
-pitch: 0	;-150
 lines: [
     "You may approach, O seekur."	; seekur:seeker (gain -10 treble +20)
     "We have been waiting such a long time, but at last you have come.  Sit here and I shall read the path of your future."

@@ -1,7 +1,6 @@
 context [
     name: "ves00-Twin_Gates"
     voice: 'tts_models/en/vctk/vits/p238
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Twin Gates."
@@ -18,7 +17,6 @@ context [
 context [
     name: "ves01-Guard"
     voice: 'tts_models/en/vctk/vits/p255
-    pitch: 0
     pre-encode: "pitch -220 tempo -s 1.1"
     lines: [
         "I am Guard."
@@ -35,7 +33,6 @@ context [
 context [
     name: "ves02-Servile"
     voice: 'tts_models/en/vctk/vits/p239
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Servile."
@@ -52,7 +49,6 @@ context [
 context [
     name: "ves03-Traveling_Dan"
     voice: 'tts_models/en/vctk/vits/p234
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Traveling Dan."
@@ -69,7 +65,6 @@ context [
 context [
     name: "ves04-Balthasar"
     voice: 'tts_models/en/vctk/vits/p269
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Balthasar."
@@ -86,7 +81,6 @@ context [
 context [
     name: "ves05-Plain"
     voice: 'tts_models/en/vctk/vits/p264
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Plain."
@@ -100,7 +94,6 @@ context [
 context [
     name: "ves06-Simple"
     voice: 'tts_models/en/vctk/vits/p283
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Simple."
@@ -117,7 +110,6 @@ context [
 context [
     name: "ves07-Gem"
     voice: 'tts_models/en/vctk/vits/p293
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Gem."
@@ -134,7 +126,6 @@ context [
 context [
     name: "ves08-Joseph"
     voice: 'tts_models/en/vctk/vits/p318
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Joseph."
@@ -151,7 +142,6 @@ context [
 context [
     name: "ves09-Friday"
     voice: 'tts_models/en/vctk/vits/p311
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Friday."
@@ -168,7 +158,6 @@ context [
 context [
     name: "ves10-Randal"
     voice: 'tts_models/en/vctk/vits/p234
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Randal."
@@ -184,7 +173,6 @@ context [
 context [
     name: "ves11-Dirgen"
     voice: 'tts_models/en/vctk/vits/p232
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Dirgen."
@@ -201,7 +189,6 @@ context [
 context [
     name: "ves12-Shazbot"
     voice: 'tts_models/en/vctk/vits/p343
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Shazbot."
@@ -218,7 +205,6 @@ context [
 context [
     name: "ves13-Flatbush"
     voice: 'tts_models/en/vctk/vits/p229
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Flatbush."
@@ -235,7 +221,6 @@ context [
 context [
     name: "ves14-Corkrin"
     voice: 'tts_models/en/vctk/vits/p239
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Corkrin."
@@ -251,7 +236,6 @@ context [
 context [
     name: "ves15-Dyka"
     voice: 'tts_models/en/vctk/vits/p238
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Dyka."

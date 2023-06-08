@@ -1,7 +1,6 @@
 context [
     name: "min00-Julia"
     voice: 'tts_models/en/vctk/vits/p240
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Julia."
@@ -18,7 +17,6 @@ context [
 context [
     name: "min01-Zircon"
     voice: 'tts_models/en/vctk/vits/p301
-    pitch: 0
     pre-encode: "pitch -100"
     lines: [
         "I am Zircon."
@@ -35,7 +33,6 @@ context [
 context [
     name: "min02-Bob_the_Beggar"
     voice: 'tts_models/en/vctk/vits/p318
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 0.9"
     lines: [
         "I am Bob the Beggar."
@@ -52,7 +49,6 @@ context [
 context [
     name: "min03-Linda_Sue"
     voice: 'tts_models/en/vctk/vits/p261
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Linda Sue."
@@ -69,7 +65,6 @@ context [
 context [
     name: "min04-Gimble"
     voice: 'tts_models/en/vctk/vits/p298
-    pitch: 0
     pre-encode: "tempo -s 0.8 tremolo 50 40"
     lines: [
         "I am Gimble."
@@ -86,7 +81,6 @@ context [
 context [
     name: "min05-Jude"
     voice: 'tts_models/en/vctk/vits/p279
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Jude."
@@ -103,7 +97,6 @@ context [
 context [
     name: "min06-Alkerion"
     voice: 'tts_models/en/vctk/vits/p228
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Alkerion."
@@ -120,7 +113,6 @@ context [
 context [
     name: "min07-Mike_Ward"
     voice: 'tts_models/en/vctk/vits/p318
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Mike Ward."
@@ -137,7 +129,6 @@ context [
 context [
     name: "min08-Alex"
     voice: 'tts_models/en/vctk/vits/p253
-    pitch: 0
     pre-encode: "tempo -s 1.1"
     lines: [
         "I am Alex."
@@ -154,7 +145,6 @@ context [
 context [
     name: "min09-Shentis"
     voice: 'tts_models/en/vctk/vits/p374
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Shentis."
@@ -171,7 +161,6 @@ context [
 context [
     name: "min10-Singsong"
     voice: 'tts_models/en/vctk/vits/p304
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Singsong."
@@ -188,7 +177,6 @@ context [
 context [
     name: "min11-Damon"
     voice: 'tts_models/en/vctk/vits/p264
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Damon."
@@ -205,7 +193,6 @@ context [
 context [
     name: "min12-Mischief"
     voice: 'tts_models/en/vctk/vits/p333
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Mischief."
@@ -222,7 +209,6 @@ context [
 context [
     name: "min13-Azure"
     voice: 'tts_models/en/vctk/vits/p326
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Azure."
@@ -239,7 +225,6 @@ context [
 context [
     name: "min14-Merida"
     voice: 'tts_models/en/vctk/vits/p301
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Merida."
@@ -256,7 +241,6 @@ context [
 context [
     name: "min15-a_guard"
     voice: 'tts_models/en/vctk/vits/p313
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."

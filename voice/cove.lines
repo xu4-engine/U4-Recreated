@@ -1,7 +1,6 @@
 context [
     name: "cov00-Allen"
     voice: 'tts_models/en/vctk/vits/p374
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Allen."
@@ -18,7 +17,6 @@ context [
 context [
     name: "cov01-Frontis"
     voice: 'tts_models/en/vctk/vits/p252
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Frontis."
@@ -35,7 +33,6 @@ context [
 context [
     name: "cov02-Sloven"
     voice: 'tts_models/en/vctk/vits/p264
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Sloven."
@@ -52,7 +49,6 @@ context [
 context [
     name: "cov03-Mentorian"
     voice: 'tts_models/en/vctk/vits/p340
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Mentorian."
@@ -69,7 +65,6 @@ context [
 context [
     name: "cov04-the_ankh"
     voice: 'tts_models/en/vctk/vits/p335
-    pitch: 0
     pre-encode: "pitch -200 chorus 0.7 0.9 55 0.4 0.25 2 -t"
     lines: [
         "I am the ankh."
@@ -86,7 +81,6 @@ context [
 context [
     name: "cov05-Paul"
     voice: 'tts_models/en/vctk/vits/p317
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Paul."
@@ -103,7 +97,6 @@ context [
 context [
     name: "cov06-Linda"
     voice: 'tts_models/en/vctk/vits/p259
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Linda."
@@ -120,7 +113,6 @@ context [
 context [
     name: "cov07-Merlin"
     voice: 'tts_models/en/vctk/vits/p234
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Merlin."
@@ -137,7 +129,6 @@ context [
 context [
     name: "cov08-Draconian"
     voice: 'tts_models/en/vctk/vits/p318
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Draconian."
@@ -153,7 +144,6 @@ context [
 context [
     name: "cov09-Blissful"
     voice: 'tts_models/en/vctk/vits/p363
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Blissful."
@@ -167,7 +157,6 @@ context [
 context [
     name: "cov10-Rabindranath_tagore"
     voice: 'tts_models/en/vctk/vits/p287
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Rabindranath tagore."
@@ -184,7 +173,6 @@ context [
 context [
     name: "cov11-Brother_Zair"
     voice: 'tts_models/en/vctk/vits/p254
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Brother Zair."
@@ -201,7 +189,6 @@ context [
 context [
     name: "cov12-Spellbind"
     voice: 'tts_models/en/vctk/vits/p227
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Spellbind."
@@ -215,7 +202,6 @@ context [
 context [
     name: "cov13-Shaman"
     voice: 'tts_models/en/vctk/vits/p286
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Shaman."
@@ -229,7 +215,6 @@ context [
 context [
     name: "cov14-Charm"
     voice: 'tts_models/en/vctk/vits/p268
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Charm."
@@ -246,7 +231,6 @@ context [
 context [
     name: "cov15-Circe"
     voice: 'tts_models/en/vctk/vits/p307
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Circe."

@@ -1,7 +1,6 @@
 context [
     name: "vend20-Scatu"
     voice: 'tts_models/en/vctk/vits/p251
-    pitch: 0
     pre-encode: "pitch 100"
     lines: [
         "Welcome to The Honest Inn. I am Scatu. Are you in need of lodging?"
@@ -17,7 +16,6 @@ context [
 context [
     name: "vend21-Jason"
     voice: 'tts_models/en/vctk/vits/p252
-    pitch: 0
     pre-encode: "pitch -100"
     lines: [
         "Welcome to Britannia Manor. I am Jason. Are you in need of lodging?"
@@ -33,7 +31,6 @@ context [
 context [
     name: "vend22-Smirk"
     voice: 'tts_models/en/vctk/vits/p253
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 1.2"
     lines: [
         "Welcome to The Inn of Ends. I am Smirk. Are you in need of lodging?"
@@ -49,7 +46,6 @@ context [
 context [
     name: "vend23-Estro"
     voice: 'tts_models/en/vctk/vits/p254
-    pitch: 0
     pre-encode: "pitch 80 tempo -s 1.1"
     lines: [
         "Welcome to Wayfarer's Inn. I am Estro. Are you in need of lodging?"
@@ -65,7 +61,6 @@ context [
 context [
     name: "vend24-Zajac"
     voice: 'tts_models/en/vctk/vits/p255
-    pitch: 0
     pre-encode: "tempo -s 1.2"
     lines: [
         "Welcome to Honorable Inn. I am Zajac. Are you in need of lodging?"
@@ -81,7 +76,6 @@ context [
 context [
     name: "vend25-Tyrone"
     voice: 'tts_models/en/vctk/vits/p256
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 1.1"
     lines: [
         "Welcome to The Inn of the Spirits. I am Tyrone. Are you in need of lodging?"
@@ -97,7 +91,6 @@ context [
 context [
     name: "vend26-Tymus"
     voice: 'tts_models/en/vctk/vits/p258
-    pitch: 0
     pre-encode: "pitch -100"
     lines: [
         "Welcome to The Sleep Shop. I am Tymus. Are you in need of lodging?"
@@ -114,7 +107,6 @@ context [
 context [
     name: "vend27-Leary"
     voice: 'tts_models/en/vctk/vits/p262
-    pitch: 0
     pre-encode: "pitch -80 tempo -s 1.1"
     lines: [
         {{
@@ -131,7 +123,6 @@ context [
 context [
     name: "vend28-Willey"
     voice: 'tts_models/en/vctk/vits/p264
-    pitch: 0
     pre-encode: "pitch -100 tempo -s 0.9"
     lines: [
         {{
@@ -148,7 +139,6 @@ context [
 context [
     name: "vend29-stable"
     voice: 'tts_models/en/vctk/vits/p265
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 1.2"
     lines: [
         "Welcome friend! Can I interest thee in horses?"
@@ -174,70 +164,60 @@ context [
 context [
     name: "vend30-Pendragon"
     voice: 'tts_models/en/vctk/vits/p266
-    pitch: 0
     pre-encode: none
     lines: healer-lines
 ]
 context [
     name: "vend31-Harmony"
     voice: 'tts_models/en/vctk/vits/p304
-    pitch: 0
     pre-encode: none
     lines: healer-lines
 ]
 context [
     name: "vend32-Celest"
     voice: 'tts_models/en/vctk/vits/p305
-    pitch: 0
     pre-encode: "pitch -160"
     lines: healer-lines
 ]
 context [
     name: "vend33-Triplet"
     voice: 'tts_models/en/vctk/vits/p267
-    pitch: 0
     pre-encode: "pitch 100"
     lines: healer-lines
 ]
 context [
     name: "vend34-Justin"
     voice: 'tts_models/en/vctk/vits/p269
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 1.1"
     lines: healer-lines
 ]
 context [
     name: "vend35-Spiran"
     voice: 'tts_models/en/vctk/vits/p272
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 1.1"
     lines: healer-lines
 ]
 context [
     name: "vend36-Starfire"
     voice: 'tts_models/en/vctk/vits/p306
-    pitch: 0
     pre-encode: none
     lines: healer-lines
 ]
 context [
     name: "vend37-Salle"
     voice: 'tts_models/en/vctk/vits/p279
-    pitch: 0
     pre-encode: none
     lines: healer-lines
 ]
 context [
     name: "vend38-Windwalker"
     voice: 'tts_models/en/vctk/vits/p281
-    pitch: 0
     pre-encode: "pitch -120"
     lines: healer-lines
 ]
 context [
     name: "vend39-Quat"
     voice: 'tts_models/en/vctk/vits/p282
-    pitch: 0
     pre-encode: "pitch -120"
     lines: healer-lines
 ]
@@ -245,7 +225,6 @@ context [
 context [
     name: "vend40-Sam"
     voice: 'tts_models/en/vctk/vits/p313    ;p285
-    pitch: 0
     pre-encode: "pitch -120"
     lines: [
         "Welcome to Jolly Spirits. What'll it be, Food er Ale?"
@@ -271,7 +250,6 @@ context [
 context [
     name: "vend41-Celestial"
     voice: 'tts_models/en/vctk/vits/p286
-    pitch: 0
     pre-encode: none
     lines: [
         "Welcome to The Bloody Pub. What'll it be, Food er Ale?"
@@ -296,7 +274,6 @@ context [
 context [
     name: "vend42-Terran"
     voice: 'tts_models/en/vctk/vits/p287
-    pitch: 0
     pre-encode: none
     lines: [
         "Welcome to The Keg Tap. What'll it be, Food er Ale?"
@@ -320,7 +297,6 @@ context [
 context [
     name: "vend43-Greg"
     voice: 'tts_models/en/vctk/vits/p292
-    pitch: 0
     pre-encode: none
     lines: [
         "Welcome to Folley Tavern. What'll it be, Food er Ale?"
@@ -343,7 +319,6 @@ context [
 context [
     name: "vend44-TheCapn"
     voice: 'tts_models/en/vctk/vits/p298
-    pitch: 0
     pre-encode: "pitch -160"
     lines: [
         "Welcome to Captain Black Tavern. What'll it be, Food er Ale?"
@@ -365,7 +340,6 @@ context [
 context [
     name: "vend45-Arron"
     voice: 'tts_models/en/vctk/vits/p299
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 1.1"
     lines: [
         "Welcome to Axe 'n Ale. What'll it be, Food er Ale?"

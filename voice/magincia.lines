@@ -1,7 +1,6 @@
 context [
     name: "mag00-Katrina"
     voice: 'tts_models/en/vctk/vits/p300
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Katrina."
@@ -18,7 +17,6 @@ context [
 context [
     name: "mag01-Ghostly"
     voice: 'tts_models/en/vctk/vits/p273
-    pitch: 0
     pre-encode: 'ghost
     lines: [
         "I am Ghostly."
@@ -32,7 +30,6 @@ context [
 context [
     name: "mag02-Skullface"
     voice: 'tts_models/en/vctk/vits/p340
-    pitch: 0
     pre-encode: 'skeleton
     lines: [
         "I am Skullface."
@@ -48,7 +45,6 @@ context [
 context [
     name: "mag03-Casperin"
     voice: 'tts_models/en/vctk/vits/p237
-    pitch: 0
     pre-encode: 'ghost
     lines: [
         "I am Casperin."
@@ -65,7 +61,6 @@ context [
 context [
     name: "mag04-Faultless"
     voice: 'tts_models/en/vctk/vits/p311
-    pitch: 0
     pre-encode: 'ghost
     lines: [
         "I am Faultless."
@@ -82,7 +77,6 @@ context [
 context [
     name: "mag05-Heywood"
     voice: 'tts_models/en/vctk/vits/p272
-    pitch: 0
     pre-encode: 'ghost
     lines: [
         "I am Heywood."
@@ -99,7 +93,6 @@ context [
 context [
     name: "mag06-Slim"
     voice: 'tts_models/en/vctk/vits/p226
-    pitch: 0
     pre-encode: "pitch 100 tremolo 16 70"	; 'skeleton
     lines: [
         "I am Slim."
@@ -116,7 +109,6 @@ context [
 context [
     name: "mag07-Banter"
     voice: 'tts_models/en/vctk/vits/p362
-    pitch: 0
     pre-encode: 'skeleton
     lines: [
         "I am Banter."
@@ -133,7 +125,6 @@ context [
 context [
     name: "mag08-Demitry"
     voice: 'tts_models/en/vctk/vits/p267
-    pitch: 0
     pre-encode: 'skeleton
     lines: [
         "I am Demitry."
@@ -150,7 +141,6 @@ context [
 context [
     name: "mag09-Wierdrum"
     voice: 'tts_models/en/vctk/vits/p311
-    pitch: 0
     pre-encode: 'skeleton
     lines: [
         "I am Wierdrum."
@@ -164,7 +154,6 @@ context [
 context [
     name: "mag10-Boozer"
     voice: 'tts_models/en/vctk/vits/p294
-    pitch: 0
     pre-encode: 'skeleton
     lines: [
         "I am Boozer."
@@ -181,7 +170,6 @@ context [
 context [
     name: "mag11-Bulbous"
     voice: 'tts_models/en/vctk/vits/p286
-    pitch: 0
     pre-encode: "pitch -150 tremolo 16 70"	; 'skeleton
     lines: [
         "I am Bulbous."
@@ -198,7 +186,6 @@ context [
 context [
     name: "mag12-Splot"
     voice: 'tts_models/en/vctk/vits/p270
-    pitch: 0
     pre-encode: "pitch -150 tremolo 16 70"	; 'skeleton
     lines: [
         "I am Splot."
@@ -215,7 +202,6 @@ context [
 context [
     name: "mag13-Ruskin"
     voice: 'tts_models/en/vctk/vits/p312
-    pitch: 0
     pre-encode: 'ghost
     lines: [
         "I am Ruskin."
@@ -232,7 +218,6 @@ context [
 context [
     name: "mag14-Nate"
     voice: 'tts_models/en/vctk/vits/p301
-    pitch: 0
     pre-encode: "stretch 1.2 equalizer 7k 2k 37 equalizer 300 800 -20 gain -2"
     lines: [
         "I am Nate."
@@ -246,7 +231,6 @@ context [
 context [
     name: "mag15-Virtuebane"
     voice: 'tts_models/en/vctk/vits/p230
-    pitch: 0
     pre-encode: "pitch -450 echo 0.8 0.88 30 0.4"
     lines: [
         "I am Virtue bane."		; "Virtuebane."

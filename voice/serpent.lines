@@ -1,7 +1,6 @@
 context [
     name: "ser00-Sentri"
     voice: 'tts_models/en/vctk/vits/p285
-    pitch: 0
     pre-encode: "pitch -200"
     lines: [
         "I am Sentri."
@@ -18,7 +17,6 @@ context [
 context [
     name: "ser01-the_gate_guard."
     voice: 'tts_models/en/vctk/vits/p286
-    pitch: 0
     pre-encode: none
     lines: [
         "I am the gate guard.."
@@ -35,7 +33,6 @@ context [
 context [
     name: "ser02-Lassorn"
     voice: 'tts_models/en/vctk/vits/p256
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Lassorn."
@@ -52,7 +49,6 @@ context [
 context [
     name: "ser03-Roark"
     voice: 'tts_models/en/vctk/vits/p233
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Roark."
@@ -69,7 +65,6 @@ context [
 context [
     name: "ser04-a_ranger."
     voice: 'tts_models/en/vctk/vits/p231
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a ranger.."
@@ -86,7 +81,6 @@ context [
 context [
     name: "ser05-Shyra"
     voice: 'tts_models/en/vctk/vits/p250
-    pitch: 0
     pre-encode: "pitch -150"
     lines: [
         "I am Shyra."
@@ -103,7 +97,6 @@ context [
 context [
     name: "ser06-a_baronial_guard"
     voice: 'tts_models/en/vctk/vits/p261
-    pitch: 0
     pre-encode: "pitch -100 tempo -s 1.1"
     lines: [
         "I am a baronial guard."
@@ -120,7 +113,6 @@ context [
 context [
     name: "ser07-a_treasure_guard"
     voice: 'tts_models/en/vctk/vits/p255
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a treasure guard."
@@ -137,7 +129,6 @@ context [
 context [
     name: "ser08-Garam"
     voice: 'tts_models/en/vctk/vits/p232
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Garam."
@@ -154,7 +145,6 @@ context [
 context [
     name: "ser09-Durham"
     voice: 'tts_models/en/vctk/vits/p272
-    pitch: 0
     pre-encode: "tempo -s 1.1"
     lines: [
         "I am Durham."
@@ -171,7 +161,6 @@ context [
 context [
     name: "ser10-Lori"
     voice: 'tts_models/en/vctk/vits/p248
-    pitch: 0
     pre-encode: "pitch -200"
     lines: [
         "I am Lori."
@@ -188,7 +177,6 @@ context [
 context [
     name: "ser11-Samuel"
     voice: 'tts_models/en/vctk/vits/p251
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Samuel."
@@ -205,7 +193,6 @@ context [
 context [
     name: "ser12-Roderick"
     voice: 'tts_models/en/vctk/vits/p376
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Roderick."
@@ -222,7 +209,6 @@ context [
 context [
     name: "ser13-Sister_Antos"
     voice: 'tts_models/en/vctk/vits/p243
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Sister Antos."
@@ -239,7 +225,6 @@ context [
 context [
     name: "ser14-Noxum"
     voice: 'tts_models/en/vctk/vits/p229
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Noxum."
@@ -256,7 +241,6 @@ context [
 context [
     name: "ser15-Michelle"
     voice: 'tts_models/en/vctk/vits/p304
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Michelle."

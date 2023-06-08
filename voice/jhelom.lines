@@ -1,7 +1,6 @@
 context [
     name: "jhe00-Geoffrey"
     voice: 'tts_models/en/vctk/vits/p265
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Geoffrey."
@@ -18,7 +17,6 @@ context [
 context [
     name: "jhe01-Lord_Robert"
     voice: 'tts_models/en/vctk/vits/p318
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Lord Robert."
@@ -35,7 +33,6 @@ context [
 context [
     name: "jhe02-Lady_Donna"
     voice: 'tts_models/en/vctk/vits/p300
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Lady Donna."
@@ -52,7 +49,6 @@ context [
 context [
     name: "jhe03-Bengrod"
     voice: 'tts_models/en/vctk/vits/p313
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Bengrod."
@@ -69,7 +65,6 @@ context [
 context [
     name: "jhe04-Sir_William"
     voice: 'tts_models/en/vctk/vits/p234
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Sir William."
@@ -86,7 +81,6 @@ context [
 context [
     name: "jhe05-Sir_Hrothgar"
     voice: 'tts_models/en/vctk/vits/p229
-    pitch: 0
     pre-encode: "pitch 100 tempo -s 1.2 bass 9"
     lines: [
         "I am Sir Hrothgar."
@@ -103,7 +97,6 @@ context [
 context [
     name: "jhe06-a_guard"
     voice: 'tts_models/en/vctk/vits/p298
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."
@@ -117,7 +110,6 @@ context [
 context [
     name: "jhe07-Aesop"
     voice: 'tts_models/en/vctk/vits/p228
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Aesop."
@@ -134,7 +126,6 @@ context [
 context [
     name: "jhe08-Gravnor"
     voice: 'tts_models/en/vctk/vits/p229
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Gravnor."
@@ -151,7 +142,6 @@ context [
 context [
     name: "jhe09-Senora"
     voice: 'tts_models/en/vctk/vits/p361
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Senora."
@@ -168,7 +158,6 @@ context [
 context [
     name: "jhe10-Nostro"
     voice: 'tts_models/en/vctk/vits/p376
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Nostro."
@@ -185,7 +174,6 @@ context [
 context [
     name: "jhe11-Luke"
     voice: 'tts_models/en/vctk/vits/p251
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Luke."
@@ -202,7 +190,6 @@ context [
 context [
     name: "jhe12-Max"
     voice: 'tts_models/en/vctk/vits/p232
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Max."
@@ -219,7 +206,6 @@ context [
 context [
     name: "jhe13-X"
     voice: 'tts_models/en/vctk/vits/p254
-    pitch: 0
     pre-encode: none
     lines: [
         "I am X."
@@ -236,7 +222,6 @@ context [
 context [
     name: "jhe14-Slithe"
     voice: 'tts_models/en/vctk/vits/p312
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Slithe."
@@ -253,7 +238,6 @@ context [
 context [
     name: "jhe15-Timrod"
     voice: 'tts_models/en/vctk/vits/p241
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Timrod."

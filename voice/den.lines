@@ -1,7 +1,6 @@
 context [
     name: "den00-Roofus"
     voice: 'tts_models/en/vctk/vits/p262
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Roofus."
@@ -17,7 +16,6 @@ context [
 context [
     name: "den01-Rankbreath"
     voice: 'tts_models/en/vctk/vits/p340
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Rankbreath."
@@ -34,7 +32,6 @@ context [
 context [
     name: "den02-Sailor"
     voice: 'tts_models/en/vctk/vits/p269
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Sailor."
@@ -51,7 +48,6 @@ context [
 context [
     name: "den03-Silver_John"
     voice: 'tts_models/en/vctk/vits/p313
-    pitch: 0
     pre-encode: "pitch -100 tempo -s 0.9"
     lines: [
         "I am Silver John."
@@ -68,7 +64,6 @@ context [
 context [
     name: "den04-Slysam"
     voice: 'tts_models/en/vctk/vits/p272
-    pitch: 0
     pre-encode: "tempo -s 1.2"
     lines: [
         "I am Slysam."
@@ -85,7 +80,6 @@ context [
 context [
     name: "den05-Ragnar"
     voice: 'tts_models/en/vctk/vits/p272
-    pitch: 0
     pre-encode: "pitch -150"
     lines: [
         "I am Ragnar."
@@ -102,7 +96,6 @@ context [
 context [
     name: "den06-Seanna"
     voice: 'tts_models/en/vctk/vits/p288
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Seanna."
@@ -119,7 +112,6 @@ context [
 context [
     name: "den07-Jeremy_James_Scirlock"
     voice: 'tts_models/en/vctk/vits/p281
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Jeremy James Scirlock."
@@ -136,7 +128,6 @@ context [
 context [
     name: "den08-Starlight"
     voice: 'tts_models/en/vctk/vits/p267
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Starlight."
@@ -153,7 +144,6 @@ context [
 context [
     name: "den09-Brigant"
     voice: 'tts_models/en/vctk/vits/p250
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Brigant."
@@ -169,7 +159,6 @@ context [
 context [
     name: "den10-Boris"
     voice: 'tts_models/en/vctk/vits/p279
-    pitch: 0
     pre-encode: "pitch -220"
     lines: [
         "I am Boris."
@@ -185,7 +174,6 @@ context [
 context [
     name: "den11-Ignap"
     voice: 'tts_models/en/vctk/vits/p239
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Ignap."
@@ -202,7 +190,6 @@ context [
 context [
     name: "den12-Green_Beard"
     voice: 'tts_models/en/vctk/vits/p272
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Green Beard."
@@ -219,7 +206,6 @@ context [
 context [
     name: "den13-Marsor"
     voice: 'tts_models/en/vctk/vits/p376
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Marsor."
@@ -236,7 +222,6 @@ context [
 context [
     name: "den14-Dancek"
     voice: 'tts_models/en/vctk/vits/p298
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Dancek."
@@ -253,7 +238,6 @@ context [
 context [
     name: "den15-Sniflet"
     voice: 'tts_models/en/vctk/vits/p281
-    pitch: 0
     pre-encode: "pitch 120"
     lines: [
         "I am Sniflet."

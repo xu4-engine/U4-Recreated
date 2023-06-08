@@ -1,7 +1,6 @@
 context [
     name: "yew00-Jaana"
     voice: 'tts_models/en/vctk/vits/p305
-    pitch: 0
     pre-encode: "pitch -200"
     lines: [
         "I am Jaana."
@@ -18,7 +17,6 @@ context [
 context [
     name: "yew01-a_guard"
     voice: 'tts_models/en/vctk/vits/p268
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."
@@ -35,7 +33,6 @@ context [
 context [
     name: "yew02-a_guard"
     voice: 'tts_models/en/vctk/vits/p253
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."
@@ -52,7 +49,6 @@ context [
 context [
     name: "yew03-Calumny"
     voice: 'tts_models/en/vctk/vits/p228
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Calumny."
@@ -69,7 +65,6 @@ context [
 context [
     name: "yew04-Talfourd"
     voice: 'tts_models/en/vctk/vits/p340
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Talfourd."
@@ -86,7 +81,6 @@ context [
 context [
     name: "yew05-Flamis"
     voice: 'tts_models/en/vctk/vits/p323
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Flamis."
@@ -103,7 +97,6 @@ context [
 context [
     name: "yew06-Silent"
     voice: 'tts_models/en/vctk/vits/p232
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Silent."
@@ -116,7 +109,6 @@ context [
 context [
     name: "yew07-Dwp"
     voice: 'tts_models/en/vctk/vits/p236
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Dewp."	; "Dwp."
@@ -133,7 +125,6 @@ context [
 context [
     name: "yew08-a_poor_beggar."
     voice: 'tts_models/en/vctk/vits/p313
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a poor beggar.."
@@ -150,7 +141,6 @@ context [
 context [
     name: "yew09-Vorpal"
     voice: 'tts_models/en/vctk/vits/p239
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Vorpal."
@@ -167,7 +157,6 @@ context [
 context [
     name: "yew10-a_ranger"
     voice: 'tts_models/en/vctk/vits/p310
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a ranger."
@@ -184,7 +173,6 @@ context [
 context [
     name: "yew11-Short_Round"
     voice: 'tts_models/en/vctk/vits/p234
-    pitch: 0
     pre-encode: "pitch 300"
     lines: [
         "I am Short Round."
@@ -201,7 +189,6 @@ context [
 context [
     name: "yew12-Frida"
     voice: 'tts_models/en/vctk/vits/p351
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Frida."
@@ -218,7 +205,6 @@ context [
 context [
     name: "yew13-Pinrod"
     voice: 'tts_models/en/vctk/vits/p256
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Pinrod."
@@ -235,7 +221,6 @@ context [
 context [
     name: "yew14-a_guard"
     voice: 'tts_models/en/vctk/vits/p258
-    pitch: 0
     pre-encode: none
     lines: [
         "I am a guard."
@@ -252,7 +237,6 @@ context [
 context [
     name: "yew15-Druid"
     voice: 'tts_models/en/vctk/vits/p250
-    pitch: 0
     pre-encode: none
     lines: [
         "I am Druid."
