@@ -172,16 +172,18 @@ graphics: [
     tree: "vutne/145-tree.png" [
         moongate  0,152, 20,24
         items    24,152, 20,24
+        gate_pos  84,53, 1,1
     ]
     portal:  "vutne/146-portal.png"
     outside: "vutne/147-outside.png"
     inside:  "vutne/148-inside.png"
     wagon:   "vutne/149-wagon.png"
     gypsy:   "vutne/14a-gypsy.png"
-    abacus:  "vutne/14b-abacus.png"
-    image (name: abacus-beads filename: "u4/abacus.ega" width: 320 height: 200 depth: 4 filetype: u4lzw fixup: abacus) [
-        whitebead  8,187, 8,12
-        blackbead 24,187, 8,12
+    abacus:  "abacus.png" [
+        whitebead  8,188, 9,10
+        blackbead 23,188, 9,10
+        bead_pos  121,25, 10,15
+        card_pos   17,16, 206,1
     ]
     cards1: "vutne/cards1.png" [
         honestycard         0,0, 80,112
