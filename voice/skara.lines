@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Shamino."
         "Bye."
+        "Keep it!"
+        "I am honored to join thee!"
         "I seek the inner light."
         "I am well."
         {I seek the one great truth!}	; unquoted
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Emerson."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek the spiritual path."
         "I am grievously wounded."
         {Spiritual is stronger than any material force.}
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am Santayana."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I carry the light within my heart."
         "I am alive."
         "The light of philosophy."
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Presto."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I cast great big spells!"
         "Superior!"
         "I can cast: jinx, kill, and view!"
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Granted."
         "Bye."
+        "Oh Thank thee! I shall never forget thy kindness!"
+        "I cannot join thee."
         "I beg for food and money."
         "I am not at all well."
         "To eat!"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Mitre."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am reading the wizard's journal."
         "I am fine."
         "It tells of the white stone."
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Buddha."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I teach."
         "I am well."
         {When one has pity on all living creatures then is one noble.}
@@ -114,6 +128,8 @@ context [
     lines: [
         "I am Michaelangelo."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I strive along the path."
         "Art thou far along the path?"
         "This is good."
@@ -130,6 +146,8 @@ context [
     lines: [
         "I am Romasco."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a teacher, I enrich young minds."
         "I am fine."
         "I teach of the abyss."
@@ -146,6 +164,8 @@ context [
     lines: [
         "I am Carlyle."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I write magic."
         "Dost thou believe in magic?"
         "Magic missiles need but 1 part ash!"
@@ -162,6 +182,8 @@ context [
     lines: [
         "I am Dickens."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I write stories."
         "O.K."
         "Stories are good for the spirit!"
@@ -178,6 +200,8 @@ context [
     lines: [
         "I am White."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I quest."
         "Excellent!"
         "Many quests are very dangerous!"
@@ -194,6 +218,8 @@ context [
     lines: [
         "I am the Ankh of Spirituality."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I keep the secret of the rune."
         "Strong."
         "Mantra?"
@@ -210,6 +236,8 @@ context [
     lines: [
         "I am Ambule."
         "Bye."
+        "Oh Thank thee! I shall never forget thy kindness!"
+        "I cannot join thee."
         "I beg for but for a single gold piece!"
         "So-so."
         "Oh, please... Oh, please..."
@@ -226,6 +254,8 @@ context [
     lines: [
         "I am Barren."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "No job."
         "O.K."
         "I know it well, it is 'OM'."
@@ -238,6 +268,8 @@ context [
     lines: [
         "I am Isaac."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I haunt this inn!"
         "I am many years dead."
         "The quest is not complete!"

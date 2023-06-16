@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Dupré."	; accent
         "Bye."
+        "Keep it!"
+        "I am honored to join thee!"
         "I am towne leader."
         "Very well."
         "'tis an honor!"
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Virgil."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I create magical fields."
         "I am well."
         "Poison is my favorite."
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am Publius."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I drink a toast to honor!"
         "Tired."
         "What is left when honor is lost?"
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Skitle."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I hail from dungeon deep."
         "What do you mean?"
         "I come from the dungeon 'Shame'!"
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Sailor Sam."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I sail the the seas of Britannia!"
         "A bit waterlogged."
         "My specialty is navigation!"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Aristotle."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I search for honor."
         "I am well."
         {Dignity consists not in possessing honors, but in deserving them.}
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Terrin."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I ran from the bull!"
         "Scared!"
         "A big one, with long, pointy horns!"
@@ -117,6 +131,8 @@ context [
     lines: [
         "I am Rigmore."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am the welcomer."
         "Extra good."
         "Yes, welcome to Trinsic city of honor!"
@@ -133,6 +149,8 @@ context [
     lines: [
         "I am Winthrop."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "A trade in rumors."
         "A bit ragged out."
         "About what?"
@@ -149,6 +167,8 @@ context [
     lines: [
         "I am Swindrik."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I cast spells."
         "Fully healed."
         "Spells of great power."
@@ -165,6 +185,8 @@ context [
     lines: [
         "I am Kline."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek entry to the shrine of honor!"
         {Know ye the two requirements to enter and use the shrine?}
         "What are they?"
@@ -181,6 +203,8 @@ context [
     lines: [
         "I am Lexington."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am warlord of Trinsic."
         "Superb."
         "I have solved many quests!"
@@ -197,6 +221,8 @@ context [
     lines: [
         "I am Dergin."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek a place to rest."
         "Tired."
         "I have quested long and hard."
@@ -213,6 +239,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "We guard the gate."
         "Excellent."
         "Into and out of Trinsic."
@@ -229,6 +257,8 @@ context [
     lines: [
         "I am Quix."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek the skeleton!"
         "Adequate."
         "It knows a great secret."
@@ -245,6 +275,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "To guard."
         "Guarded."
         "Guarding."

@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Wilmoore."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I am the chief guard in the village of Paws!}
         "Excellent."
         {Paws is a great village and we keep it safe!}
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Francesca."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am the stable hand."
         "Right good."
         "I saw the way ya dealt with ol' Red Eye!"
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am Sven."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I'm a lumberjack, ya."
         "Fine, thanks."
         {Wit' my axe, I can chop'm down quick, ya.}
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Zair the Wise."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I've been near the codex!"
         "Well."
         "Its secrets are boundless!"
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Sal."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am the barmaid I serve the ale!"
         "Stronger every day!"
         "We have the finest brew in Britannia!"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Jingles."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek the wisdom of magic."
         "Fine."
         "My master knows the gate travel spell!"
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Sir Hobie."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I serve Lord British."
         "Tired and hungry but always faithful."
         "I quest always for Britannia!"
@@ -117,6 +131,8 @@ context [
     lines: [
         "I am Damsel."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am here to buy food."
         "A bit hungry."
         {Yes, I hear they have the best rations here.}
@@ -133,6 +149,8 @@ context [
     lines: [
         "I am Wheatpin."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I just sit here."
         "Fine."
         "Art thou looking for something?"
@@ -148,6 +166,8 @@ context [
     lines: [
         "I am Barren."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I travel the land."
         "I am well."
         "Britannia."
@@ -164,6 +184,8 @@ context [
     lines: [
         "I am Pix."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "What's a job?"
         "Good, thanks."
         "And thee?"
@@ -178,6 +200,8 @@ context [
     lines: [
         "I am Sir Simon."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am the keeper."
         "I am fine."
         "Of what I cannot say!"
@@ -194,6 +218,8 @@ context [
     lines: [
         "I am Lady Tessa."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am the keeper."
         "Well."
         "I cannot say."
@@ -210,6 +236,8 @@ context [
     lines: [
         "I am Asemly."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am here to serve thee."
         "Jolly good."
         "Well, I can dance and sing!"
@@ -226,6 +254,8 @@ context [
     lines: [
         "I am Little Jon."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I sing of Britannia."
         "Quite well indeed!"
         {Britannia is a land so fair, to other lands I would not dare!}
@@ -242,6 +272,8 @@ context [
     lines: [
         "I am Smith."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Oh, not much."
         "Good, good."
     ]

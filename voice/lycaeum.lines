@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Robert Frasier."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I rule this province."
         "Very well."
         "My Lady Beth can tell thee more!"
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Beth Frasier."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I rule with my Lord."
         "Well."
         "This province."
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {Guard the gate, guard the baron, guard the baroness, watch the towers....}
         "Very sleepy."
         "I have been here for hours!"
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Palamar."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I am an old wizard, but have much to show!}
         "My bones ache but my mind is sharp!"
         "Here in my telescope!"
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Father Antos."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I hold great knowledge."
         "Old and frail, I've seen many quests!"
         "Art thou on the quest?"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Jon."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I guard the throne room."
         "Bit tired."
         "Throne of truth!"
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Scatu."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I advise."
         "Well!"
         {Thou would be well advised to visit the Seer often!}
@@ -117,6 +131,8 @@ context [
     lines: [
         "I am Estro."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Research."
         "Why I am fine, you too I hope."
         "I am looking for the book of justice!"
@@ -133,6 +149,8 @@ context [
     lines: [
         "I am Tymus."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "To welcome thee!"
         "Very well, thanks!"
         {Yes, welcome to the Lycaeum, the keep of truth!}
@@ -149,6 +167,8 @@ context [
     lines: [
         "I am a truth seeker.."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek to know truth."
         "I am in a meditative state."
         "The principle upon which I meditate."
@@ -162,6 +182,8 @@ context [
     lines: [
         "I am a fighter."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "None now!"
         "My wounds are grievous!"
         "No more!"
@@ -178,6 +200,8 @@ context [
     lines: [
         "I am Lord Terence."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am the librarian."
         "I am well."
         {Herein is the largest store of knowledge in Britannia except the codex!}
@@ -194,6 +218,8 @@ context [
     lines: [
         "I am Zajac."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "To entertain!"
         "Unhappy."
         "Ah, not now."
@@ -210,6 +236,8 @@ context [
     lines: [
         "I am Catriona."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "To watch the treasures."
         "Very good."
         "The treasures are of great value!"
@@ -220,12 +248,14 @@ context [
     ]
 ]
 context [
-    name: "lyc14-Nigel,_at_thy_service."
+    name: "lyc14-Nigel"
     voice: 'tts_models/en/vctk/vits/p231
     pre-encode: none
     lines: [
         "I am Nigel, at thy service.."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I teach magical spells."
         "Good enough."
         "I have a specialty!"
@@ -242,6 +272,8 @@ context [
     lines: [
         "I am Shylock the Meek."
         "Bye."
+        "Oh Thank thee! I shall never forget thy kindness!"
+        "I cannot join thee."
         "I sit and beg oh... please..."
         "I am cold and sick! oh... please..."
         "Wilt thou help me? Oh... please..."

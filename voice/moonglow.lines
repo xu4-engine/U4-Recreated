@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Mariah."
         "Bye."
+        "Keep it!"
+        "I am honored to join thee!"
         "I seek adventure!"
         "Quite good."
         "Yes, I hope to go on a great quest!"
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Tracie."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a writer."
         {I feel fine... if I could just quit smoking!}
         "It's low paid, but glamorous!"
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am Cromwell."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I speak of the virtues of honesty!"
         "Well indeed."
         {A few honest men are better than numbers!}
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Rebelias."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I live an honest life."
         "I've been better."
         {Speak the truth and shame the evil forces!}
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Christen."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am your friend."
         "Feeling good."
         "Honest friends are few!"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Patric the Humble Shepherd."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am shepherd."
         "Pretty good."
         {Humility is not derived from the direct combination of truth, love or courage.}
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Shazom."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I am apprentice to the great wizard Nigel!}
         "I will soon die."
         {I will soon need to use the spell he calls 'recall'.}
@@ -117,6 +131,8 @@ context [
     lines: [
         "I am Shakespeare."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I create tales of honesty."
         "Getting on."
         {Remember, there is no terror in threats for I am strong in honesty!}
@@ -133,6 +149,8 @@ context [
     lines: [
         "I am Browning."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I strive to live an honest life!"
         "Been better."
         "An honest soul need remember no lies!"
@@ -149,6 +167,8 @@ context [
     lines: [
         "I am Cosima."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am an alchemist."
         "Tired, so tired."
         "I know how best to mix reagents!"
@@ -165,6 +185,8 @@ context [
     lines: [
         "I am Daranor."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I move the sun!"
         "Health?"
         "The moons are my enemies!"
@@ -181,6 +203,8 @@ context [
     lines: [
         "I am Inoo."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a fortune teller, I read palms."
         "I predict I will be fine today!"
         "Palms tell fortunes!"
@@ -197,6 +221,8 @@ context [
     lines: [
         "I am Calabrini."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I bear greetings from the fair city of Moonglow.}
         "Dost thou seek an inn or healing?"
         "Which?"
@@ -213,6 +239,8 @@ context [
     lines: [
         "I am Dekker."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I earn an honest living, jesting!"
         "Very good."
         "Honest labor bears a lovely face!"
@@ -229,6 +257,8 @@ context [
     lines: [
         "I am William."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Oh, not much."
         "Pretty good."
         {It's a peanut butter and grape jelly on lightly toasted bread!}
@@ -245,6 +275,8 @@ context [
     lines: [
         "I am Tyrone."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I used to search for the blue stone."
         "Fading."
         {The stone of honesty is found on an altar in the dungeon of Deceit.}

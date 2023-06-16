@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Lord Robert."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I rule this province."
         "Very well."
         "My Lady Marcy can tell thee more!"
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Lady Marcy."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I rule with my Lord."
         "Well."
         "This province."
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am Suzanna."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a lady in waiting."
         "Overworked!"
         "I serve Marcy."
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Life.."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I resonate thoughts."
         "I exist."
         "What are thy thoughts?"
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am the pass guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I guard the passages."
         "Fine."
         "There is no danger."
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am a gate guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "A gate guard."
         "Top notch."
         "To the abbey."
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Derek the Bard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a bard, I sing songs."
         "Pretty good."
         "Oh, all types."
@@ -117,6 +131,8 @@ context [
     lines: [
         "I am Chinup."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I welcome thee unto the Abbey!"
         "Art thou here in search of love?"
         "Perhaps then the oak grove!"
@@ -133,6 +149,8 @@ context [
     lines: [
         "I am Diane."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I counsel those who enter the grove."
         "Good."
         {Herein thou may find insights into love, within thyself or the others here in the grove.}
@@ -149,6 +167,8 @@ context [
     lines: [
         "I am Benjamin."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I relate love and compassion."
         "Fine."
         "Art thou well?"
@@ -165,6 +185,8 @@ context [
     lines: [
         "I am Deirdre."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I ponder love and justice."
         "Fine."
         "Art thou?"
@@ -181,6 +203,8 @@ context [
     lines: [
         "I am Thomas."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I am thinking of love's part in sacrifice.}
         "Fine."
         "Thyself?"
@@ -197,6 +221,8 @@ context [
     lines: [
         "I am Lastro."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I follow the spiritual path."
         "Most well."
         "And thee?"
@@ -213,6 +239,8 @@ context [
     lines: [
         "I am Humlock."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek salvation."
         "Not so good."
         "The...ankh... spoke to me!"
@@ -229,6 +257,8 @@ context [
     lines: [
         "I am Malcor."	; Malchor
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I solve quests."
         "Just now fully healed!"
         "My last quest took me near Spiritwood."
@@ -245,6 +275,8 @@ context [
     lines: [
         "I am Brother Antos."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I hold great wisdom."
         "I am getting old and frail."
         "What dost thou ask of me?"

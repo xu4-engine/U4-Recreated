@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Geoffrey."
         "Bye."
+        "Keep it!"
+        "I am honored to join thee!"
         "I lead into battle!"
         "I am good and strong!"
         "A great warrior is a valiant warrior!"
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Lord Robert."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I battle for Lord British!"
         "Are you a valiant warrior?"
         "Thou dost deserve the rune, ask Nostro!"
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am Lady Donna."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I watch over my sheep."
         "Fine, all but the lump in my stomach."
         "It's no fun to be pregnant."
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Bengrod."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I search the dungeons!"
         "Poor."
         "I fell in the dungeon 'Destard'."
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Sir William."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I search for valiant fighters!"
         "Art thou valiant?"
         "Strive ye to defeat all evil!"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Sir Hrothgar."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I fight for valor!"
         "Excellent."
         {The valiant soul fears not its own visage!}
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "We guard the gates and these passages!"
         "Well."
         "The gates of Jhelom."
@@ -114,6 +128,8 @@ context [
     lines: [
         "I am Aesop."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I search for valor!"
         "Well enough."
         {I find that 'tis easy to be brave from a safe distance!}
@@ -130,6 +146,8 @@ context [
     lines: [
         "I am Gravnor."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I search the dungeons."
         "So so."
         "I seek the red stone."
@@ -146,6 +164,8 @@ context [
     lines: [
         "I am Senora."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am locked up in this tower."
         "Well enough."
         "I am being punished for my crimes."
@@ -162,6 +182,8 @@ context [
     lines: [
         "I am Nostro."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I built these passages and they walled me in!}
         "Very near death!"
         "This passage runs around the city!"
@@ -178,6 +200,8 @@ context [
     lines: [
         "I am Luke."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek the inner light!"
         "Quite well."
         {I come from Skara Brae and am on my way to Yew.}
@@ -194,6 +218,8 @@ context [
     lines: [
         "I am Max."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am the housekeeper."
         "Good!"
         "I clean the rooms."
@@ -210,6 +236,8 @@ context [
     lines: [
         "I am X."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek the stone."
         "O.K."
         "The red stone."
@@ -226,6 +254,8 @@ context [
     lines: [
         "I am Slithe."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I fight battles!"
         "Only minor wounds!"
         {True valor is seen not in the force of arms, but in the force of will!}
@@ -242,6 +272,8 @@ context [
     lines: [
         "I am Timrod."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I fight with valor!"
         "Couldn't be better!"
         {There is no holier spot of ground than where defeated valor lies.}

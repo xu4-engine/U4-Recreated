@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Iolo."
         "Bye."
+        "Keep it!"
+        "I am honored to join thee!"
         "I play for the people."
         "Good."
         {I play my lute and receive the good wishes of the people.}
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Gweno."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I dance and sing for the children."
         "Very well."
         "Dance is good for the soul."
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am a child."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Sing-in."	; "Singing."
         "Very happy."
         "The song goes: Ho eyo he hum!"
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I guard the bridge."
         "Good."
         {Across the bridge our people dance and sing!}
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Pepper."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a fighting bard."
         "Healthy."
         "Bards know many things."
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Thevel."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I search for the mystery of the magic orbs.}
         "Fairly well."
         "A one-handed beggar knows their secrets!"
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Joe."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {Yo ho ho... and a bottle... of rum... hic...}	; Edit effect
         "And a bottle of..."
         {The yellow stone is in the dungeon Despise...}
@@ -117,6 +131,8 @@ context [
     lines: [
         "I am Cricket."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Shhh, I'm playing!"	; Edit effect
         "Shhh."		; Effect
         "Yes, shhh!"	; Edit effect
@@ -133,6 +149,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a guard of course!"
         "I am fully healed."
         "We guards have a lot of compassion."
@@ -149,6 +167,8 @@ context [
     lines: [
         "I am a child."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am learning compassion."
         "O.K."
         {The solution to ones problems often lies in solving others!}
@@ -165,6 +185,8 @@ context [
     lines: [
         "I am Shalimar."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I watch over the children."
         "Good."
         {It takes a good deal of compassion to deal with children!}
@@ -181,6 +203,8 @@ context [
     lines: [
         "I am Sebastian."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I know a terrible secret!"
         "Not so well."
         {Mondain's influence has not left the world!}
@@ -197,6 +221,8 @@ context [
     lines: [
         "I am Shapero."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am looking for Julio."
         "All right."
         "He knows the true nature of compassion."
@@ -213,6 +239,8 @@ context [
     lines: [
         "I am Julio."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek the true nature of things!"
         "Solemn."
         "All things have a true nature!"
@@ -229,6 +257,8 @@ context [
     lines: [
         "I am Mentor."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I escaped Magincia!"
         "I am well."
         "Pride was too great in Magincia!"
@@ -245,6 +275,8 @@ context [
     lines: [
         "I am Sprite."
         "Bye."
+        "Oh Thank thee! I shall never forget thy kindness!"
+        "I cannot join thee."
         "I have no job so now I beg!"
         "I fear I shall die of starvation!"
         "I have not eaten in a week!"

@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Roofus."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "We guard the bridge slime!"
         "What's it to ya scumpuppy!"
         "This bridge ya stupid jerk!"
@@ -20,6 +22,8 @@ context [
     lines: [
         "I am Rankbreath."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a guard."
         "Very hungry!"
         "I guard the city!"
@@ -36,6 +40,8 @@ context [
     lines: [
         "I am Sailor."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a sailor!"
         "Salty."
         "Oh, a sailor's life is the life for me,"
@@ -52,6 +58,8 @@ context [
     lines: [
         "I am Silver John."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I'm a pirate matey!"
         "Good enough, eh!"
         "We raid the coasts of Britannia, fun eh!"
@@ -68,6 +76,8 @@ context [
     lines: [
         "I am Slysam."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "What's it to thee?"
         "As good as I need be!"
         "Yea, and clever too."
@@ -84,6 +94,8 @@ context [
     lines: [
         "I am Ragnar."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I travel."
         "O.K."
         "The lands of Britannia."
@@ -100,6 +112,8 @@ context [
     lines: [
         "I am Seanna."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a sorceress."
         "My dear friend, may I help you?"
         "How about with thy magic?"
@@ -116,6 +130,8 @@ context [
     lines: [
         "I am Jeremy James Scirlock."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "At thy service!"
         "Very well!"
         "How about information?"
@@ -132,6 +148,8 @@ context [
     lines: [
         "I am Starlight."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I use black magic!"
         "Dark indeed."
         "I cast powerful magic missile spells."
@@ -148,6 +166,8 @@ context [
     lines: [
         "I am Brigant."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Aw, buzz off!"
         "Shove it!"
         "Did thou hear me?"
@@ -163,6 +183,8 @@ context [
     lines: [
         "I am Boris."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I smuggle black market items."
         "Good'n smelly."
         {Magic keys, magic gems, that sort of thing.}
@@ -178,6 +200,8 @@ context [
     lines: [
         "I am Ignap."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I must warn thee!"
         "Adequate."
         {To step into those woods will seal thy doom!}
@@ -194,6 +218,8 @@ context [
     lines: [
         "I am Green Beard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I'm buying armour for my crew!"
         "Jolly good mate!"
         "I hope to get some magical plate!"
@@ -210,6 +236,8 @@ context [
     lines: [
         "I am Marsor."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I sell wine!"
         "Great!"
         "I have some good vintages."
@@ -226,6 +254,8 @@ context [
     lines: [
         "I am Dancek."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a tinker by trade."
         "Jolly good, thanks."
         "I create projectile machinery."
@@ -242,6 +272,8 @@ context [
     lines: [
         "I am Sniflet."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am hiding."
         "O.K. for now."
         "I know something others want!"

@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Julia."
         "Bye."
+        "Keep it!"
+        "I am honored to join thee!"
         "I care for the poor."
         "Well."
         {Self preservation is the first law of nature; self sacrifice the highest rule of grace.}
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Zircon."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I forge weapons."
         "Quite well."
         "I make the very best!"
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am Bob the Beggar."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I have none, help me."
         "I am very sick, help me!"
         "I need money to cure my sickness."
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Linda Sue."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I'm an undernourished beggar girl."
         "I am hungry."
         "I have not eaten in days."
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Gimble."
         "Bye."
+        "Oh Thank thee! I shall never forget thy kindness!"
+        "I cannot join thee."
         "I shall die soon."
         "I am barely conscious."
         "I suffer from a tsetse byte!"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Jude."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "To redeem myself!"
         "Ailing."
         "I will not speak of my sin!"
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Alkerion."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a peasant, I hear many things."
         "I am old and weak."
         "What does thou wish to know?"
@@ -117,6 +131,8 @@ context [
     lines: [
         "I am Mike Ward."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am trying to get a room."
         "Well enough."
         "I have travelled clear from Skara Bray."	; "Brae."
@@ -133,6 +149,8 @@ context [
     lines: [
         "I am Alex."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I give out flowers. Here you are!"
         "Fine, thanks."
         {The way I figure it, if thou art kind to others they will have reason to be kind in return!}
@@ -149,6 +167,8 @@ context [
     lines: [
         "I am Shentis."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I welcome thee unto Minoc, city of sacrifice!}
         "OK."
         "Self-sacrifice is a needed virtue!"
@@ -165,6 +185,8 @@ context [
     lines: [
         "I am Singsong."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I sing songs!"
         "Very well indeed!"
         "I sing songs!"
@@ -181,6 +203,8 @@ context [
     lines: [
         "I am Damon."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I stand here and think."
         "Fine."
         "Oh, just about things."
@@ -197,6 +221,8 @@ context [
     lines: [
         "I am Mischief."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "This and that."
         "O.K. I guess."
         "And that..."
@@ -213,6 +239,8 @@ context [
     lines: [
         "I am Azure."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I carve runes."
         "O.K."
         {I carve runes for passage into the shrines!}
@@ -229,6 +257,8 @@ context [
     lines: [
         "I am Merida."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I seek the wisdom of the shrine of sacrifice.}
         "Been better."
         "But first I need the mantra!"
@@ -245,6 +275,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "To guard of course."
         "Quite."
         {I often wonder if I will ever have to give my life in the line of duty.}

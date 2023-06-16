@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Allen."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I know how to enter the abyss!"
         "I am fine."
         {The abyss may only be approached by ship!}
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Frontis."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {Welcome to Cove, the hidden city of wisdom.}
         "I am well."
         "Art thou well?"
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am Sloven."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a recluse."
         "I am well."
         "I have withdrawn from society."
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Mentorian."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I study the magical arts."
         "Well indeed."
         "There is truth in magic!"
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am the ankh."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I resonate with thoughts."
         "Dost thou seek help?"
         "What are thy thoughts?"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Paul."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I play of love."
         "Wilt thou listen?"
         "About love."
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Linda."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I sing of the children."
         "Fine."
         {All round the world, little children being born to the world.}
@@ -117,6 +131,8 @@ context [
     lines: [
         "I am Merlin."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I use magic."
         "Dost thou study magic?"
         "Best of luck with thy studies!"
@@ -133,6 +149,8 @@ context [
     lines: [
         "I am Draconian."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I teach the relation."
         "Knew ye this?"
         "Very good!"
@@ -148,6 +166,8 @@ context [
     lines: [
         "I am Blissful."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I know much of the codex!"
         "I am doing well."
         {The shrine ankh knows how to enter the chamber of the codex!}
@@ -161,6 +181,8 @@ context [
     lines: [
         "I am Rabindranath tagore."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I speak of love."
         {Dost thou seek to carry love in thy heart?}
         "Thou art a good soul."
@@ -177,6 +199,8 @@ context [
     lines: [
         "I am Brother Zair."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I sit and watch the river."
         "I am well."
         "It flows endlessly."
@@ -193,6 +217,8 @@ context [
     lines: [
         "I am Spellbind."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I know of the codex."
         "Well indeed."
         {One must know the combination of the three principles of virtue!}
@@ -206,6 +232,8 @@ context [
     lines: [
         "I am Shaman."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I study the 'one' thing that is the secret to the codex!}
         "Quite well."
         "I study of the codex!"
@@ -219,6 +247,8 @@ context [
     lines: [
         "I am Charm."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I ponder the key to the axiom."
         "Well enough."
         "To the axiom."
@@ -235,6 +265,8 @@ context [
     lines: [
         "I am Circe."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I teach of the axiom!"
         "Well."
         {The whole of the axiom is greater than all its parts!}

@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Katrina."
         "Bye."
+        "Keep it!"
+        "I am honored to join thee!"
         "A survivor."
         "Well."
         "Magincia was destroyed by its pride."
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Ghostly."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I haunt Magincia."
         "Undead in search of peace."
         {Peace I can never find, forever banished unto the realm of earthbound spirits.}
@@ -34,6 +38,8 @@ context [
     lines: [
         "I am Skullface."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a nobleman of great birth."
         "Most superb."
         {Me and my brother are the last two of the great Meridid family.}
@@ -49,6 +55,8 @@ context [
     lines: [
         "I am Casperin."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "To haunt this shop."
         "Feeling a bit translucent."
         "A lot of haunting goes on round here."
@@ -65,6 +73,8 @@ context [
     lines: [
         "I am Faultless."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Oh, I just hang around!"
         "Been better."
         "I was hung for my sin of pride!"
@@ -81,6 +91,8 @@ context [
     lines: [
         "I am Heywood."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Haunt eternally."
         "As well as can be expected."
         "Pride goeth before, shame cometh after!"
@@ -97,6 +109,8 @@ context [
     lines: [
         "I am Slim."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I rattle my bones."
         "A bit on the thin side."
         {I did value myself far too greatly, that pride was my downfall.}
@@ -113,6 +127,8 @@ context [
     lines: [
         "I am Banter."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I once held the silver horn."
         "A bit bony."
         {The silver horn must be used to pass the daemon guard of the shrine.}
@@ -129,6 +145,8 @@ context [
     lines: [
         "I am Demitry."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I rattle my bones."
         "'bout the same as yesterday."
         "Bones, them bones, them dry bones..."
@@ -145,6 +163,8 @@ context [
     lines: [
         "I am Wierdrum."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I haunt, and I haunt, and I haunt!"
         "Haunted."
         {A haunting job takes more than a lifetime, it takes forever!}
@@ -158,6 +178,8 @@ context [
     lines: [
         "I am Boozer."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I was once a powerful merchant!"
         "Hic..."
         {My wealth was boundless, I held great power!}
@@ -174,6 +196,8 @@ context [
     lines: [
         "I am Bulbous."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I run this shop."
         "Couldn't be better."
         "Why, the food shop of course."
@@ -190,6 +214,8 @@ context [
     lines: [
         "I am Splot."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I regret."
         "Been better."
         {I was proud, strip thyself of conceits, only the humble are pure!}
@@ -206,6 +232,8 @@ context [
     lines: [
         "I am Ruskin."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I now try to understand humility."
         "Not well."
         {The first test of a great soul is humility!}
@@ -222,6 +250,8 @@ context [
     lines: [
         "I am Nate."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I bring death to all life in Magincia!"
         "Bloodthirsty!"
         {Those who seek the black stone need ask at the pub in Britain!}
@@ -235,6 +265,8 @@ context [
     lines: [
         "I am Virtue bane."		; "Virtuebane."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I welcome thee to Magincia! Proud city of the high seas!}
         "Devilish!"
         {Magincia fell unto the realm of darkness for the foundation of their virtue was ill-placed in pride!}

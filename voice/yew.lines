@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Jaana."
         "Bye."
+        "Keep it!"
+        "I am honored to join thee!"
         "I strive to understand justice."
         "I am well."
         "True justice satisfies all, false none."
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "To guard the court."
         "Yes."
         {A good life is inspired by love and guided by knowledge.}
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "We guard the jail."
         "Hast thou come to turn thyself in?"
         {In which cell dost thou belong, felonies or misdemeanors.}
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Calumny."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I make spells."
         "Well."
         "I invented quickness!"
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Talfourd."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I decide justice."
         "Well."
         "Justice is truth in action!"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Flamis."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I hold the fabric of the true nature of justice.}
         "Bright."
         {The virtue of justice draws its nature from the principles of truth and love!}
@@ -101,6 +113,8 @@ context [
     lines: [
         "I am Silent."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Beh... Beh..."
         "Beh... Beh..."
         "Beh... Beh..."
@@ -113,6 +127,8 @@ context [
     lines: [
         "I am Dewp."	; "Dwp."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Welcome thee to Yew city of justice!"
         "I am well."
         {Love no one more than the truth, for justice seeks no favors. Temper thy justice with understanding.}
@@ -123,12 +139,14 @@ context [
     ]
 ]
 context [
-    name: "yew08-a_poor_beggar."
+    name: "yew08-a_poor_beggar"
     voice: 'tts_models/en/vctk/vits/p313
     pre-encode: none
     lines: [
-        "I am a poor beggar.."
+        "I am a poor beggar."
         "Bye."
+        "Oh Thank thee! I shall never forget thy kindness!"
+        "I cannot join thee."
         "I have sinned."
         "Well treated."
         {I have gotten chests in the townes and killed non-evil creatures.}
@@ -145,6 +163,8 @@ context [
     lines: [
         "I am Vorpal."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I eat people who bug me!"
         "Hungry!"
         "That's me alright!"
@@ -161,6 +181,8 @@ context [
     lines: [
         "I am a ranger."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I search for a home."
         "O.K."
         "On the range!"
@@ -177,6 +199,8 @@ context [
     lines: [
         "I am Short Round."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I work for Jones."
         "I am fine."
         "I think Indy's on a quest!"	; "Indi's"
@@ -193,6 +217,8 @@ context [
     lines: [
         "I am Frida."
         "Bye."
+        "Oh Thank thee! I shall never forget thy kindness!"
+        "I cannot join thee."
         "See my poor baby I beg for him."
         "I am starving and sick."
         "Oh, no, my baby is dying!"
@@ -209,6 +235,8 @@ context [
     lines: [
         "I am Pinrod."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I take council."
         "Fine."
         "On justice."
@@ -225,6 +253,8 @@ context [
     lines: [
         "I am a guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {To preserve the peace and insure justice!}
         "O.K."
         {A good life is inspired by love and guided by truth!}
@@ -241,6 +271,8 @@ context [
     lines: [
         "I am Druid."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek justice."
         "Well."
         "Learn at the shrine!"

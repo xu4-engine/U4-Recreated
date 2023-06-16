@@ -5,6 +5,8 @@ context [
     lines: [
         "I am Twin Gates."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "We welcome thee to Vesper."
         "Well."
         "Yes, Vesper is a fair village."
@@ -21,6 +23,8 @@ context [
     lines: [
         "I am Guard."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Ug, me tough!"
         "Ug, me tough!"
         "Ug, me tough!"
@@ -37,6 +41,8 @@ context [
     lines: [
         "I am Servile."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I can help thee!"
         "Well for now."
         {I know of the skull of Mondain the Wizard!}
@@ -53,6 +59,8 @@ context [
     lines: [
         "I am Traveling Dan."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Traveling dan, the tinker man."
         "I am fine, thank thee."
         {I am here to repair goods at the guild shop.}
@@ -69,6 +77,8 @@ context [
     lines: [
         "I am Balthasar."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a serf."
         "I'm pooped."
         "Serfs work hard for little pay!"
@@ -85,6 +95,8 @@ context [
     lines: [
         "I am Plain."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek humility."
         "I am fully healed."
         {When the 3 principles of virtue combine in eight ways pride has no virtue!}
@@ -98,6 +110,8 @@ context [
     lines: [
         "I am Simple."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I seek the shrine."
         "I am fine."
         "The shrine of humility!"
@@ -114,6 +128,8 @@ context [
     lines: [
         "I am Gem."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I do humble works."
         "I am doing well."
         "I can help thee with the mantra!"
@@ -130,6 +146,8 @@ context [
     lines: [
         "I am Joseph."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am but a humble shepherd."
         "I am well."
         {I am on a pilgrimage unto the shrine of humility!}
@@ -146,6 +164,8 @@ context [
     lines: [
         "I am Friday."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I shall warn thee against taking this gold!}
         "Dost thou intend to take it?"
         {That would not reflect well upon thy virtues!}
@@ -162,6 +182,8 @@ context [
     lines: [
         "I am Randal."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I teach of the shrines."
         "I am well."
         {One MUST visit each shrine for 1, 2 & 3 cycles each for thy paths to be clear!}
@@ -177,6 +199,8 @@ context [
     lines: [
         "I am Dirgen."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I give wise counsel."
         "Well."
         {Strive ye to know and develop the virtue within thee.}
@@ -193,6 +217,8 @@ context [
     lines: [
         "I am Shazbot."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "Thou thinks I'm funny!"
         "Don't thou?"
         "Well good, I try to be!"
@@ -209,6 +235,8 @@ context [
     lines: [
         "I am Flatbush."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am an apprentice mage!"
         "I am very powerful!"
         "I am the Calumny's favorite!"
@@ -225,6 +253,8 @@ context [
     lines: [
         "I am Corkrin."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         {I travel these fair lands to spread the virtues!}
         "I am fully healed!"
         {To know thy progress on the paths of virtue one >must< visit the Seer Hawkwind often!}
@@ -240,6 +270,8 @@ context [
     lines: [
         "I am Dyka."
         "Bye."
+        "Keep it!"
+        "I cannot join thee."
         "I am a thief, I like to borrow!"
         "I am very well!"
         "My favorite things to borrow are horses!"
