@@ -5,7 +5,7 @@ module [
     }}
     author:  "xu4 team"
     version: "0.1"
-    rules:   "Ultima-IV/1.1"
+    rules:   "Ultima-IV/1.3"
 ]
 
 /*
