@@ -54,5 +54,10 @@ music: [
     29 parts %vendorsB.ogg
 ]
 
+sound: [
+    path %sound
+    11 %sleep.rfx
+]
+
 include %graphics.b
 include %maps.b
