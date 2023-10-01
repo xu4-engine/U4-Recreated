@@ -52,6 +52,7 @@ music: [
     27 parts %cove.ogg
     28 parts %vendors.ogg
     29 parts %vendorsB.ogg
+    30 parts %spells.ogg
 ]
 
 sound: [

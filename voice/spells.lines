@@ -1,0 +1,57 @@
+(invokations: [
+    "Levate!" 		; MW "Arishai!"
+    "Bohem nur fosul!"
+    "Cromish!"
+    "Dutari ellum volanus orm!"
+    "Ellum ornani!"
+    "Fust nur rhishi!"
+    "Gos nogrim ahm! Hasuum tua bon volaris justi!"
+    "Hylira sonith!"
+    "Immus avo nur rhishi!"
+    "Justi mulvus, tua dok moor vah!"
+    "Kurm mulvus, tua dok assai!"
+    "Lusil!"
+    "Munesi!"
+    "Nostra volaris mon vah!"
+    "Appar Unem!" 	; MW "Origul!"
+    "Purlai num torga!"
+    "Quos ellum nur moor!"
+    "Rhilum tua bol omani! Acrus lo vah, torga mus!"
+    "Du ermay lan somm!"	; MW Duerme "Somm haldarum fosul!"
+    "Thorum rhishi amanus, nogrim ahm gano!"
+    "Umma mulvis gano!"
+    "Volaris sum bessah!"
+    "Wurnah orvisi!"
+    "Xur homm fosul!"
+    "Yan Trammel, yan Felucca!"	; MW "Yas orvisi!"
+    "Baja!"		; MW "Zunish!"
+])
+context [
+    name: "spells00-female"
+    voice: 'tts_models/en/vctk/vits/p250
+    pre-encode: "echos 0.8 0.8 30 0.5"
+    lines: invokations
+]
+context [
+    name: "spells01-male"
+    voice: 'tts_models/en/vctk/vits/p241    ; Iolo
+    pre-encode: "pitch -100 echo 0.8 0.8 30 0.5"
+    lines: invokations
+]
+/*
+context [
+    name: "spells02-monster"
+    voice: 'tts_models/en/vctk/vits/p313
+    pre-encode: "pitch -100 echo 0.8 0.88 30 0.4 sinc -1k"
+   ;pre-encode: "pitch -100 lowpass 800 echo 0.8 0.88 30 0.4"
+   ;pre-encode: "tempo -s 1.1 chorus 0.7 0.9 55 0.4 0.25 2 -t"
+    lines: [
+       "Ohhm volaris justi!"
+       "Thorum rhishi!"
+       "Somm haldarum!"
+       "Volaris sum!"
+       "Hasuum nogrim ahm!"
+       "Rhilum tua dok!"
+    ]
+]
+*/
