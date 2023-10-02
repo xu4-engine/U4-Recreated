@@ -58,6 +58,32 @@ music: [
 sound: [
     path %sound
     11 %sleep.rfx
+    35 %spell_awaken.rfx
+       %spell_blink.rfx
+       %spell_cure.rfx
+       %spell_dispel.rfx
+       %spell_energy.rfx
+       %spell_fireball.rfx
+       %spell_gate.rfx
+       %spell_heal.rfx
+       %spell_ice.rfx
+       %spell_jinx.rfx
+       %spell_kill.rfx
+       %spell_light.rfx
+       %spell_missile.rfx
+       %spell_negate.rfx
+       %spell_open.rfx
+       %spell_protect.rfx
+       %spell_quickness.rfx
+       %spell_resurrect.rfx
+       %spell_sleep.rfx
+       %spell_tremor.rfx
+       %spell_undead.rfx
+       %spell_view.rfx
+       %spell_wind.rfx
+       %spell_xit.rfx
+       %spell_yup.rfx
+       %spell_zdown.rfx
 ]
 
 include %graphics.b
