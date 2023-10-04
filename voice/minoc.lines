@@ -41,7 +41,7 @@ context [
     lines: [
         "I am Bob the Beggar."
         "Bye."
-        "Keep it!"
+        "Oh Thank thee! I shall never forget thy kindness!"
         "I cannot join thee."
         "I have none, help me."
         "I am very sick, help me!"
@@ -145,7 +145,7 @@ context [
 context [
     name: "min08-Alex"
     voice: 'tts_models/en/vctk/vits/p253
-    pre-encode: "tempo -s 1.1"
+    pre-encode: "tempo -s 1.1 gain -2 pitch 210"
     lines: [
         "I am Alex."
         "Bye."
@@ -163,7 +163,7 @@ context [
 context [
     name: "min09-Shentis"
     voice: 'tts_models/en/vctk/vits/p374
-    pre-encode: none
+    pre-encode: "pitch -100"
     lines: [
         "I am Shentis."
         "Bye."
