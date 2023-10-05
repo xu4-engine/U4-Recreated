@@ -1,10 +1,12 @@
 module [
     about: {{
-        A stand-alone version of Ultima IV using graphics from the Upgrade
-        & Remastered projects, TMX maps, and speech for major characters.
+        Enhances Ultima IV with graphics from the Upgrade
+        & Remastered projects, unique spell sounds, and
+        speech for NPCs.  Work has begun on replacing the
+        original map & dialog data.
     }}
     author:  "xu4 team"
-    version: "0.1"
+    version: "0.2a"
     rules:   "Ultima-IV/1.3"
 ]
 
