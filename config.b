@@ -6,8 +6,8 @@ module [
         original map & dialog data.
     }}
     author:  "xu4 team"
-    version: "0.2a"
-    rules:   "Ultima-IV/1.3"
+    version: "0.2"
+    rules:   "Ultima-IV/1.4"
 ]
 
 /*
